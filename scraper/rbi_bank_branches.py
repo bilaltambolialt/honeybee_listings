@@ -49,6 +49,8 @@ CITY_ADDRESS_NAMES = {
     "Pune": ("PUNE", "POONA"),
 }
 PIN_RE = re.compile(r"\b(\d{3})\s?\d{3}\b")
+# Payment-system codes registered as "branches" (e.g. "XYZ BANK IMPS") are not places you can visit
+VIRTUAL_BRANCH = re.compile(r"\b(IMPS|RTGS|NEFT|UPI)\b", re.IGNORECASE)
 # A number listed for more than this many branches nationwide is a helpline, not a branch phone
 MAX_BRANCHES_PER_PHONE = 5
 
@@ -111,7 +113,7 @@ def main() -> None:
     rows: list[dict] = []
     for city in CITIES:
         in_city = df["CITY"].str.strip().isin(CITY_NAMES[city])
-        city_df = df[in_city & df["ADDRESS"].notna()]
+        city_df = df[in_city & df["ADDRESS"].notna() & ~df["BRANCH"].str.contains(VIRTUAL_BRANCH, na=False)]
         city_df = city_df[city_df["ADDRESS"].map(lambda a: address_matches_city(a, city))]
         branch_counts = city_df["BANK"].value_counts()
         local_banks = branch_counts[branch_counts >= MIN_BRANCHES_IN_CITY].index

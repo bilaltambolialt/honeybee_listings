@@ -1,6 +1,7 @@
 """Settings and helpers shared by all collectors."""
 import csv
 import logging
+import re
 from pathlib import Path
 
 ROOT_DIR = Path(__file__).resolve().parents[1]
@@ -24,6 +25,16 @@ RAW_COLUMNS = [
     "business_name", "category", "city", "address", "phone", "source",
     "source_id", "latitude", "longitude", "scraped_at",
 ]
+
+
+_INDIC_SCRIPT = re.compile(r"[ऀ-෿]")  # Devanagari, Bengali, Tamil, Telugu, Kannada, ...
+
+
+def prefer_english(name: str, english_name: str | None) -> str:
+    """Use the English name when the main name is written in an Indian script and one exists."""
+    if english_name and _INDIC_SCRIPT.search(name):
+        return english_name
+    return name
 
 
 def get_logger(name: str) -> logging.Logger:

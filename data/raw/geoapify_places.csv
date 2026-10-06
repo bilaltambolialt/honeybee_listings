@@ -1,391 +1,391 @@
 ﻿business_name,category,city,address,phone,source,source_id,latitude,longitude,scraped_at
-KCROASTERS - By Koinonia,Cafe,Mumbai,"66, Chuim Village Road, Bandra West, Mumbai - 400052, Maharashtra, India",+91-9136650277,Geoapify,node/7047840108,19.0731837,72.8263765,2026-10-06T17:00:27+00:00
-Garde Manger Cafe,Cafe,Mumbai,"Paranjpe B Scheme Road No 1, K/E Ward, Mumbai - 400057, Maharashtra, India",+91 70450 04488;+91 82918 16108,Geoapify,node/6721812590,19.1048126,72.8522763,2026-10-06T17:00:27+00:00
-Cafe Coffee Day,Cafe,Mumbai,"12/4, MHB Colony Rd, MIDC, Mumbai - 400093, Maharashtra, India",93657482838,Geoapify,node/9548741506,19.1344965,72.8655232,2026-10-06T17:00:27+00:00
-Candies,Cafe,Mumbai,"Nityanand Street, H/W Ward, Mumbai - 400050, Maharashtra, India",02226423512,Geoapify,node/5246971908,19.0495544,72.8298692,2026-10-06T17:00:27+00:00
-Easy Boba,Cafe,Mumbai,"RK Patkar Marg, Khar, Mumbai - 400050, Maharashtra, India",,Geoapify,node/12346531476,19.056272,72.8342539,2026-10-06T17:00:27+00:00
-Hanuman Veg Restaurant,Restaurant,Mumbai,"Road No 8, Sion East, - 400022, Maharashtra, India",+912224091565,Geoapify,node/11449425964,19.0419569,72.8641543,2026-10-06T17:00:27+00:00
-Gracias Granny,Restaurant,Mumbai,"1st Gaothan Road, Chembur, Mumbai - 400089, Maharashtra, India",+91-22-3540-6760,Geoapify,way/1408576356,19.0572879,72.8979892,2026-10-06T17:00:27+00:00
-The Bodhi Cafe,Restaurant,Mumbai,"Ground Floor, Paranjpe B Scheme Road No 2, K/E Ward, Mumbai - 400057, Maharashtra, India",09550286477,Geoapify,node/11348917628,19.104092,72.8525816,2026-10-06T17:00:27+00:00
-Mountain Goat,Restaurant,Mumbai,"D. P. Marg, H/W Ward, Mumbai - 400050, Maharashtra, India",,Geoapify,node/12926508556,19.047414,72.8250525,2026-10-06T17:00:27+00:00
-Wonton House,Restaurant,Mumbai,"Hill Road, H/W Ward, Mumbai - 400050, Maharashtra, India",,Geoapify,node/347168988,19.0548375,72.8258975,2026-10-06T17:00:27+00:00
-Mohini Medical Store,Pharmacy,Mumbai,"Hanuman Mandir Road, K/W Ward, Mumbai - 400053, Maharashtra, India",+91-88798-22360;+91-89287-76632,Geoapify,node/9139640438,19.1367428,72.8218501,2026-10-06T17:00:27+00:00
-Wellness Forever,Pharmacy,Mumbai,"Saint Louis Convent Marg, Dadabhai Naoroji Nagar, Mumbai - 402205, Maharashtra, India",+91-22-2639-9201;+91-22-2639-9202,Geoapify,node/9118087862,19.1283598,72.8257641,2026-10-06T17:00:27+00:00
-Reliable Medical,Pharmacy,Mumbai,"Oshiwara Garden Road, Goregaon West, Mumbai - 400102, Maharashtra, India",+91 98192 62635,Geoapify,node/12290034712,19.1453198,72.8463767,2026-10-06T17:00:27+00:00
-Tulsi medicals,Pharmacy,Mumbai,"Sion Panvel Highway, Govandi West, Mumbai - 400088, Maharashtra, India",,Geoapify,node/11055126102,19.0453941,72.9138673,2026-10-06T17:00:27+00:00
-Noble Plus,Pharmacy,Mumbai,"Powai Vihar Complex road, Powai, Mumbai - 400076, Maharashtra, India",,Geoapify,node/6805962686,19.1178201,72.9049924,2026-10-06T17:00:27+00:00
-Umang Maternity and Surgical Nursing Home,Hospital,Mumbai,"G1, Lacreme Building, Kondivita, Andheri East, Road Number 7, K/E Ward, Mumbai - 400047, Maharashtra, India",+912228203041,Geoapify,node/7051650092,19.1169019,72.871322,2026-10-06T17:00:27+00:00
-Shantiniketan Hospital,Hospital,Mumbai,"Lal Bahadur Shastri Marg, Ghatkopar West, Mumbai - 400086, Maharashtra, India",+91 84510 23444,Geoapify,node/8797173216,19.0952772,72.9137056,2026-10-06T17:00:27+00:00
-Dharavi Hospital,Hospital,Mumbai,"60 Feet Road, G/N Ward, Mumbai - 400017, Maharashtra, India",,Geoapify,way/229636994,19.0399962,72.8518247,2026-10-06T17:00:27+00:00
-Lokmanya Tilak Hospital,Hospital,Mumbai,"Laxmibai Kelkar Marg, Guru Tegh Bahadur Nagar, - 400022, Maharashtra, India",,Geoapify,way/49681498,19.0364134,72.8592156,2026-10-06T17:00:27+00:00
-"Krishna Cardiac Care Centre, Mumbai",Hospital,Mumbai,"Dr Babasaheb Ambedkar Marg (Vincent Road), Matunga East, - 400014, Maharashtra, India",,Geoapify,node/7044553386,19.0196598,72.8486822,2026-10-06T17:00:27+00:00
-Medic Aid Post,Clinic,Mumbai,"Central Avenue, Powai, Mumbai - 400076, Maharashtra, India",+912225706680,Geoapify,node/6795551894,19.1154307,72.9075164,2026-10-06T17:00:27+00:00
-Iyers Polyclinic,Clinic,Mumbai,"Road No 15, Guru Tegh Bahadur Nagar, - 400022, Maharashtra, India",,Geoapify,node/7055271740,19.0385649,72.862173,2026-10-06T17:00:27+00:00
-Junaid Clinic,Clinic,Mumbai,"Sewri Cross Road, Matunga East, - 400031, Maharashtra, India",,Geoapify,node/7664032208,19.0161951,72.8534391,2026-10-06T17:00:27+00:00
-Dhanwantari Nursing Home and Diagnostic Centre,Clinic,Mumbai,"60 Feet Road, G/N Ward, - 400017, Maharashtra, India",,Geoapify,node/7070859100,19.0389655,72.8527585,2026-10-06T17:00:27+00:00
-Deccan Fertility Clinic and Keyhole Surgery Center,Clinic,Mumbai,"Dada Rege Marg, Dadar West, - 400028, Maharashtra, India",,Geoapify,node/7087131446,19.0249236,72.83957,2026-10-06T17:00:27+00:00
-Belle 32,Dentist,Mumbai,"Azad Road, Andheri West, Mumbai - 400058, Maharashtra, India",+919819188371,Geoapify,node/3979081600,19.113992,72.8416736,2026-10-06T17:00:27+00:00
-32 Creations Dental Clinic,Dentist,Mumbai,"Jai Prakash Road, Dadabhai Naoroji Nagar, Mumbai - 400058, Maharashtra, India",+91-22-2674-1533,Geoapify,node/13392844052,19.1282427,72.8318156,2026-10-06T17:00:27+00:00
-Dr. Ekta A. Gupta,Dentist,Mumbai,"5th Road, Khar, Mumbai - 400052, Maharashtra, India",022 2600 1929,Geoapify,node/13097872580,19.0679585,72.8380322,2026-10-06T17:00:27+00:00
-Dental Centre,Dentist,Mumbai,"1, AG, Daffodil, Central Avenue, Powai, Mumbai - 400076, Maharashtra, India",+9125703400,Geoapify,node/6795494390,19.1150452,72.9073536,2026-10-06T17:00:27+00:00
-Auro Dental Clinic and Implant Centre,Dentist,Mumbai,"Laxmibai Kelkar Marg, Matunga East, - 400019, Maharashtra, India",+91-22-2409-0799,Geoapify,node/12770185644,19.0272368,72.8564254,2026-10-06T17:00:27+00:00
-Union Bank of India,Bank,Mumbai,"Takandas H. Kataria Marg, Matunga West, - 400016, Maharashtra, India",,Geoapify,way/151806616,19.0317058,72.8408104,2026-10-06T17:00:27+00:00
-Bank of Baroda,Bank,Mumbai,"81, Hill Road, Khar, Mumbai - 400050, Maharashtra, India",,Geoapify,node/2610566388,19.0545517,72.8271477,2026-10-06T17:00:27+00:00
-Kotak Mahindra Bank,Bank,Mumbai,"Street 3, Bandra Kurla Complex, Mumbai - 400051, Maharashtra, India",,Geoapify,node/10779234842,19.0612585,72.8620791,2026-10-06T17:00:27+00:00
-SVC Cooperative Bank,Bank,Mumbai,"1st Road, Khar, Mumbai - 400050, Maharashtra, India",,Geoapify,node/12706010778,19.0587668,72.8329242,2026-10-06T17:00:27+00:00
-Citizen Credit Co-operative Bank,Bank,Mumbai,"56, Hill Road, Khar, Mumbai - 400050, Maharashtra, India",,Geoapify,node/12809197800,19.0558381,72.8319577,2026-10-06T17:00:27+00:00
-Aashirwad stores,Supermarket,Mumbai,"Shree Yavateshwar Marg, K/W Ward, Mumbai - 400053, Maharashtra, India",022 26361534,Geoapify,node/8456529090,19.1395376,72.8294624,2026-10-06T17:00:27+00:00
-Variety Provision Stores,Supermarket,Mumbai,"Ground Floor, Clanfield Society, Balasaheb Devras Road, K/W Ward, Mumbai - 400053, Maharashtra, India",+912226339243,Geoapify,node/9080857998,19.1411063,72.8273351,2026-10-06T17:00:27+00:00
-New Mount Mary General and Provision Stores,Supermarket,Mumbai,"Pereira Road, H/W Ward, Mumbai - 400050, Maharashtra, India",,Geoapify,node/12974675316,19.0515476,72.8226071,2026-10-06T17:00:27+00:00
-Mount Mary Traders,Supermarket,Mumbai,"D. P. Marg, H/W Ward, Mumbai - 400050, Maharashtra, India",,Geoapify,node/12926508558,19.0474828,72.8250805,2026-10-06T17:00:27+00:00
-ravi market,Supermarket,Mumbai,"room no:1,line:f,plot no:12, Mohmmad Road, Shivaji Nagar, Mumbai - 400043, Maharashtra, India",,Geoapify,node/3213767198,19.0616617,72.9247589,2026-10-06T17:00:27+00:00
-IGP: Cakes Flowers Gifts,Bakery,Mumbai,"Chapel Road, H/W Ward, Mumbai - 400050, Maharashtra, India",,Geoapify,node/5494560188,19.0504807,72.8267171,2026-10-06T17:00:27+00:00
-Magnolia Bakery,Bakery,Mumbai,"Dr. BR Ambedkar Road, Khar, Mumbai - 400050, Maharashtra, India",,Geoapify,node/12923618614,19.0611687,72.8296513,2026-10-06T17:00:27+00:00
-Theobroma,Bakery,Mumbai,"Dr Babasaheb Ambedkar Marg (Vincent Road), Matunga East, - 400019, Maharashtra, India",,Geoapify,node/5760634922,19.0266878,72.8545929,2026-10-06T17:00:27+00:00
-ZamZam Sweets and Bakery,Bakery,Mumbai,"Lal Bahadur Shastri Marg, Kurla West, Mumbai - 400070, Maharashtra, India",,Geoapify,node/11452002808,19.0799839,72.8801472,2026-10-06T17:00:27+00:00
-CakeBred,Bakery,Mumbai,"Shree Yavateshwar Marg, Jogeshwari West, Mumbai - 400053, Maharashtra, India",,Geoapify,node/3221684164,19.1369227,72.8293921,2026-10-06T17:00:27+00:00
-Suntech Business Solutions,Electronics Store,Mumbai,"Mathuradas Vasanji Road, Andheri East, Mumbai - 400069, Maharashtra, India",+91 22 4972 4686;+91 74004 36581;+91 74004 36585,Geoapify,node/8065431802,19.1153572,72.8555855,2026-10-06T17:00:27+00:00
-Dell Exclusive Store,Electronics Store,Mumbai,"Linking Road, Bandra West, Mumbai - 400050, Maharashtra, India",,Geoapify,node/12926036240,19.0607051,72.8359735,2026-10-06T17:00:27+00:00
-Reliance Digital,Electronics Store,Mumbai,"Appasaheb Marathe Marg, Prabhadevi, - 400025, Maharashtra, India",,Geoapify,node/9080656320,19.0128029,72.8277261,2026-10-06T17:00:27+00:00
-Vikas Sales,Electronics Store,Mumbai,"Senapati Bapat Marg, Matunga West, - 400016, Maharashtra, India",,Geoapify,node/11384605320,19.0280462,72.8463709,2026-10-06T17:00:27+00:00
-ALAM TELECOM,Electronics Store,Mumbai,"market road, M/E Ward, Mumbai - 400043, Maharashtra, India",,Geoapify,node/3227729226,19.0686148,72.920808,2026-10-06T17:00:27+00:00
-New Paris,Salon,Mumbai,"Oshiwara Garden Road, Goregaon West, Mumbai - 400102, Maharashtra, India",+91 81129 71470,Geoapify,node/12290034708,19.1453533,72.846252,2026-10-06T17:00:27+00:00
-Hair Zone The Salon,Salon,Mumbai,"St. Andrew Road Extension, Khar, Mumbai - 400050, Maharashtra, India",+91 95945 96017,Geoapify,node/11296361350,19.0615778,72.8270119,2026-10-06T17:00:27+00:00
-Agile Fingers,Salon,Mumbai,"Manuel Gonsalves Road, H/W Ward, Mumbai - 400050, Maharashtra, India",,Geoapify,node/5273193980,19.0578234,72.829794,2026-10-06T17:00:27+00:00
-Agile Fingers,Salon,Mumbai,"Manuel Gonsalves Road, H/W Ward, Mumbai - 400050, Maharashtra, India",,Geoapify,node/12716963146,19.0577835,72.8297928,2026-10-06T17:00:27+00:00
-EaseOn Spa Salon & Yoga,Salon,Mumbai,"Central Avenue, Powai, Mumbai - 400076, Maharashtra, India",,Geoapify,node/5881460646,19.115294,72.9079517,2026-10-06T17:00:27+00:00
-Indian School of Calisthenics (ISC),Gym,Mumbai,"Western Express Highway, P/S Ward, Mumbai - 400065, Maharashtra, India",917715953218,Geoapify,node/13922548082,19.1430686,72.8565057,2026-10-06T17:00:27+00:00
-New Ajinkyatara Fitness,Gym,Mumbai,"Madhusudan Kalekar Marg, Bandra East, Mumbai - 400051, Maharashtra, India",+91 9702 023434,Geoapify,node/11304366853,19.0592695,72.8536185,2026-10-06T17:00:27+00:00
-Regius The Fitness Factory,Gym,Mumbai,"Plot no 8, Gopi Tank Marg, Matunga West, - 400016, Maharashtra, India",022 65316555,Geoapify,node/4792028221,19.0297417,72.8410197,2026-10-06T17:00:27+00:00
-Jewel Clubhouse,Gym,Mumbai,"Lodha Adrina Concierge, Lower Parel, - 400013, Maharashtra, India",,Geoapify,way/1523993879,19.0045596,72.8291604,2026-10-06T17:00:27+00:00
-Vasant Gym,Gym,Mumbai,"14, St. Dhyneshwar marg, Ghatkopar East, Mumbai - 400075, Maharashtra, India",,Geoapify,node/5470599074,19.0825039,72.912496,2026-10-06T17:00:27+00:00
-Hotel Rangsharda,Hotel,Mumbai,"K C Marg, H/W Ward, Mumbai - 400050, Maharashtra, India",+91 22 6852 1919,Geoapify,way/1410368282,19.051195,72.8322599,2026-10-06T17:00:27+00:00
-Sofitel,Hotel,Mumbai,"C57, Avenue 3, Bandra Kurla Complex, Mumbai - 400051, Maharashtra, India",+91 (22) 6117 5000,Geoapify,way/430412674,19.0677635,72.8687791,2026-10-06T17:00:27+00:00
-Janata Hotel,Hotel,Mumbai,"F Sector, M G Ramchandran Marg, Cheeta Camp, Mumbai - 400088, Maharashtra, India",,Geoapify,way/307395968,19.0397417,72.9479217,2026-10-06T17:00:27+00:00
-Ghatla,Hotel,Mumbai,"Waman Tukaram Patil Marg, Deonar, Mumbai - 400088, Maharashtra, India",,Geoapify,node/245664752,19.0517387,72.9103117,2026-10-06T17:00:27+00:00
-Hotel Kalpana Elite,Hotel,Mumbai,"Lal Bahadur Shastri Marg, Kurla West, Mumbai - 400070, Maharashtra, India",,Geoapify,node/12632124454,19.0772101,72.8788131,2026-10-06T17:00:27+00:00
-Mum Café and Bakery,Cafe,Delhi,"Satya Niketan Road, Moti Bagh, New Delhi - 110021, India",+91-8448-336-088,Geoapify,node/11813706344,28.5877898,77.1684033,2026-10-06T17:00:27+00:00
-Tea Crow Metry Cafe,Cafe,Delhi,"Guru Tegh Bahadur Marg, Civil Lines Tehsil, Delhi - 110007, India",,Geoapify,node/12196467732,28.6929255,77.2089366,2026-10-06T17:00:27+00:00
-Chain Chulha,Cafe,Delhi,"Mahatma Gandhi Marg, Majnu Ka Tila, Delhi - 110054, India",,Geoapify,node/13568849204,28.694961,77.2141067,2026-10-06T17:00:27+00:00
-Cafe Coffee Day,Cafe,Delhi,"Netaji Subhash Marg, Old Delhi, Delhi - 110006, India",,Geoapify,node/5732543220,28.64467,77.2402214,2026-10-06T17:00:27+00:00
-Jugmug,Cafe,Delhi,"Netaji Subhash Marg, Old Delhi, Delhi - 110006, India",,Geoapify,node/11491292628,28.6534474,77.2399354,2026-10-06T17:00:27+00:00
-The Salt Cafe Kitchen & Bar,Restaurant,Delhi,"Complex 19 & 20, Acharya Nagraj Marg, Preet Vihar Tehsil, Delhi - 110051, India",08130828293,Geoapify,node/11146533148,28.6341173,77.2900948,2026-10-06T17:00:27+00:00
-Anidra Cafe and Lounge,Restaurant,Delhi,"Plot No.118, Block-B, GT Karnal Rd, Industrial Area, Jahangirpuri Industrial Area, Ashok Vihar Flyover, Model Town Tehsil, Delhi - 110033, India",+91 97739 68228,Geoapify,node/9632496558,28.6964486,77.1842968,2026-10-06T17:00:27+00:00
-Talli Station Rajouri Garden,Restaurant,Delhi,"J2, 11, Block J, Lala Marg, Patel Nagar, Delhi - 110027, India",+91 9911054940,Geoapify,node/9378787102,28.6473,77.1194981,2026-10-06T17:00:27+00:00
-True Blue,Restaurant,Delhi,"Oriental Apartment Road, Preet Vihar Tehsil, Delhi - 110092, India","011 65101366, 011 42171399",Geoapify,node/4438975392,28.6280352,77.3086694,2026-10-06T17:00:27+00:00
-CHICA,Restaurant,Delhi,"Shaheed Sudhir Tyagi Marg, Netaji Nagar, New Delhi - 110066, India",099900 19981,Geoapify,way/1298088264,28.5706102,77.1859377,2026-10-06T17:00:27+00:00
-Nath Brothers,Pharmacy,Delhi,"Radial Road 3, Connaught Place, New Delhi - 110001, India",+91-98994-41605;+91-11-4151-6266;+91-11-2332-7284,Geoapify,node/5784312302,28.6338668,77.2173585,2026-10-06T17:00:27+00:00
-Maxwell Chemist,Pharmacy,Delhi,"Guru Gobind Singh Marg, Malviya Nagar, Delhi - 110017, India",+91-11-4108-2244;+91-11-4978-5545;+91-97174-56632,Geoapify,node/5827193784,28.5340749,77.2093782,2026-10-06T17:00:27+00:00
-Healthy Life Pharmacy,Pharmacy,Delhi,"Mahatma Gandhi Marg, Defence Colony Tehsil, Delhi - 110065, India",+91-99901-68275;+91-88022-41708,Geoapify,node/6282682554,28.566497,77.2484873,2026-10-06T17:00:27+00:00
-Metro City Pharmacy,Pharmacy,Delhi,"7, Connaught Place, New Delhi - 110001, India",+91-11-403-955-86,Geoapify,node/13705276520,28.6338607,77.2170799,2026-10-06T17:00:27+00:00
-Life Care Medicos,Pharmacy,Delhi,"82;83, Mandawali Fazalpur, Delhi - 110092, India",+91 11 2247 9788;+91 98118 96443,Geoapify,node/8163204980,28.6226447,77.2904912,2026-10-06T17:00:27+00:00
-Upchar Nursing Home,Hospital,Delhi,"Ashok Vihar Road, Saraswati Vihar Tehsil, Delhi - 110052, India",27210012,Geoapify,node/7138632166,28.6975051,77.1772633,2026-10-06T17:00:27+00:00
-North Delhi Nursing Home,Hospital,Delhi,"Ashok Vihar Flyover, Saraswati Vihar Tehsil, Delhi - 110052, India",27422131,Geoapify,node/7138632228,28.696547,77.179557,2026-10-06T17:00:27+00:00
-Sharma Medical Center,Hospital,Delhi,"Sadar Thana Marg, Sadar Bazar, Delhi - 110035, India",011-23651395,Geoapify,node/7138534392,28.6494565,77.209831,2026-10-06T17:00:27+00:00
-Safdarjung Hospital,Hospital,Delhi,"AIIMS Flyover, Kidwai Nagar, New Delhi - 110029, India",+91 011 2616 5060,Geoapify,way/454523330,28.5673381,77.2049728,2026-10-06T17:00:27+00:00
-Moolchand Khairati Ram Hospital,Hospital,Delhi,"Sri Ramsharanam Marg, Defence Colony Tehsil, Delhi - 110024, India",42000102,Geoapify,way/44316348,28.5667571,77.2355617,2026-10-06T17:00:27+00:00
-"MCD, Shastri Park",Clinic,Delhi,"Gali Number 1, Seelampur, Delhi - 110053, India",22561798,Geoapify,node/7138534390,28.675788,77.2597307,2026-10-06T17:00:27+00:00
-DGD Keshav Puram B4,Clinic,Delhi,"Maharaja Nahar Singh Marg, Ashok Vihar, Delhi - 110035, India",27192215,Geoapify,node/7138632186,28.6878228,77.1615413,2026-10-06T17:00:27+00:00
-Dispensary Pusa,Clinic,Delhi,"Sahyadri Avenue, Pusa, New Delhi - 110012, India",011-26183201,Geoapify,node/7138493226,28.6364792,77.1634061,2026-10-06T17:00:27+00:00
-"CGHS, Dev Nagar",Clinic,Delhi,"Hardhyan Singh Marg, Karol Bagh, Delhi - 110005, India",25860275,Geoapify,node/7138534330,28.6543709,77.1835213,2026-10-06T17:00:27+00:00
-"CGHS, Pusa Road",Clinic,Delhi,"Pusa Road, Paharganj, Delhi - 110005, India",28758071,Geoapify,node/7138534350,28.644386,77.189502,2026-10-06T17:00:27+00:00
-DentisTree,Dentist,Delhi,"LIG Flat No JA-1A, Mahakavi Goswami Tulsidas Marg, Hari Nagar, Delhi - 110064, India",083839 35992,Geoapify,node/13963609502,28.6307475,77.1161346,2026-10-06T17:00:27+00:00
-Family Dental Clinic,Dentist,Delhi,"E-54A, Sadbhavana Road, Preet Vihar Tehsil, Delhi - 110091, India",+91 98180 41313;+91 11 2247 9172,Geoapify,node/9547388352,28.622073,77.2941027,2026-10-06T17:00:27+00:00
-Kalra Dental Specialities,Dentist,Delhi,"R.M. Vats Marg, Hauz Khas Tehsil, Delhi - 110017, India",+91-98111-08729;+91-98109-85205;+91-011-4174-5126;+91-011-2601-7256,Geoapify,node/5258047748,28.5424598,77.2176955,2026-10-06T17:00:27+00:00
-Jain Dental Centre,Dentist,Delhi,"Baird Lane, Connaught Place, New Delhi - 110001, India",+91 11 4476 4701,Geoapify,node/12912482322,28.6329446,77.2073777,2026-10-06T17:00:27+00:00
-New Delhi Dental Centre,Dentist,Delhi,"Rao Tula Ram Marg, Moti Bagh, New Delhi - 110057, India",+91 98114 61274;+91 99710 76696,Geoapify,node/13780550358,28.5724649,77.1671602,2026-10-06T17:00:27+00:00
-Indian Bank,Bank,Delhi,"Vikas Marg, Preet Vihar, Delhi - 110051, India",,Geoapify,node/12726500772,28.6395635,77.2931151,2026-10-06T17:00:27+00:00
-State Bank of India,Bank,Delhi,"Mangal Bazar Road, Preet Vihar Tehsil, Delhi - 110031, India",,Geoapify,node/11210261200,28.6365102,77.2791763,2026-10-06T17:00:27+00:00
-City Union Bank,Bank,Delhi,"Vikas Marg, Gandhi Nagar Tehsil, Delhi - 110031, India",,Geoapify,node/11238492962,28.6312998,77.2788927,2026-10-06T17:00:27+00:00
-HDFC Bank,Bank,Delhi,"Vikas Marg, Gandhi Nagar Tehsil, Delhi - 110031, India",,Geoapify,node/6853471536,28.6319921,77.2801886,2026-10-06T17:00:27+00:00
-Yes Bank,Bank,Delhi,"Mother Dairy Road, Gandhi Nagar Tehsil, Delhi - 110031, India",,Geoapify,node/5807089786,28.6293697,77.2769881,2026-10-06T17:00:27+00:00
-Shiv Paneer,Supermarket,Delhi,"Baird Lane, Connaught Place, New Delhi - 110001, India",+91 99533 31441;+91 98183 35441,Geoapify,node/12896531740,28.6326159,77.2062024,2026-10-06T17:00:27+00:00
-Munafa Mart,Supermarket,Delhi,"Hansraj Sethi Marg, Kalkaji, Delhi - 110019, India",+91-11-4912-3949,Geoapify,node/6544857030,28.5421857,77.2529083,2026-10-06T17:00:27+00:00
-Prakash General Store,Supermarket,Delhi,"111, Thekedar Surjit Singh Marg, Model Town Tehsil, Delhi - 110009, India",+91 98111 22994,Geoapify,node/12495409850,28.6984334,77.2044502,2026-10-06T17:00:27+00:00
-Shri Mahadev Store,Supermarket,Delhi,"G-59, Barapullah Road Flyover, South Extension, Delhi - 110049, India",+91 93127 32140;+91 98184 49554,Geoapify,node/13684861374,28.5735612,77.2171054,2026-10-06T17:00:27+00:00
-Agarwal,Supermarket,Delhi,"Gali Number 9, Shakarpur, Delhi - 110031, India",,Geoapify,way/965246596,28.6323342,77.2747598,2026-10-06T17:00:27+00:00
-Evergreen Pastry,Bakery,Delhi,"Mother Dairy Road, Mayur Vihar Tehsil, Delhi - 110091, India",+91 97115 22228;+91 97115 22229,Geoapify,node/9490009782,28.6201974,77.2854508,2026-10-06T17:00:27+00:00
-"Shah Namkeen(Bakery, Snacks, Sweets, Namkeen in Delhi, India)",Bakery,Delhi,"Bhisham Lal Sharma Marg, Preet Vihar, Delhi - 110051, India",098101 92757,Geoapify,node/13963564001,28.6514613,77.2852918,2026-10-06T17:00:27+00:00
-Janta Sweets ( kashori samosa),Bakery,Delhi,"Multani Dhanda, Sadar Bazar, Delhi - 110055, India",9811009914,Geoapify,node/4711354394,28.6481235,77.2117033,2026-10-06T17:00:27+00:00
-Monginis,Bakery,Delhi,"Middle Circle, Connaught Place, New Delhi - 110001, India",+91 9999318724;+91 9867867927,Geoapify,node/11637351388,28.6346218,77.2207011,2026-10-06T17:00:27+00:00
-Cake O'Clocks,Bakery,Delhi,"Mother Dairy Road, Gandhi Nagar Tehsil, Delhi - 110031, India",,Geoapify,node/10862104372,28.6296529,77.2767949,2026-10-06T17:00:27+00:00
-Retron,Electronics Store,Delhi,"Vikas Marg, Preet Vihar, Delhi - 110051, India",+91 11 4011 2119,Geoapify,node/11212035018,28.6378011,77.2869604,2026-10-06T17:00:27+00:00
-Reliance Mobile Store,Electronics Store,Delhi,"Thekedar Surjit Singh Marg, Model Town Tehsil, Delhi - 110009, India",011-49057299,Geoapify,node/4362498604,28.69823,77.2044712,2026-10-06T17:00:27+00:00
-Sai Solutions,Electronics Store,Delhi,"Bhishma Pitamah Marg, South Extension, Delhi - 110049, India",+91 77039 02433,Geoapify,node/6766175600,28.5726139,77.227698,2026-10-06T17:00:27+00:00
-Hotspot,Electronics Store,Delhi,"Hetraj Batra Marg, Malviya Nagar, Delhi - 110017, India",+91-81306-22665,Geoapify,node/5985180342,28.5364816,77.2121562,2026-10-06T17:00:27+00:00
-Kavya Mobile Centre,Electronics Store,Delhi,"153, Sadar Bazar Road, Delhi Cantonment, New Delhi - 110046, India",+91 73007 90035,Geoapify,node/11850167048,28.5949516,77.1223016,2026-10-06T17:00:27+00:00
-Badal Men's Salon,Salon,Delhi,"Mall Road, Model Town Tehsil, Delhi - 110009, India",+91 87002 75075,Geoapify,node/12495428429,28.6980568,77.2051132,2026-10-06T17:00:27+00:00
-Anu Naagar Studio,Salon,Delhi,"94B, Defence Colony Tehsil, Delhi - 110065, India",+91 81300 59912,Geoapify,node/11854174522,28.5701047,77.2396262,2026-10-06T17:00:27+00:00
-Aurrum,Salon,Delhi,"Vikas Marg, Preet Vihar, Delhi - 110051, India",,Geoapify,node/11985412786,28.64369,77.2985105,2026-10-06T17:00:27+00:00
-Punjab hair dressers,Salon,Delhi,"Prithviraj Lane, Chanakya Puri Tehsil, New Delhi - 110003, India",,Geoapify,node/10690476880,28.6007845,77.225755,2026-10-06T17:00:27+00:00
-VA Unisex Salon,Salon,Delhi,"Gali No. 1, Vasant Vihar Tehsil, New Delhi - 110029, India",,Geoapify,node/13814216434,28.5627249,77.1937818,2026-10-06T17:00:27+00:00
-Anytime Fitness,Gym,Delhi,"38, Bungalow Road, Kamla Nagar, Delhi - 110007, India",+91 81304 32323,Geoapify,node/13110159215,28.6839665,77.2046073,2026-10-06T17:00:27+00:00
-जगर्नॉट फ़िट्नेस क्लब,Gym,Delhi,"A-6, Bharat Nagar Main Road, Saraswati Vihar Tehsil, Delhi - 110052, India",+919354757953,Geoapify,node/8172739117,28.6807243,77.1771536,2026-10-06T17:00:27+00:00
-Health India,Gym,Delhi,"Sadbhavana Road, Preet Vihar Tehsil, Delhi - 110091, India",+91-9968-559512;+91-92112-77535,Geoapify,node/9041105463,28.6220322,77.2939735,2026-10-06T17:00:27+00:00
-Focus Gym,Gym,Delhi,"Mother Dairy Road, Gandhi Nagar Tehsil, Delhi - 110031, India",+91 88005 29193,Geoapify,node/11914760035,28.6286792,77.2767576,2026-10-06T17:00:27+00:00
-Rainbow Health and Fitness Shoppee,Gym,Delhi,"Veer Savarkar Marg, Defence Colony Tehsil, Delhi - 110065, India",+91 98910 81305; 01141648498,Geoapify,node/12208840339,28.5684118,77.2458256,2026-10-06T17:00:27+00:00
-Amax Inn,Hotel,Delhi,"8145/6, Arakashan Road, Kotwali Tehsil, Delhi - 110055, India",+91-11-23543813,Geoapify,node/4101512398,28.6467628,77.2135529,2026-10-06T17:00:27+00:00
-Indus Biznotel,Hotel,Delhi,"Hans Raj Gupta Marg, Greater Kailash, Delhi - 110048, India",+911140267700,Geoapify,node/2454223034,28.5493151,77.2428571,2026-10-06T17:00:27+00:00
-Maidens Hotel,Hotel,Delhi,"7, Sham Nath Marg, Civil Lines, Delhi - 110054, India",+91 11 2397 5464,Geoapify,way/1476768272,28.6745417,77.2264597,2026-10-06T17:00:27+00:00
-Golden DX,Hotel,Delhi,"Saraswati Marg, Karol Bagh, Delhi - 110060, India",+91 80769 79763,Geoapify,node/12135560706,28.6465057,77.1876219,2026-10-06T17:00:27+00:00
-Imperial Villa,Hotel,Delhi,"Mahatma Gandhi Marg, Defence Colony Tehsil, Delhi - 110065, India",+91 11 4997 7000,Geoapify,node/1794027306,28.5658144,77.2481626,2026-10-06T17:00:27+00:00
-Cafe Jassie's,Cafe,Bengaluru,"Doctor Muthuraj Underpass, Swamy Vivekananda Ward, Bengaluru - 560085, Karnataka, India",,Geoapify,node/12395928076,12.9307897,77.5434861,2026-10-06T17:00:27+00:00
-Namm Kannada,Cafe,Bengaluru,"19th Cross Road, Kane Muneshwara Ward, Bengaluru - 560111, Karnataka, India",,Geoapify,node/11794875010,12.9080228,77.5639733,2026-10-06T17:00:27+00:00
-NJAC,Cafe,Bengaluru,"Vyasraya Ballala Road, Kane Muneshwara Ward, Bengaluru - 560111, Karnataka, India",,Geoapify,node/1331929354,12.9089138,77.5625218,2026-10-06T17:00:27+00:00
-Metro Cafe,Cafe,Bengaluru,"Kanakapura Road, Sarakki, Bengaluru - 560078, Karnataka, India",,Geoapify,node/13463427690,12.9073997,77.5733618,2026-10-06T17:00:27+00:00
-The Caffeine Baar,Cafe,Bengaluru,"1424/81, South End C Cross, Pattabhirama Nagara, Bengaluru - 560078, Karnataka, India",,Geoapify,node/12035150490,12.9163712,77.5928203,2026-10-06T17:00:27+00:00
-Kanti Sweets,Restaurant,Bengaluru,"6th Main Road, Byrasandra, Bengaluru - 560011, Karnataka, India",08022960638,Geoapify,way/1428293058,12.9277892,77.5810521,2026-10-06T17:00:27+00:00
-Maffei Kitchen,Restaurant,Bengaluru,"23, 5th Cross Road, A Adugodi, Bengaluru - 560095, Karnataka, India",+91 8005471058,Geoapify,node/10695242204,12.9351187,77.6226367,2026-10-06T17:00:27+00:00
-Adyar Ananda Bhavan,Restaurant,Bengaluru,"3, Marenahalli Road - Outer Ring Road, New Tavarekere, Bengaluru - 560029, Karnataka, India",+91 073388 16688,Geoapify,way/639368292,12.9168828,77.609506,2026-10-06T17:00:27+00:00
-Amandé Patisserie,Restaurant,Bengaluru,"115/121, 10th Cross Road, N.R Colony, Bengaluru - 560004, Karnataka, India",080 2676 1080,Geoapify,node/4445782638,12.9363723,77.5682018,2026-10-06T17:00:27+00:00
-Mane Holige Kuruk thindi,Restaurant,Bengaluru,"7th Main Road, Byrasandra, Bengaluru - 560011, Karnataka, India",+91 97426 72871,Geoapify,node/4200239822,12.9288993,77.5818811,2026-10-06T17:00:27+00:00
-Upadhya Ayurveda Bhandara,Pharmacy,Bengaluru,"# 1333, 26th Main Road, Tilak Nagara, Bengaluru - 560041, Karnataka, India",080 2663 9321,Geoapify,node/4446978240,12.9258133,77.5936851,2026-10-06T17:00:27+00:00
-Star Homeopathy,Pharmacy,Bengaluru,"#771, 32 Cross Road, Tilak Nagara, Bengaluru - 560011, Karnataka, India",+9191009 60066,Geoapify,node/4446986134,12.9267767,77.5838359,2026-10-06T17:00:27+00:00
-Shriniwas Medicals,Pharmacy,Bengaluru,"#16/47/1-C, 34th Cross Road, Byrasandra, Bengaluru - 560011, Karnataka, India",08026632258,Geoapify,node/4446323286,12.9257866,77.5861651,2026-10-06T17:00:27+00:00
-Ruth Medicals,Pharmacy,Bengaluru,"16th B Main Road, Kormangala East, Bengaluru - 560034, Karnataka, India",+9180 2553 7424,Geoapify,node/4447072622,12.9317312,77.6230979,2026-10-06T17:00:27+00:00
-Shri Siddhanth Pharma,Pharmacy,Bengaluru,"3155, Indiranagar Double Road, Agaram, Bengaluru - 560038, Karnataka, India",080 2520 0422,Geoapify,node/4445607998,12.9702378,77.6356539,2026-10-06T17:00:27+00:00
-Rajshekhar Hospital,Hospital,Bengaluru,"21, 9th Cross Road, JP Nagar, Bengaluru - 560078, Karnataka, India",080 4252 7555,Geoapify,way/118411722,12.9110065,77.5797761,2026-10-06T17:00:27+00:00
-Rainbow Children's Hospital,Hospital,Bengaluru,"178/1 & 178/2, Bannerghatta Road, Bilekahalli, Bengaluru - 560076, Karnataka, India",9355400341,Geoapify,way/1108934944,12.9034237,77.6006167,2026-10-06T17:00:27+00:00
-Parimala Health Care,Hospital,Bengaluru,"2nd Cross Rd, Bannerghatta Road, Bilekahalli, Bengaluru - 560076, Karnataka, India",080 2658 3117,Geoapify,node/4445973784,12.9003193,77.6008061,2026-10-06T17:00:27+00:00
-Prashanth Hospital,Hospital,Bengaluru,"90/D, 7th Main Road, Bommanahalli, Bengaluru - 560068, Karnataka, India",080 4150 3714,Geoapify,node/4447972412,12.9067129,77.6265085,2026-10-06T17:00:27+00:00
-Dr Lal PathLabs,Hospital,Bengaluru,"#3, 23rd Cross Road, Ganesh Mandira Ward, Bengaluru - 560068, Karnataka, India",080 4091 6014,Geoapify,node/4448118314,12.924274,77.5680927,2026-10-06T17:00:27+00:00
-Bombay Surgicals,Clinic,Bengaluru,"#348, 9th Main Road, Tilak Nagara, Bengaluru - 560011, Karnataka, India",+919739986012,Geoapify,node/4447020600,12.930019,77.584183,2026-10-06T17:00:27+00:00
-Oasis Artificial Kidney Care (P) Ltd,Clinic,Bengaluru,"Magrath Road, Ashokanagar, Bengaluru - 560025, Karnataka, India","8971151515, 9886756813",Geoapify,node/3760131454,12.9687118,77.6139361,2026-10-06T17:00:27+00:00
-Sri Balaji Specialist clinic,Clinic,Bengaluru,"2nd Main Road, Swamy Vivekananda Ward, Bengaluru - 560085, Karnataka, India",,Geoapify,node/8261705436,12.9336108,77.5415266,2026-10-06T17:00:27+00:00
-Banashankari Heart Clinic,Clinic,Bengaluru,"Outer Ring Road, Sarakki, Bengaluru - 560078, Karnataka, India",,Geoapify,node/11303698298,12.9062356,77.5762138,2026-10-06T17:00:27+00:00
-Namma Clinic,Clinic,Bengaluru,"3 Main Road, Pattabhirama Nagara, Bengaluru - 560070, Karnataka, India",,Geoapify,node/10931530154,12.9177197,77.5799118,2026-10-06T17:00:27+00:00
-Athos,Dentist,Bengaluru,"100 Feet Road, Indiranagar, Bengaluru - 560038, Karnataka, India",7813004040,Geoapify,node/3370230942,12.9820577,77.6404784,2026-10-06T17:00:27+00:00
-Dr Noor Saira's Dental Studio,Dentist,Bengaluru,"MM Road, Frazer Town, Bengaluru - 560005, Karnataka, India",+91 88849 26497,Geoapify,node/11472852216,13.0003005,77.6173407,2026-10-06T17:00:27+00:00
-Root & Crown Dental Care,Dentist,Bengaluru,"Chikkalasandra Main Road, Sarvabhouma Nagar, Bengaluru - 560061, Karnataka, India",,Geoapify,node/7579924736,12.913579,77.548358,2026-10-06T17:00:27+00:00
-Sunkris Dental Health Care & Implant Centre,Dentist,Bengaluru,"12, 24th Main Road, Iblur, Bengaluru - 560102, Karnataka, India",,Geoapify,node/11533112310,12.9210197,77.6493322,2026-10-06T17:00:27+00:00
-Pari's Dental Clinic,Dentist,Bengaluru,"1st Main Road, Kodihalli, Bengaluru - 560008, Karnataka, India",,Geoapify,node/7572526706,12.9605494,77.6493794,2026-10-06T17:00:27+00:00
-State Bank of India,Bank,Bengaluru,"259, 3rd Main Road, Kane Muneshwara Ward, Bengaluru - 560078, Karnataka, India",,Geoapify,way/1272148166,12.8995205,77.5580505,2026-10-06T17:00:27+00:00
-Kotak Mahindra Bank,Bank,Bengaluru,"7th Main Road, Ganesh Mandira Ward, Bengaluru - 560085, Karnataka, India",,Geoapify,way/1087732062,12.9231455,77.5564933,2026-10-06T17:00:27+00:00
-Indian Bank,Bank,Bengaluru,"9th Cross Road, JP Nagar, Bengaluru - 560078, Karnataka, India",,Geoapify,node/3393501416,12.9107057,77.5835123,2026-10-06T17:00:27+00:00
-ING,Bank,Bengaluru,"9th Cross Road, Shakambarinagara, Bengaluru - 560078, Karnataka, India",,Geoapify,node/3226809436,12.9100858,77.5920685,2026-10-06T17:00:27+00:00
-HDFC Bank,Bank,Bengaluru,"15th Cross Road, Yediyuru, Bengaluru - 560011, Karnataka, India",,Geoapify,node/1438214050,12.9365,77.582432,2026-10-06T17:00:27+00:00
-Big Bazaar,Supermarket,Bengaluru,"Sarjapura Road, Shivanasamudra Ward, Bengaluru - 560103, Karnataka, India",07795976949,Geoapify,node/9830902374,12.9192999,77.6689075,2026-10-06T17:00:27+00:00
-Z Shoppe,Supermarket,Bengaluru,"579, 6th Cross Road, Kodihalli, Bengaluru - 560008, Karnataka, India",+91 80 252171841,Geoapify,node/1760015500,12.9662704,77.6497422,2026-10-06T17:00:27+00:00
-Spar,Supermarket,Bengaluru,"LG-34, Sampige Road, Dattatreya Ward, Bengaluru - 560003, Karnataka, India",+918039378500,Geoapify,node/4445642736,12.991691,77.5707302,2026-10-06T17:00:27+00:00
-Reebok Store,Supermarket,Bengaluru,"Outer Ring Road, Kamakya Layout, Bengaluru - 560085, Karnataka, India",,Geoapify,node/1474831726,12.9246981,77.5508112,2026-10-06T17:00:27+00:00
-Kashyapi Naturals,Supermarket,Bengaluru,"31st Main Road, JP Nagar, Bengaluru - 560078, Karnataka, India",,Geoapify,node/11303726652,12.9074264,77.5824555,2026-10-06T17:00:27+00:00
-Cake of the Day,Bakery,Bengaluru,"Outer Ring Road, Padmanabhanagara, Bengaluru - 560085, Karnataka, India",,Geoapify,node/5626258374,12.9227144,77.556339,2026-10-06T17:00:27+00:00
-Choice Bakery,Bakery,Bengaluru,"12th Main, Contour Road, Kadirenahalli, Bengaluru - 560070, Karnataka, India",,Geoapify,node/2124814946,12.9183496,77.5572332,2026-10-06T17:00:27+00:00
-Krishna Bakery,Bakery,Bengaluru,"26th Main Road, Tilak Nagara, Bengaluru - 560041, Karnataka, India",,Geoapify,node/5234777582,12.9271618,77.5934225,2026-10-06T17:00:27+00:00
-Iyengar's Bakery,Bakery,Bengaluru,"33, Outer Ring Road, Shakambarinagara, Bengaluru - 560078, Karnataka, India",,Geoapify,node/11303698304,12.9064664,77.590046,2026-10-06T17:00:27+00:00
-Just Bake,Bakery,Bengaluru,"38th Cross Road, Pattabhirama Nagara, Bengaluru - 560041, Karnataka, India",,Geoapify,node/9904130020,12.9218738,77.5850227,2026-10-06T17:00:27+00:00
-Cromā,Electronics Store,Bengaluru,"LG-34, Sampige Road, Dattatreya Ward, Bengaluru - 560003, Karnataka, India",+917207666000,Geoapify,node/4446286774,12.9915154,77.5707071,2026-10-06T17:00:27+00:00
-Sangeetha,Electronics Store,Bengaluru,"LG-34, Sampige Road, Dattatreya Ward, Bengaluru - 560003, Karnataka, India",+917022004708,Geoapify,node/4446323836,12.9917048,77.5709199,2026-10-06T17:00:27+00:00
-S Abbas & Co,Electronics Store,Bengaluru,"59/2, SP Road, Dharmaraya Swamy Temple Ward, Bengaluru - 560002, Karnataka, India",08022225569,Geoapify,node/4563000590,12.964736,77.5817243,2026-10-06T17:00:27+00:00
-Shree Sudarshan Light And Appliances,Electronics Store,Bengaluru,"62, AM Lane, Chikkapete, Bengaluru - 560053, Karnataka, India",(91)-9986419127,Geoapify,node/4487996362,12.9703096,77.5761097,2026-10-06T17:00:27+00:00
-QuickConnect,Electronics Store,Bengaluru,"27th Cross Road, Tilak Nagara, Bengaluru - 560011, Karnataka, India",,Geoapify,node/2927773288,12.9306117,77.584041,2026-10-06T17:00:27+00:00
-New Classic Men's Parlour,Salon,Bengaluru,"30th Main Road, Shakambarinagara, Bengaluru - 560078, Karnataka, India",+91 99006 15439,Geoapify,node/11303787988,12.9104295,77.5818288,2026-10-06T17:00:27+00:00
-First Look Color & Style Salon,Salon,Bengaluru,"9th Cross Road, Hoysala Nagara Central, Bengaluru - 560038, Karnataka, India",08041222623,Geoapify,node/3369957256,12.9789913,77.6393703,2026-10-06T17:00:27+00:00
-My Look Beauty Parlour,Salon,Bengaluru,"5/1, Balaji Layout, Maruthi Seva Nagara, Bengaluru - 560084, Karnataka, India",+919972515553,Geoapify,node/8963758102,13.0022137,77.6237059,2026-10-06T17:00:27+00:00
-Lakme Salon,Salon,Bengaluru,"Outer Ring Road, Banashankari, Bengaluru - 560085, Karnataka, India",,Geoapify,node/1471945416,12.9251112,77.55076,2026-10-06T17:00:27+00:00
-Style Hairdresses,Salon,Bengaluru,"Sri Rama Temple Road, Ejipura, Bengaluru - 560095, Karnataka, India",,Geoapify,node/4063559082,12.9456667,77.6289508,2026-10-06T17:00:27+00:00
-Snap Fitness,Gym,Bengaluru,"46, Star Circle Underpass, Basaveshwaranagar, Bengaluru - 560010, Karnataka, India",8065651050,Geoapify,node/4382905017,12.9992349,77.5495341,2026-10-06T17:00:27+00:00
-Impact Fitness Studio,Gym,Bengaluru,"948, 12th Main Road, 4th Cross Road, Indiranagar, Bengaluru - 560008, Karnataka, India",9880602625,Geoapify,node/4490237942,12.9714764,77.6389942,2026-10-06T17:00:27+00:00
-Apple Fitness,Gym,Bengaluru,"25333, 24th Main Road, HSR Layout, Bengaluru - 560102, Karnataka, India",7259606666,Geoapify,node/4490311867,12.9121818,77.6487761,2026-10-06T17:00:27+00:00
-Gold's Gym,Gym,Bengaluru,"2631, 27th Main Road, HSR Layout, Bengaluru - 560102, Karnataka, India",8042420606,Geoapify,node/4490422378,12.915438,77.6515839,2026-10-06T17:00:27+00:00
-Snap Fitness,Gym,Bengaluru,"775, 24th Cross Road, Ganesh Mandira Ward, Bengaluru - 560070, Karnataka, India",8026420203,Geoapify,node/4490453225,12.9243812,77.5644144,2026-10-06T17:00:27+00:00
-Kaniṣka Gryāṇḍ,Hotel,Bengaluru,"2, Ācārya Tulsī Road, Gandhinagar, Bengaluru - 560009, Karnataka, India",+919900600177;+919742208318,Geoapify,way/150797672,12.9781708,77.5799084,2026-10-06T17:00:27+00:00
-West Fort Hotel,Hotel,Bengaluru,"19/6, Magadi Road, Gopalpura, Bengaluru - 560023, Karnataka, India",+91 802 320 3303;+91 907 176 3397;+91 80 2200 3300,Geoapify,way/347175728,12.979031,77.5640807,2026-10-06T17:00:27+00:00
-Royal Regency Lodge,Hotel,Bengaluru,"251, Subedar Chatram Road, Gandhinagar, Bengaluru - 560009, Karnataka, India",080-41130202,Geoapify,node/4763212044,12.978436,77.5753365,2026-10-06T17:00:27+00:00
-Manjusri Paradise Lodge,Hotel,Bengaluru,"2nd Cross Road, Gandhinagar, Bengaluru - 560009, Karnataka, India",9880701649,Geoapify,node/4763212998,12.9777193,77.5748871,2026-10-06T17:00:27+00:00
-Santrina Hotels,Hotel,Bengaluru,"1st A Cross Road, Kormangala West, Bengaluru - 560095, Karnataka, India",,Geoapify,node/13246335122,12.9348121,77.6159774,2026-10-06T17:00:27+00:00
-Kumbakonam Degree Coffee,Cafe,Chennai,"Vadhyar Subbraya mudali street, Zone 10 Kodambakkam, Chennai - 600015, Tamil Nadu, India",,Geoapify,node/3450050680,13.0222529,80.2222034,2026-10-06T17:00:27+00:00
-Nibble Nest,Cafe,Chennai,"18, South Mada Street, Zone 13 Adyar, Chennai - 600025, Tamil Nadu, India",,Geoapify,node/13683621558,13.0130045,80.229791,2026-10-06T17:00:27+00:00
-Madras Coffee House,Cafe,Chennai,"Sir Thyagaraya Road, Zone 9 Teynampet, Chennai - 600017, Tamil Nadu, India",,Geoapify,node/13743048384,13.0398966,80.2431716,2026-10-06T17:00:27+00:00
-Coffee Central,Cafe,Chennai,"Doctor Shivaji Ganesan Road, Zone 9 Teynampet, Chennai - 600017, Tamil Nadu, India",,Geoapify,node/386780832,13.0470673,80.2455216,2026-10-06T17:00:27+00:00
-Cafe Coffee Day,Cafe,Chennai,"Uttamar Gandhi Salai (Nungambakkam High Road), Zone 9 Teynampet, Chennai - 600034, Tamil Nadu, India",,Geoapify,node/7255775716,13.0554045,80.2496804,2026-10-06T17:00:27+00:00
-The Perf Ice Candy,Restaurant,Chennai,"27/1, Welcome Colony, Welcome Colony 3rd Stree, Zone 7 Ambattur, Chennai - 600101, Tamil Nadu, India",+919962957373,Geoapify,node/6637689502,13.0879425,80.1947286,2026-10-06T17:00:27+00:00
-Adyar Ananda Bhavan,Restaurant,Chennai,"RK Mutt Road, Zone 9 Teynampet, Chennai - 600004, Tamil Nadu, India",+91 44 2345 3031,Geoapify,node/332065830,13.0340003,80.2677522,2026-10-06T17:00:27+00:00
-Ayyanar Hotel,Restaurant,Chennai,"Shastri Nagar1st Main Road, Zone 13 Adyar, Chennai - 600090, Tamil Nadu, India",,Geoapify,way/355025312,12.9968601,80.2591282,2026-10-06T17:00:27+00:00
-Vel Tiffin Centre,Restaurant,Chennai,"Koothadum Pilliyar Koil Street, Saidapet, Chennai - 600015, Tamil Nadu, India",,Geoapify,node/3450042000,13.0243276,80.2212113,2026-10-06T17:00:27+00:00
-Home Meals,Restaurant,Chennai,"Gandhi Mandapam Road, Zone 13 Adyar, Chennai - 600085, Tamil Nadu, India",,Geoapify,node/3687697988,13.0180196,80.2411617,2026-10-06T17:00:27+00:00
-Raasi Medicals,Pharmacy,Chennai,"S.V. Chidambaram Salai, Zone 10 Kodambakkam, Chennai - 600083, Tamil Nadu, India",044 2471 6153,Geoapify,node/8100644874,13.0275307,80.2102579,2026-10-06T17:00:27+00:00
-Sree Thirumal Pharmacy,Pharmacy,Chennai,"4C, T.V.S. Avenue Main Road, Zone 7 Ambattur, Chennai - 600101, Tamil Nadu, India",04426544609,Geoapify,node/4571917396,13.090139,80.1885088,2026-10-06T17:00:27+00:00
-Apollo Pharmacy,Pharmacy,Chennai,"Besant Nagar 3rd Main Road, Zone 13 Adyar, Chennai - 600090, Tamil Nadu, India",,Geoapify,node/10268908442,12.9985283,80.2674654,2026-10-06T17:00:27+00:00
-Ashok Nagar Pharmacy,Pharmacy,Chennai,"Vaigai Colony 2nd Cross Street, Zone 10 Kodambakkam, Chennai - 600083, Tamil Nadu, India",,Geoapify,node/8111869852,13.0312946,80.2116224,2026-10-06T17:00:27+00:00
-Ashok Medicals,Pharmacy,Chennai,"Jawaharlal Nehru Road (100 Feet Road), Zone 10 Kodambakkam, Chennai - 600083, Tamil Nadu, India",,Geoapify,node/5400382372,13.0349633,80.2123839,2026-10-06T17:00:27+00:00
-Frontier Lifeline Hospital,Hospital,Chennai,"R 30 C, Greenfields colony road, Zone 7 Ambattur, Chennai - 600101, Tamil Nadu, India",044 4201 7575,Geoapify,way/354278944,13.0875243,80.1857322,2026-10-06T17:00:27+00:00
-SRM Institutes For Medical Science,Hospital,Chennai,"No. 1, Jawaharlal Nehru Road (100 Feet Road), Zone 10 Kodambakkam, Chennai - 600026, Tamil Nadu, India",+91 44 2000 2001,Geoapify,node/4488082604,13.0515961,80.2114304,2026-10-06T17:00:27+00:00
-Health Centre,Hospital,Chennai,"Gandhi Mandapam Road, Zone 13 Adyar, Chennai - 600085, Tamil Nadu, India",,Geoapify,way/181579506,13.0135785,80.2393143,2026-10-06T17:00:27+00:00
-"Medindia Hospitals, Chennai",Hospital,Chennai,"Melpaadi Muthu Lane, Zone 9 Teynampet, Chennai - 600034, Tamil Nadu, India",,Geoapify,node/6937067452,13.0606718,80.2432201,2026-10-06T17:00:27+00:00
-MM Hospital,Hospital,Chennai,"Kaliamman Koil Street, Zone 10 Kodambakkam, Chennai - 600092, Tamil Nadu, India",,Geoapify,node/7823776250,13.0527721,80.191781,2026-10-06T17:00:27+00:00
-Suman Clinic,Clinic,Chennai,"76, Mahalingapuram Main Road, Zone 9 Teynampet, Chennai - 600034, Tamil Nadu, India",+91 44 2817 4422,Geoapify,node/6167503412,13.055823,80.2348714,2026-10-06T17:00:27+00:00
-Dr. Prema Womens Clinic,Clinic,Chennai,"Mahatma Gandhi Road, Zone 13 Adyar, Chennai - 600041, Tamil Nadu, India",,Geoapify,node/7823415050,12.9969555,80.2582848,2026-10-06T17:00:27+00:00
-The Homeo Clinic,Clinic,Chennai,"Mahatma Gandhi Road, Zone 13 Adyar, Chennai - 600090, Tamil Nadu, India",,Geoapify,node/7823415036,12.9963121,80.2637162,2026-10-06T17:00:27+00:00
-Jeyam Gastro Clinc,Clinic,Chennai,"Mahatma Gandhi Road, Zone 13 Adyar, Chennai - 600090, Tamil Nadu, India",,Geoapify,node/7823415042,12.9962821,80.2641614,2026-10-06T17:00:27+00:00
-Sujetha Clinic,Clinic,Chennai,"Beach Road, Zone 13 Adyar, Chennai - 600041, Tamil Nadu, India",,Geoapify,node/7823415074,12.993602,80.2619646,2026-10-06T17:00:27+00:00
-Renew Aesthetics and Renew Dental,Dentist,Chennai,"21/9, Krishnapuram Street, Zone 9 Teynampet, Chennai - 600014, Tamil Nadu, India",099411 72377,Geoapify,node/13942284301,13.0467593,80.2669408,2026-10-06T17:00:27+00:00
-Sri Viveka Institute Of Dental Health,Dentist,Chennai,"Gopathi Narayanaswami Road, Zone 10 Kodambakkam, Chennai - 600017, Tamil Nadu, India",,Geoapify,node/6937420406,13.0438892,80.2387923,2026-10-06T17:00:27+00:00
-Ramchandras Jussmile Dental Clinic & Dental Implant Centre,Dentist,Chennai,"Poompuhar Nagar 1st Main Road, Ward 64, Chennai - 600099, Tamil Nadu, India",,Geoapify,node/7825009802,13.1209261,80.214363,2026-10-06T17:00:27+00:00
-Arun Dental Clinic,Dentist,Chennai,"kamarajar Salai, AVM Avenue 1st Main Road, Zone 10 Kodambakkam, Chennai - 600092, Tamil Nadu, India",,Geoapify,node/7823776204,13.0478238,80.1892231,2026-10-06T17:00:27+00:00
-Ranganathan Dental Clinic,Dentist,Chennai,"SAIT Colony 2nd Street, Zone 5 Royapuram, Chennai - 600008, Tamil Nadu, India",,Geoapify,node/7824965236,13.0732526,80.25379,2026-10-06T17:00:27+00:00
-Indian Overseas Bank,Bank,Chennai,"Besant Nagar 3rd Main Road, Zone 13 Adyar, Chennai - 600090, Tamil Nadu, India",,Geoapify,node/10268908440,12.9985753,80.2676265,2026-10-06T17:00:27+00:00
-AU Small Finance Bank,Bank,Chennai,"Besant Nagar 2nd Avenue, Zone 13 Adyar, Chennai - 600090, Tamil Nadu, India",,Geoapify,node/12623383154,12.9961908,80.2678226,2026-10-06T17:00:27+00:00
-ICICI Bank,Bank,Chennai,"Jeenis Road, Saidapet, Chennai - 600015, Tamil Nadu, India",,Geoapify,node/3467526750,13.0221903,80.2241076,2026-10-06T17:00:27+00:00
-State Bank of India,Bank,Chennai,"Jeenis Road, Saidapet, Chennai - 600015, Tamil Nadu, India",,Geoapify,way/338261244,13.0233744,80.2245169,2026-10-06T17:00:27+00:00
-Bank of Baroda,Bank,Chennai,"Sir Thyagaraya Road, Zone 10 Kodambakkam, Chennai - 600017, Tamil Nadu, India",,Geoapify,node/13311060904,13.0412999,80.2352747,2026-10-06T17:00:27+00:00
-C.S.Rajasundaram Chetty & Sons.,Supermarket,Chennai,"Rasappa Chetty Street, Zone 5 Royapuram, Chennai - 600003, Tamil Nadu, India",044 25353104,Geoapify,node/8445003084,13.0859974,80.2807246,2026-10-06T17:00:27+00:00
-Alchemy Media Marketing,Supermarket,Chennai,"56/16, Rukmani Road, Zone 13 Adyar, Chennai - 600090, Tamil Nadu, India",,Geoapify,node/9819135522,12.9945334,80.2640619,2026-10-06T17:00:27+00:00
-S.T.M.S. General Store,Supermarket,Chennai,"Valluvar Kottam High Road, Zone 9 Teynampet, Chennai - 600034, Tamil Nadu, India",,Geoapify,node/7271121226,13.0571524,80.242978,2026-10-06T17:00:27+00:00
-Daniel Super Market,Supermarket,Chennai,"Velachery Road, Zone 13 Adyar, Chennai - 600015, Tamil Nadu, India",,Geoapify,node/12573526002,13.0131367,80.2240167,2026-10-06T17:00:27+00:00
-Reliance Fresh,Supermarket,Chennai,"Kaliamman Koil Street, Zone 10 Kodambakkam, Chennai - 600093, Tamil Nadu, India",,Geoapify,node/595659824,13.0596967,80.1952529,2026-10-06T17:00:27+00:00
-Fresh Baked Goodness,Bakery,Chennai,"New No. 22, Old No. 40, 3rd Street, Zone 9 Teynampet, Chennai - 600004, Tamil Nadu, India",+919962104626,Geoapify,node/8425034938,13.0338116,80.2625203,2026-10-06T17:00:27+00:00
-CK Bakery,Bakery,Chennai,"Arya Gowda Road, Zone 10 Kodambakkam, Chennai - 600033, Tamil Nadu, India",,Geoapify,node/6010172976,13.0362143,80.220664,2026-10-06T17:00:27+00:00
-Cake Park,Bakery,Chennai,"Doctor Nair Road, Zone 10 Kodambakkam, Chennai - 600017, Tamil Nadu, India",,Geoapify,node/3725572114,13.0406035,80.2404478,2026-10-06T17:00:27+00:00
-The olde madras baking company,Bakery,Chennai,"Habibullah Road, Zone 9 Teynampet, Chennai - 600017, Tamil Nadu, India",,Geoapify,node/13137393826,13.0502555,80.2381734,2026-10-06T17:00:27+00:00
-Vijaya bakery,Bakery,Chennai,"Vivekananda Nagar Main Road, Zone 7 Ambattur, Chennai - 600099, Tamil Nadu, India",,Geoapify,node/10013621160,13.1241104,80.2014276,2026-10-06T17:00:27+00:00
-OnePlus Experience & Service,Electronics Store,Chennai,"39, Sir Thyagaraya Road, Zone 10 Kodambakkam, Chennai - 600017, Tamil Nadu, India",+91-44-48599314,Geoapify,node/8413766106,13.0408878,80.2377814,2026-10-06T17:00:27+00:00
-Xerox World,Electronics Store,Chennai,"Kasi Estate 1st Street, Zone 10 Kodambakkam, Chennai - 600083, Tamil Nadu, India",,Geoapify,node/8096493932,13.0292686,80.2085889,2026-10-06T17:00:27+00:00
-சங்கீதா மொபைல்ஸ்,Electronics Store,Chennai,"South Usman Road, Zone 10 Kodambakkam, Chennai - 600022, Tamil Nadu, India",,Geoapify,node/13760669020,13.0340421,80.2305654,2026-10-06T17:00:27+00:00
-Rajan Electronics,Electronics Store,Chennai,"EVR Periyar Salai, Zone 8 Anna Nagar, Chennai - 600030, Tamil Nadu, India",,Geoapify,node/13955228802,13.0738221,80.2267297,2026-10-06T17:00:27+00:00
-maha ganapathy cell city,Electronics Store,Chennai,"Vivekananda Nagar Main Road, Kolathur, Chennai - 600099, Tamil Nadu, India",,Geoapify,node/10013621148,13.1241794,80.2015853,2026-10-06T17:00:27+00:00
-Apple Hair Style,Salon,Chennai,"Anaikara Kannan Street, Zone 5 Royapuram, Chennai - 600079, Tamil Nadu, India",,Geoapify,node/11533218766,13.1014849,80.2829859,2026-10-06T17:00:27+00:00
-"Macau, Men and Kids Beauty Saloon",Salon,Chennai,"Mettu Street, Zone 5 Royapuram, Chennai - 600021, Tamil Nadu, India",,Geoapify,node/10675652330,13.1010509,80.2907926,2026-10-06T17:00:27+00:00
-The Hair Lounge,Salon,Chennai,"Savari Muthu Street, Zone 5 Royapuram, Chennai - 600079, Tamil Nadu, India",,Geoapify,node/10208863114,13.0975736,80.2874061,2026-10-06T17:00:27+00:00
-Classic Corner Saloon,Salon,Chennai,"Moore Street, Zone 5 Royapuram, Chennai - 600079, Tamil Nadu, India",,Geoapify,node/10107995500,13.0959944,80.2911697,2026-10-06T17:00:27+00:00
-K.F. Salon,Salon,Chennai,"Geils Street, Zone 5 Royapuram, Chennai - 600079, Tamil Nadu, India",,Geoapify,node/10156205708,13.100101,80.286975,2026-10-06T17:00:27+00:00
-Elliot's Beach Gym,Gym,Chennai,"Elliot's Beach Promenade, Zone 13 Adyar, Chennai - 600090, Tamil Nadu, India",,Geoapify,way/1132145716,13.0001673,80.2711805,2026-10-06T17:00:27+00:00
-Muscle Factory,Gym,Chennai,"Kodambakkam Road, Zone 10 Kodambakkam, Chennai - 600015, Tamil Nadu, India",,Geoapify,node/5631872270,13.0279767,80.2200456,2026-10-06T17:00:27+00:00
-New Body and Soul Hi Tech Gym,Gym,Chennai,"Gandhi Street, Zone 10 Kodambakkam, Chennai - 600083, Tamil Nadu, India",,Geoapify,node/8100626663,13.0277261,80.2086898,2026-10-06T17:00:27+00:00
-Shape Up Gym,Gym,Chennai,"Gandhi Road, Zone 8 Anna Nagar, Chennai - 600094, Tamil Nadu, India",,Geoapify,node/10611686005,13.0661144,80.2224113,2026-10-06T17:00:27+00:00
-Penguin Sports Academy,Gym,Chennai,"Rasappa Chetty Street, Zone 5 Royapuram, Chennai - 600079, Tamil Nadu, India",,Geoapify,node/10795076513,13.0864829,80.2759526,2026-10-06T17:00:27+00:00
-"The Raintree, St Mary's Road",Hotel,Chennai,"120, St. Mary's Road, Zone 9 Teynampet, Chennai - 600018, Tamil Nadu, India",+914442252525,Geoapify,way/1112836238,13.0286315,80.2526642,2026-10-06T17:00:27+00:00
-G R Guest House,Hotel,Chennai,"Anjugam Nagar 1st Street, Zone 10 Kodambakkam, Chennai - 600083, Tamil Nadu, India",96771 92893,Geoapify,node/8108613660,13.0296004,80.2090818,2026-10-06T17:00:27+00:00
-Hotel Mines,Hotel,Chennai,"Inner Ring Road, Zone 13 Adyar, Chennai - 600032, Tamil Nadu, India",,Geoapify,node/5232761114,13.0236643,80.2066037,2026-10-06T17:00:27+00:00
-Amma Unavagam,Hotel,Chennai,"Gangai Amman Koil Street, Zone 10 Kodambakkam, Chennai - 600083, Tamil Nadu, India",,Geoapify,node/4308320096,13.0246097,80.2125531,2026-10-06T17:00:27+00:00
-Kuber Inn,Hotel,Chennai,"8, Lakshmi Narasimman Street, Zone 10 Kodambakkam, Chennai - 600017, Tamil Nadu, India",,Geoapify,way/1126048198,13.0409084,80.2311831,2026-10-06T17:00:27+00:00
-Masthanamma Canteen,Cafe,Hyderabad,"Boduppal Colony Road, Boduppal, - 500039, Telangana, India",+91 8328406462;+91 7396098152;+91 9951555024,Geoapify,node/6582353398,17.4211212,78.5647834,2026-10-06T17:00:27+00:00
-SATYA NARAYANA CAFE,Cafe,Hyderabad,"Malkajgiri Road, Ward 141 Gautham Nagar, Hyderabad - 500017, Telangana, India",,Geoapify,node/10262083190,17.4469498,78.5328389,2026-10-06T17:00:27+00:00
-N S Pizza Hub,Cafe,Hyderabad,"Padmarao Nagar Road, Boiguda, Hyderabad - 500025, Telangana, India",,Geoapify,node/9731704308,17.4236387,78.5077151,2026-10-06T17:00:27+00:00
-Aqua Cafe,Cafe,Hyderabad,"Golnaka Road, Nallakunta, Hyderabad - 500027, Telangana, India",,Geoapify,node/4378873492,17.3886699,78.5036851,2026-10-06T17:00:27+00:00
-Cafe Coffee Day,Cafe,Hyderabad,"Nallakunta Main Road, Vidyanagar, Hyderabad - 500044, Telangana, India",,Geoapify,node/7244243972,17.4003341,78.5077415,2026-10-06T17:00:27+00:00
-JusyLife,Restaurant,Hyderabad,"2-2-7\5a, Osmania University Road, Ward 84 Bagh Amberpet, Hyderabad - 500013, Telangana, India",+91 91333 81888,Geoapify,node/9748215760,17.4053026,78.5156729,2026-10-06T17:00:27+00:00
-Grand Bavarchi,Restaurant,Hyderabad,"Service Road, Moosarambagh, Hyderabad - 500036, Telangana, India",040 6668 9741,Geoapify,node/7576018686,17.3693123,78.5153122,2026-10-06T17:00:27+00:00
-Istanbul authentic doner kebab,Restaurant,Hyderabad,"Old Bombay Highway, Tolichowki, Hyderabad - 500008, Telangana, India",9573002015,Geoapify,node/5973773086,17.3968157,78.4238638,2026-10-06T17:00:27+00:00
-Surabhi Bar and Restaurant,Restaurant,Hyderabad,"Nacharam Road, Nacharam, Hyderabad - 500076, Telangana, India",,Geoapify,node/8111070732,17.4285032,78.5511175,2026-10-06T17:00:27+00:00
-Pickles,Restaurant,Hyderabad,"Sarojini Devi Road, Marredpally mandal, Hyderabad - 500026, Telangana, India",,Geoapify,node/1416850704,17.4412663,78.5003508,2026-10-06T17:00:27+00:00
-Pradhan Manthri Bharatiya Jan Aushadhi Kendra,Pharmacy,Hyderabad,"Hill Park Road, Nampally, Hyderabad - 500004, Telangana, India",8096745599,Geoapify,node/6222437288,17.3972626,78.462798,2026-10-06T17:00:27+00:00
-Hetero,Pharmacy,Hyderabad,"Shivam Road, Ward 84 Bagh Amberpet, Hyderabad - 500044, Telangana, India",,Geoapify,node/2708239888,17.3989187,78.5128218,2026-10-06T17:00:27+00:00
-Sai Ram Medical & General Stores,Pharmacy,Hyderabad,"Chilkanagar Main Road, Uppal, Hyderabad - 500039, Telangana, India",,Geoapify,node/6593421966,17.4208674,78.5644225,2026-10-06T17:00:27+00:00
-Mediplus,Pharmacy,Hyderabad,"LB Nagar - Uppal Road, Nagole, Hyderabad - 500060, Telangana, India",,Geoapify,node/1713940490,17.3741194,78.5585102,2026-10-06T17:00:27+00:00
-Pharmacy ,Pharmacy,Hyderabad,"New Nagole Main Road, Saroor Nagar, Hyderabad - 500102, Telangana, India",,Geoapify,node/4209992292,17.3723814,78.5459288,2026-10-06T17:00:27+00:00
-Meena Hospital,Hospital,Hyderabad,"Tukaram Gate Main Road, Ward 142 Addagutta, Hyderabad - 500026, Telangana, India",040 2773 0674,Geoapify,node/3506878894,17.44165,78.5218514,2026-10-06T17:00:27+00:00
-KASTURI MULTISPECIALITY HOSPITAL,Hospital,Hyderabad,"St Johns Road, Ward 142 Addagutta, Hyderabad - 500025, Telangana, India","040-27830534, 040-27831534, +91-7207375534",Geoapify,node/6548826056,17.4389273,78.5060866,2026-10-06T17:00:27+00:00
-Satya Multi Speciality Hospital,Hospital,Hyderabad,"Chilkanagar Main Road, Uppal, Hyderabad - 500039, Telangana, India",+91 7093088502;+91 9030911252,Geoapify,node/6632844432,17.4189151,78.5654264,2026-10-06T17:00:27+00:00
-ANAND EYE INSITUTE,Hospital,Hyderabad,"Habsiguda Main Road, Uppal, Hyderabad - 500007, Telangana, India",040-27151999,Geoapify,node/6549209512,17.4183281,78.5427846,2026-10-06T17:00:27+00:00
-SUMITHRA HOSPITALS,Hospital,Hyderabad,"Inner Ring Road, Ward 10 Uppal, Hyderabad - 500039, Telangana, India",04027202741 ; 04027202742,Geoapify,node/6549439100,17.3960244,78.559704,2026-10-06T17:00:27+00:00
-"Urban Primary Health Centre, Tukaramgate",Clinic,Hyderabad,"Tukaram Gate Main Road, Marredpally mandal, Hyderabad - 500026, Telangana, India",,Geoapify,node/11001542598,17.4439108,78.5213253,2026-10-06T17:00:27+00:00
-"Primary Health Centre, Uppal (Urban)",Clinic,Hyderabad,"Uppal Skywalk, Ward 10 Uppal, Hyderabad - 500039, Telangana, India",,Geoapify,node/6547969014,17.4020034,78.5607594,2026-10-06T17:00:27+00:00
-Ananda Nursing Home,Clinic,Hyderabad,"Lalitha Nagar Road, Ward 85 Adikmet, Hyderabad - 752106, Telangana, India",,Geoapify,node/635590614,17.4101591,78.5143831,2026-10-06T17:00:27+00:00
-IICT-CCMB Dispensary,Clinic,Hyderabad,"Dr. Zaheer Marg, Nacharam, Hyderabad - 500007, Telangana, India",,Geoapify,node/6616154446,17.4216119,78.5427439,2026-10-06T17:00:27+00:00
-Urban Primary Health Centre Venkatreddy Nagar (Urban),Clinic,Hyderabad,"Patel Nagar Road, Ward 8 Habsiguda, Hyderabad - 500013, Telangana, India",,Geoapify,node/6545241016,17.3861047,78.5282457,2026-10-06T17:00:27+00:00
-Appaji Dental Clinic,Dentist,Hyderabad,"Lane Number 6, Jawahar Nagar, Hyderabad - 500020, Telangana, India",,Geoapify,node/6308262634,17.4106528,78.4926179,2026-10-06T17:00:27+00:00
-Shubham Dental Clinic,Dentist,Hyderabad,"Akbar Road, Gunrock Enclave, - 500011, Telangana, India",,Geoapify,node/5892276114,17.4643612,78.4838834,2026-10-06T17:00:27+00:00
-M.S. Malik Multi Speciality Dental Clinic,Dentist,Hyderabad,"Fateh Sultan Road, Ward 78 Gunfoundry, Hyderabad - 500001, Telangana, India",,Geoapify,node/6811749038,17.39345,78.472396,2026-10-06T17:00:27+00:00
-Smile Care Dental Hospital,Dentist,Hyderabad,"Yousufguda Main Road, Vengal Rao Nagar, Hyderabad - 500045, Telangana, India",,Geoapify,node/6811749100,17.4379618,78.4401576,2026-10-06T17:00:27+00:00
-Smile Dental Hospital,Dentist,Hyderabad,"Khader Bagh road, Ward 71 Gudimalkapur, Hyderabad - 500028, Telangana, India",,Geoapify,node/6811749060,17.3911578,78.4276191,2026-10-06T17:00:27+00:00
-Syndicate Bank,Bank,Hyderabad,"Wellington Road, Marredpally mandal, Secunderabad - 500003, Telangana, India",,Geoapify,node/8386652612,17.4551205,78.5038909,2026-10-06T17:00:27+00:00
-Axis Bank,Bank,Hyderabad,"Krishna Deva Raya Road, Sitaphalmandi, Hyderabad - 500017, Telangana, India",,Geoapify,node/813571840,17.4289334,78.5275174,2026-10-06T17:00:27+00:00
-Dena Bank,Bank,Hyderabad,"Warasiguda Road, Musheerabad, Hyderabad - 500061, Telangana, India",,Geoapify,node/5539327284,17.4195859,78.5185669,2026-10-06T17:00:27+00:00
-State Bank of India,Bank,Hyderabad,"12-10-416/A, Warasiguda, Padmarao Nagar, Namalagundu Road, Ward 145 Seethaphalmandi, Hyderabad - 500061, Telangana, India",,Geoapify,node/9903919152,17.422347,78.5170927,2026-10-06T17:00:27+00:00
-Canara Bank,Bank,Hyderabad,"Street Number 20, Ward 84 Bagh Amberpet, Hyderabad - 353535, Telangana, India",,Geoapify,way/331773086,17.3960055,78.5202614,2026-10-06T17:00:27+00:00
-Rajlaxmi Kirana & General Stores,Supermarket,Hyderabad,"Boduppal Colony Road, Boduppal, - 500039, Telangana, India",+91 9676786288,Geoapify,node/6581371226,17.4236842,78.5673812,2026-10-06T17:00:27+00:00
-sandeep kirana stores,Supermarket,Hyderabad,"railway street, Marredpally mandal, Hyderabad - 500017, Telangana, India",+91 9885204612,Geoapify,node/9391096288,17.4378229,78.5382835,2026-10-06T17:00:27+00:00
-Maa Bhagwathi Home Needs & Electronics,Supermarket,Hyderabad,"Chilkanagar Main Road, Uppal, Hyderabad - 500039, Telangana, India",+91 9700057507,Geoapify,node/6632844428,17.4191818,78.5653266,2026-10-06T17:00:27+00:00
-Tharuni Super Market,Supermarket,Hyderabad,"5-32/4, Malkajgiri, Malkajgiri X Road, Ward 140 Malkajgiri, Hyderabad - 500047, Telangana, India",,Geoapify,node/1435296000,17.4500675,78.5360546,2026-10-06T17:00:27+00:00
-Ghanshyam Super Market,Supermarket,Hyderabad,"Hyderabad - Mancherial Highway, Marredpally mandal, - 500015, Telangana, India",,Geoapify,node/8386386570,17.4579823,78.500072,2026-10-06T17:00:27+00:00
-S.S.K. Bakers,Bakery,Hyderabad,"Boduppal Colony Road, Boduppal, - 500039, Telangana, India",+91 9059024051,Geoapify,node/6593421944,17.4230365,78.5680497,2026-10-06T17:00:27+00:00
-Dolphin,Bakery,Hyderabad,"Nacharam Road, Nacharam, Hyderabad - 500076, Telangana, India",,Geoapify,node/6865895984,17.4234709,78.5461301,2026-10-06T17:00:27+00:00
-MGM Bakery,Bakery,Hyderabad,"Warasiguda-Parsigutta Road, Ward 146 Boudha Nagar, Hyderabad - 500061, Telangana, India",,Geoapify,node/5608451168,17.4197715,78.5165633,2026-10-06T17:00:27+00:00
-Dophin,Bakery,Hyderabad,"Nacharam Road, Nacharam, Hyderabad - 500017, Telangana, India",,Geoapify,way/733462896,17.4234562,78.5461442,2026-10-06T17:00:27+00:00
-Universal bakery,Bakery,Hyderabad,"Ramnagar Road, Ward 85 Adikmet, Hyderabad - 500044, Telangana, India",,Geoapify,node/8387157862,17.4073283,78.5129101,2026-10-06T17:00:27+00:00
-Unique Mobile Stationery and Gift Sales and Service,Electronics Store,Hyderabad,"Road No 10, Boduppal, - 500076, Telangana, India",+91 9666349444;+919059181031;+919395501165,Geoapify,node/6581371216,17.4234176,78.567006,2026-10-06T17:00:27+00:00
-Telenor Store,Electronics Store,Hyderabad,"Ramnagar Road, Ward 85 Adikmet, Hyderabad - 500044, Telangana, India",9059201178,Geoapify,node/4319818243,17.4084061,78.5112931,2026-10-06T17:00:27+00:00
-Aircel Store,Electronics Store,Hyderabad,"Ramnagar Road, Ward 85 Adikmet, Hyderabad - 500044, Telangana, India",,Geoapify,node/4319818968,17.4084249,78.5112269,2026-10-06T17:00:27+00:00
-Bajaj electronics,Electronics Store,Hyderabad,"Ward 9 Ramanthapur, Hyderabad - 500013, Telangana, India",,Geoapify,node/12852211118,17.3991007,78.5380842,2026-10-06T17:00:27+00:00
-Tirupati Electronics,Electronics Store,Hyderabad,"Vijaywada Highway, Gaddiannaram, Hyderabad - 500035, Telangana, India",,Geoapify,node/6390378848,17.3689714,78.522324,2026-10-06T17:00:27+00:00
-Laxmi Tirumala Hair Style,Salon,Hyderabad,"Boduppal Colony Road, Boduppal, - 500039, Telangana, India",+91 9963121924,Geoapify,node/6581371222,17.4235778,78.5672191,2026-10-06T17:00:27+00:00
-Karthik Mens Beauty Salon,Salon,Hyderabad,"Road No 6, Boduppal, - 500039, Telangana, India",+918019474269,Geoapify,node/6574777324,17.4215264,78.5668253,2026-10-06T17:00:27+00:00
-Swagath Mens Hair Saloon,Salon,Hyderabad,"Boduppal Colony Road, Boduppal, - 500039, Telangana, India",+91 8801262090,Geoapify,node/6582353394,17.4212419,78.5648953,2026-10-06T17:00:27+00:00
-Sree Swagath Mens Parlour,Salon,Hyderabad,"Boduppal Colony Road, Boduppal, - 500039, Telangana, India",+91 9866683791,Geoapify,node/6582353392,17.4212869,78.5649492,2026-10-06T17:00:27+00:00
-Sri Nandishwara Hair Style,Salon,Hyderabad,"Boduppal Colony Road, Boduppal, - 500039, Telangana, India",+91 8008383863,Geoapify,node/6593421938,17.4229891,78.5683467,2026-10-06T17:00:27+00:00
-LORD'S GYM,Gym,Hyderabad,"3rd floor, Inner Ring Road, Ward 11 Nagole, Hyderabad - 500068, Telangana, India",063012 04045,Geoapify,node/13963701201,17.3625157,78.5576483,2026-10-06T17:00:27+00:00
-Shakthi Gold Gym,Gym,Hyderabad,"Chilkanagar Main Road, Uppal, Hyderabad - 500039, Telangana, India",+91 9848496829,Geoapify,node/6575821850,17.4179636,78.5661598,2026-10-06T17:00:27+00:00
-SIM Lion Fitness,Gym,Hyderabad,"Ayyappa Temple Road, Uppal, - 500039, Telangana, India",,Geoapify,way/357337057,17.409882,78.5739663,2026-10-06T17:00:27+00:00
-z fitness world,Gym,Hyderabad,"green hills colony, Ward 20 RK Puram, Hyderabad - 500102, Telangana, India",,Geoapify,way/357456733,17.3578844,78.5457946,2026-10-06T17:00:27+00:00
-salus gym,Gym,Hyderabad,"GreenHills Colony Road Number 3, Ward 20 RK Puram, Hyderabad - 500102, Telangana, India",,Geoapify,way/357612254,17.3606739,78.5456642,2026-10-06T17:00:27+00:00
-Kinara Grand,Hotel,Hyderabad,"Habsiguda Main Road, Habsiguda, Hyderabad - 500007, Telangana, India",,Geoapify,node/3200948742,17.4189945,78.5409396,2026-10-06T17:00:27+00:00
-OYO,Hotel,Hyderabad,"green hills colony road no 6, Ward 20 RK Puram, Hyderabad - 500102, Telangana, India",,Geoapify,node/11690787306,17.3585767,78.5457706,2026-10-06T17:00:27+00:00
-Peppermint Hotel,Hotel,Hyderabad,"Lakdikapul Road, Saifabad, Hyderabad - 500004, Telangana, India",,Geoapify,way/115153870,17.406282,78.4631916,2026-10-06T17:00:27+00:00
-Hotel Kens,Hotel,Hyderabad,"Sri Nagar Colony Main Road, Jubilee Hills, Hyderabad - 500073, Telangana, India",,Geoapify,node/1885687332,17.4286758,78.4387661,2026-10-06T17:00:27+00:00
-Hotel Katriya Fortune,Hotel,Hyderabad,"Raj Bhavan Road, Somajiguda, Hyderabad - 500082, Telangana, India",,Geoapify,node/2052650400,17.4247273,78.4595863,2026-10-06T17:00:27+00:00
-Pagdandi cafe,Cafe,Pune,"Baner-Pashan Link Road, Pune - 411021, Maharashtra, India",8788990609,Geoapify,node/3987038638,18.5523223,73.7931643,2026-10-06T17:00:27+00:00
-Revive Social Rooftop Cafe & Lounge,Cafe,Pune,"Rooftop, Raviraj Society, D.P Road, Parihar Chowk, Near Westend Mall, Ramchandra Gayakwad Path, Aundh, Pune - 411007, Maharashtra, India",+918668564552,Geoapify,node/12101659688,18.5604275,73.8080515,2026-10-06T17:00:27+00:00
-Barista Lavazza,Cafe,Pune,"Vishnushastri Chiplunkar Path, Erandwane, Pune - 411001, Maharashtra, India",02025662080,Geoapify,node/2183488936,18.5151955,73.8286908,2026-10-06T17:00:27+00:00
-Vohuman Cafe,Cafe,Pune,"Rajarshi Shahu Maharaj Path, Pune - 411001, Maharashtra, India",+919373323263,Geoapify,node/9967066414,18.5324382,73.8768496,2026-10-06T17:00:27+00:00
-The Veg Culture,Cafe,Pune,"Narveer Tanaji Malusare Marg, Manik Baug, Anandnagar - 411051, Maharashtra, India",,Geoapify,node/8711632382,18.4718862,73.8204546,2026-10-06T17:00:27+00:00
-Cakestory Desserts Gangadham,Restaurant,Pune,"S no. 588/1 A BL B, Shop no.20, Jawaharlal Nehru Marg, Pune - 411037, Maharashtra, India",+91-8552-809191,Geoapify,node/12688233704,18.4814608,73.8722918,2026-10-06T17:00:27+00:00
-New Apoorwai,Restaurant,Pune,"V. R. Kothari Path, Narayan Peth, Pune - 411001, Maharashtra, India",+912024453820,Geoapify,node/5832579348,18.5142459,73.8461682,2026-10-06T17:00:27+00:00
-Asia Kitchen,Restaurant,Pune,"Boat Club Road, Pune - 411001, Maharashtra, India",+91 20 66013030,Geoapify,node/518640962,18.538908,73.8752478,2026-10-06T17:00:27+00:00
-ChickeGo,Restaurant,Pune,"10, Viman Nagar Road, Pune - 411014, Maharashtra, India",8484084833,Geoapify,way/359805562,18.5662424,73.9110802,2026-10-06T17:00:27+00:00
-Sumadhu Veg Restaurant,Restaurant,Pune,"Narveer Tanaji Malusare Marg, Dattawadi, Anandnagar - 411051, Maharashtra, India",02024251822,Geoapify,node/3816611692,18.4896771,73.832051,2026-10-06T17:00:27+00:00
-Morya Generic Medical,Pharmacy,Pune,"Sahyognagar Road, Warje, Anandnagar - 411051, Maharashtra, India",+91 77967 33030,Geoapify,node/13620265852,18.4823083,73.7974961,2026-10-06T17:00:27+00:00
-Amit Medico and General Stores,Pharmacy,Pune,"New DP Road, Pune - 411007, Maharashtra, India",,Geoapify,node/11546228224,18.5608263,73.8028984,2026-10-06T17:00:27+00:00
-Care Cure,Pharmacy,Pune,"Wakeshwar Road, Pashan, Pune - 411001, Maharashtra, India",,Geoapify,node/9975580508,18.5437093,73.7926408,2026-10-06T17:00:27+00:00
-Ishwar Drug House,Pharmacy,Pune,"Pashan-Sus Road, Pashan, Pune - 411001, Maharashtra, India",,Geoapify,node/1011184896,18.5434538,73.7845372,2026-10-06T17:00:27+00:00
-Chetan Medicals,Pharmacy,Pune,"Dattawadi Road, Dattawadi, Pune - 411001, Maharashtra, India",,Geoapify,node/2801208408,18.4987396,73.8389126,2026-10-06T17:00:27+00:00
-Patil Hospital,Hospital,Pune,"Narveer Tanaji Malusare Marg, Manik Baug, Anandnagar - 411051, Maharashtra, India",+919225825463,Geoapify,node/3719797432,18.4791887,73.8247015,2026-10-06T17:00:27+00:00
-Sushrusha Hospital,Hospital,Pune,"Kale Padal Road, Krushna Nagar, Pune - 411028, Maharashtra, India",,Geoapify,node/7649461780,18.483917,73.939737,2026-10-06T17:00:27+00:00
-Om Hospital in Pune,Hospital,Pune,"Lane Number 11, Kondhwa, Pune - 411018, Maharashtra, India",,Geoapify,node/9143796444,18.4747094,73.8844764,2026-10-06T17:00:27+00:00
-immunology and rheumatology clinic,Hospital,Pune,"Right Flank Road, Wanawadi, Pune - 411001, Maharashtra, India",,Geoapify,node/10172914040,18.4958983,73.8886709,2026-10-06T17:00:27+00:00
-Gultekdi Nursing and Maternity Home,Hospital,Pune,"Kushaba Jhangale Road, Mukund Nagar, Pune - 411037, Maharashtra, India",,Geoapify,node/7050392540,18.4926804,73.8685472,2026-10-06T17:00:27+00:00
-Suhrud clinic,Clinic,Pune,"Netaji Palkar Chowk, Pune - 411009, Maharashtra, India",8888893925,Geoapify,node/9549711684,18.4971906,73.8554839,2026-10-06T17:00:27+00:00
-Sai Clinic,Clinic,Pune,"Golwalkar Guruji Path, Panchavati, Pune - 411043, Maharashtra, India",+91 9657617503,Geoapify,node/13314484672,18.4742757,73.8543639,2026-10-06T17:00:27+00:00
-My Speech & Hearing Clinic,Clinic,Pune,"6, Lokmanya Tilak Marg, Sadashiv Peth, Pune - 411030, Maharashtra, India",7040300300,Geoapify,way/365487862,18.507282,73.8514695,2026-10-06T17:00:27+00:00
-The Gastro Clinic,Clinic,Pune,"Gopal Hari Deshmukh Marg, Baner, Pune - 411001, Maharashtra, India",+91 88888 00470,Geoapify,node/13461268166,18.5644788,73.7747916,2026-10-06T17:00:27+00:00
-Opal Histopathology Center,Clinic,Pune,"Gopal Hari Deshmukh Marg, Baner, Pune - 411001, Maharashtra, India",+91 77570 73688;+91 96230 09290,Geoapify,node/13461268168,18.5644423,73.7748448,2026-10-06T17:00:27+00:00
-Dr Rasika's Dental Wellness Centre,Dentist,Pune,"Someshwar Temple Road, Pashan, Pune - 411001, Maharashtra, India",+91 7588871443 / (020) 41225502,Geoapify,node/5771102650,18.5481911,73.7933549,2026-10-06T17:00:27+00:00
-Varad Dental Clinic & Implant Centre,Dentist,Pune,"Samartha Path, Karve Nagar, Anandnagar - 411052, Maharashtra, India",07775866101,Geoapify,node/5803625454,18.4935965,73.8253105,2026-10-06T17:00:27+00:00
-Oracare Detal Clinic,Dentist,Pune,"Someshwar Temple Road, Pashan, Pune - 411001, Maharashtra, India",(020) 25860233,Geoapify,node/10261057846,18.5484006,73.7935198,2026-10-06T17:00:27+00:00
-Lily white Dental clinic,Dentist,Pune,"Pashan-Sus Road, Baner, Pune - 411001, Maharashtra, India",+91 8007663663,Geoapify,node/10799628505,18.5447971,73.7804094,2026-10-06T17:00:27+00:00
-Glowdent Clinic,Dentist,Pune,"Karve Road, Erandwane, Pune - 411051, Maharashtra, India",+91 20 25430418,Geoapify,node/5879368029,18.5033728,73.8193544,2026-10-06T17:00:27+00:00
-SVC Bank,Bank,Pune,"New DP Road, Pune - 411045, Maharashtra, India",+91 20 2729 9110;+91 20 2729 9120;+91 20 2729 9130,Geoapify,node/6130922024,18.5620601,73.8026661,2026-10-06T17:00:27+00:00
-Indusbank,Bank,Pune,"Kondhwa Main Road, Kondhwa, Pune - 411018, Maharashtra, India",,Geoapify,node/9998965648,18.4785123,73.8903509,2026-10-06T17:00:27+00:00
-ICICI Bank,Bank,Pune,"Suncity Road, Manik Baug, Anandnagar - 411051, Maharashtra, India",,Geoapify,node/11909430134,18.4758041,73.8175358,2026-10-06T17:00:27+00:00
-Lokmanya Patasanstha,Bank,Pune,"Gandhibhavan Road, Karve Nagar, Anandnagar - 411038, Maharashtra, India",,Geoapify,node/12880272740,18.4959628,73.8091948,2026-10-06T17:00:27+00:00
-The Yavatmal Urban Co-op Bank Ltd,Bank,Pune,"DP Road, Pune - 411051, Maharashtra, India",,Geoapify,node/6111357576,18.5030788,73.7997848,2026-10-06T17:00:27+00:00
-Ganesh General Store,Supermarket,Pune,"Deccan College Road, Yerawada, Pune - 411001, Maharashtra, India",+91 82620 18692,Geoapify,node/13619790664,18.5485923,73.878748,2026-10-06T17:00:27+00:00
-Jewel Paradise,Supermarket,Pune,"11, Sohrab Hall, Tadiwala Road, RBM Road, Pune - 411001, Maharashtra, India",+91 9823779837,Geoapify,node/6315701310,18.53083,73.8747421,2026-10-06T17:00:27+00:00
-Jiashree Supermarket,Supermarket,Pune,"Someshwar Temple Road, Pashan, Pune - 411001, Maharashtra, India",+91 86691 05803,Geoapify,node/5696339610,18.5482566,73.7934856,2026-10-06T17:00:27+00:00
-Lachhoba,Supermarket,Pune,"NIBM Kondhwa Link Road, Kondhwa, Kondhwa Budruk - 411048, Maharashtra, India",,Geoapify,node/10542458034,18.464781,73.8900789,2026-10-06T17:00:27+00:00
-Cromā,Supermarket,Pune,"Uttamchand Mukunddas Gandhi Path, Pune - 411038, Maharashtra, India",,Geoapify,way/282051126,18.4986827,73.8217192,2026-10-06T17:00:27+00:00
-Bangalore Ayyangers Bakery,Bakery,Pune,"DP Road, Pune - 411051, Maharashtra, India",,Geoapify,node/6111357574,18.5032276,73.7987937,2026-10-06T17:00:27+00:00
-Chocolate Biclate,Bakery,Pune,"Gopal Hari Deshmukh Marg, Baner, Pune - 411001, Maharashtra, India",,Geoapify,node/13598173716,18.5575683,73.7932615,2026-10-06T17:00:27+00:00
-WS Bakers,Bakery,Pune,"Senapati Bapat Marg, Model Colony, Pune - 411001, Maharashtra, India",,Geoapify,node/3754528636,18.5407605,73.8302241,2026-10-06T17:00:27+00:00
-Monginis,Bakery,Pune,"Sqn Ldr Sureshchandra Bhagwat Marg, Model Colony, Pune - 411001, Maharashtra, India",,Geoapify,node/761948610,18.5300262,73.8366561,2026-10-06T17:00:27+00:00
-Copper Chocs,Bakery,Pune,"Karve Road, Erandwane, Pune - 411051, Maharashtra, India",,Geoapify,node/6183911094,18.5026976,73.8172584,2026-10-06T17:00:27+00:00
-Deepak Electronics and Electricals,Electronics Store,Pune,"Dhayari Road, Vadgaon Budruk, Anandnagar - 411051, Maharashtra, India",02024390340,Geoapify,node/3685860724,18.4497428,73.8107698,2026-10-06T17:00:27+00:00
-Crystal Lifestyles,Electronics Store,Pune,"Shankarao Gaikwad Path, Pune - 411007, Maharashtra, India",+91 880 655 5757,Geoapify,node/6135560378,18.5535864,73.8077362,2026-10-06T17:00:27+00:00
-Reliance Digital,Electronics Store,Pune,"Balewadi High Street, Ram Indu Park, Pune - 411045, Maharashtra, India",+912029526081,Geoapify,node/9401950404,18.5635424,73.7765209,2026-10-06T17:00:27+00:00
-Swaroop Computers,Electronics Store,Pune,"Samartha Path, Karve Nagar, Anandnagar - 411052, Maharashtra, India",9890199798,Geoapify,node/5803624700,18.4926766,73.8253871,2026-10-06T17:00:27+00:00
-Vaishali Mobiles,Electronics Store,Pune,"DSK Vishwa Road, Anandnagar - 411051, Maharashtra, India",,Geoapify,node/13546434294,18.4472322,73.8099574,2026-10-06T17:00:27+00:00
-Sameer Men's Salon,Salon,Pune,"Balewadi Gaon Road, Baner, Pune - 411001, Maharashtra, India",+91 95793 92385,Geoapify,node/12770261288,18.5662347,73.7826249,2026-10-06T17:00:27+00:00
-Infinity salon,Salon,Pune,"Paud Road, Bavdhan, Pune - 411051, Maharashtra, India",,Geoapify,node/11766669222,18.5074729,73.7985321,2026-10-06T17:00:27+00:00
-Vivek Hairdressers,Salon,Pune,"Lalbahadur Shashtri Marg, Navi Peth, Pune - 411001, Maharashtra, India",,Geoapify,node/4415636702,18.5065819,73.8446491,2026-10-06T17:00:27+00:00
-Cute Cut,Salon,Pune,"Lane Number 1, Kharadi, Pune - 411001, Maharashtra, India",,Geoapify,node/10560842510,18.5539753,73.9429419,2026-10-06T17:00:27+00:00
-Shades,Salon,Pune,"Lane 8, Ghorpuri, Pune - 411001, Maharashtra, India",,Geoapify,node/10117677626,18.5364587,73.8990858,2026-10-06T17:00:27+00:00
-Endure Fitness Club - Aundh,Gym,Pune,"2nd Floor, Vasundhara Space Survey No-167/1, 168/1, Nagras Road, Aundh, Pune - 411007, Maharashtra, India",+91 7767050404,Geoapify,node/9931533792,18.5656385,73.8065019,2026-10-06T17:00:27+00:00
-Endure Fitness Club - Ambegaon BK,Gym,Pune,"“SUN GLORIA” Complex S. No. 36/2/2 and 39/9B, Katraj Ambegaon Khurd Road, Katraj, Anandnagar - 411046, Maharashtra, India",+91 9158026123,Geoapify,node/9931597154,18.4497215,73.8402625,2026-10-06T17:00:27+00:00
-Gold's Gym,Gym,Pune,"Survey No. 20/2, Uttamchand Mukunddas Gandhi Path, Karve Nagar, Pune - 411051, Maharashtra, India",02065000993,Geoapify,node/2501196670,18.4991044,73.822031,2026-10-06T17:00:27+00:00
-Gold's Gym,Gym,Pune,"Shankarao Gaikwad Path, Pune - 411007, Maharashtra, India",+91 744 748 5011;+91 744 748 5012,Geoapify,node/6135560379,18.553641,73.8076048,2026-10-06T17:00:27+00:00
-Endure Fitness Club - Satara Road,Gym,Pune,"692/693, Ground Floor, CityPride Multiplex, Satara Road, Pune - 411037, Maharashtra, India",+91 9049820505,Geoapify,node/9931539790,18.4886713,73.8579949,2026-10-06T17:00:27+00:00
-Cocoon Hotel,Hotel,Pune,"Magarpatta Rear Approach Road, Pune - 411013, Maharashtra, India",+91 20 6624 4444,Geoapify,way/265094352,18.5091275,73.9285769,2026-10-06T17:00:27+00:00
-Four Points by Sheraton,Hotel,Pune,"5th Mile Stone, Nagar Road, Ward 12, Pune - 411014, Maharashtra, India",91 20-67606699,Geoapify,way/242245544,18.5626195,73.9222212,2026-10-06T17:00:27+00:00
-Fairfield by Marriott Pune Kharadi,Hotel,Pune,"Kharadi Bypass, Kharadi, Pune - 411014, Maharashtra, India",+91 20 6712 1515,Geoapify,way/360274567,18.5459065,73.9366509,2026-10-06T17:00:27+00:00
-Raj Mahal,Hotel,Pune,"Chimaji Appa Peshwe Path, Swargate, Pune - 411001, Maharashtra, India",,Geoapify,node/10612527938,18.49755,73.8538827,2026-10-06T17:00:27+00:00
-Royal Hotel,Hotel,Pune,"Chavhan Bagh Road, Anandnagar - 411041, Maharashtra, India",,Geoapify,way/360306088,18.4475801,73.8031558,2026-10-06T17:00:27+00:00
+KCROASTERS - By Koinonia,Cafe,Mumbai,"66, Chuim Village Road, Bandra West, Mumbai - 400052, Maharashtra, India",+91-9136650277,Geoapify,node/7047840108,19.0731837,72.8263765,2026-10-06T17:38:30+00:00
+Garde Manger Cafe,Cafe,Mumbai,"Paranjpe B Scheme Road No 1, K/E Ward, Mumbai - 400057, Maharashtra, India",+91 70450 04488;+91 82918 16108,Geoapify,node/6721812590,19.1048126,72.8522763,2026-10-06T17:38:30+00:00
+Cafe Coffee Day,Cafe,Mumbai,"12/4, MHB Colony Rd, MIDC, Mumbai - 400093, Maharashtra, India",93657482838,Geoapify,node/9548741506,19.1344965,72.8655232,2026-10-06T17:38:30+00:00
+Candies,Cafe,Mumbai,"Nityanand Street, H/W Ward, Mumbai - 400050, Maharashtra, India",02226423512,Geoapify,node/5246971908,19.0495544,72.8298692,2026-10-06T17:38:30+00:00
+Easy Boba,Cafe,Mumbai,"RK Patkar Marg, Khar, Mumbai - 400050, Maharashtra, India",,Geoapify,node/12346531476,19.056272,72.8342539,2026-10-06T17:38:30+00:00
+Hanuman Veg Restaurant,Restaurant,Mumbai,"Road No 8, Sion East, - 400022, Maharashtra, India",+912224091565,Geoapify,node/11449425964,19.0419569,72.8641543,2026-10-06T17:38:30+00:00
+Gracias Granny,Restaurant,Mumbai,"1st Gaothan Road, Chembur, Mumbai - 400089, Maharashtra, India",+91-22-3540-6760,Geoapify,way/1408576356,19.0572879,72.8979892,2026-10-06T17:38:30+00:00
+The Bodhi Cafe,Restaurant,Mumbai,"Ground Floor, Paranjpe B Scheme Road No 2, K/E Ward, Mumbai - 400057, Maharashtra, India",09550286477,Geoapify,node/11348917628,19.104092,72.8525816,2026-10-06T17:38:30+00:00
+Mountain Goat,Restaurant,Mumbai,"D. P. Marg, H/W Ward, Mumbai - 400050, Maharashtra, India",,Geoapify,node/12926508556,19.047414,72.8250525,2026-10-06T17:38:30+00:00
+Wonton House,Restaurant,Mumbai,"Hill Road, H/W Ward, Mumbai - 400050, Maharashtra, India",,Geoapify,node/347168988,19.0548375,72.8258975,2026-10-06T17:38:30+00:00
+Mohini Medical Store,Pharmacy,Mumbai,"Hanuman Mandir Road, K/W Ward, Mumbai - 400053, Maharashtra, India",+91-88798-22360;+91-89287-76632,Geoapify,node/9139640438,19.1367428,72.8218501,2026-10-06T17:38:30+00:00
+Wellness Forever,Pharmacy,Mumbai,"Saint Louis Convent Marg, Dadabhai Naoroji Nagar, Mumbai - 402205, Maharashtra, India",+91-22-2639-9201;+91-22-2639-9202,Geoapify,node/9118087862,19.1283598,72.8257641,2026-10-06T17:38:30+00:00
+Reliable Medical,Pharmacy,Mumbai,"Oshiwara Garden Road, Goregaon West, Mumbai - 400102, Maharashtra, India",+91 98192 62635,Geoapify,node/12290034712,19.1453198,72.8463767,2026-10-06T17:38:30+00:00
+Tulsi medicals,Pharmacy,Mumbai,"Sion Panvel Highway, Govandi West, Mumbai - 400088, Maharashtra, India",,Geoapify,node/11055126102,19.0453941,72.9138673,2026-10-06T17:38:30+00:00
+Noble Plus,Pharmacy,Mumbai,"Powai Vihar Complex road, Powai, Mumbai - 400076, Maharashtra, India",,Geoapify,node/6805962686,19.1178201,72.9049924,2026-10-06T17:38:30+00:00
+Umang Maternity and Surgical Nursing Home,Hospital,Mumbai,"G1, Lacreme Building, Kondivita, Andheri East, Road Number 7, K/E Ward, Mumbai - 400047, Maharashtra, India",+912228203041,Geoapify,node/7051650092,19.1169019,72.871322,2026-10-06T17:38:30+00:00
+Shantiniketan Hospital,Hospital,Mumbai,"Lal Bahadur Shastri Marg, Ghatkopar West, Mumbai - 400086, Maharashtra, India",+91 84510 23444,Geoapify,node/8797173216,19.0952772,72.9137056,2026-10-06T17:38:30+00:00
+Dharavi Hospital,Hospital,Mumbai,"60 Feet Road, G/N Ward, Mumbai - 400017, Maharashtra, India",,Geoapify,way/229636994,19.0399962,72.8518247,2026-10-06T17:38:30+00:00
+Lokmanya Tilak Hospital,Hospital,Mumbai,"Laxmibai Kelkar Marg, Guru Tegh Bahadur Nagar, - 400022, Maharashtra, India",,Geoapify,way/49681498,19.0364134,72.8592156,2026-10-06T17:38:30+00:00
+"Krishna Cardiac Care Centre, Mumbai",Hospital,Mumbai,"Dr Babasaheb Ambedkar Marg (Vincent Road), Matunga East, - 400014, Maharashtra, India",,Geoapify,node/7044553386,19.0196598,72.8486822,2026-10-06T17:38:30+00:00
+Medic Aid Post,Clinic,Mumbai,"Central Avenue, Powai, Mumbai - 400076, Maharashtra, India",+912225706680,Geoapify,node/6795551894,19.1154307,72.9075164,2026-10-06T17:38:30+00:00
+Iyers Polyclinic,Clinic,Mumbai,"Road No 15, Guru Tegh Bahadur Nagar, - 400022, Maharashtra, India",,Geoapify,node/7055271740,19.0385649,72.862173,2026-10-06T17:38:30+00:00
+Junaid Clinic,Clinic,Mumbai,"Sewri Cross Road, Matunga East, - 400031, Maharashtra, India",,Geoapify,node/7664032208,19.0161951,72.8534391,2026-10-06T17:38:30+00:00
+Dhanwantari Nursing Home and Diagnostic Centre,Clinic,Mumbai,"60 Feet Road, G/N Ward, - 400017, Maharashtra, India",,Geoapify,node/7070859100,19.0389655,72.8527585,2026-10-06T17:38:30+00:00
+Deccan Fertility Clinic and Keyhole Surgery Center,Clinic,Mumbai,"Dada Rege Marg, Dadar West, - 400028, Maharashtra, India",,Geoapify,node/7087131446,19.0249236,72.83957,2026-10-06T17:38:30+00:00
+Belle 32,Dentist,Mumbai,"Azad Road, Andheri West, Mumbai - 400058, Maharashtra, India",+919819188371,Geoapify,node/3979081600,19.113992,72.8416736,2026-10-06T17:38:30+00:00
+32 Creations Dental Clinic,Dentist,Mumbai,"Jai Prakash Road, Dadabhai Naoroji Nagar, Mumbai - 400058, Maharashtra, India",+91-22-2674-1533,Geoapify,node/13392844052,19.1282427,72.8318156,2026-10-06T17:38:30+00:00
+Dr. Ekta A. Gupta,Dentist,Mumbai,"5th Road, Khar, Mumbai - 400052, Maharashtra, India",022 2600 1929,Geoapify,node/13097872580,19.0679585,72.8380322,2026-10-06T17:38:30+00:00
+Dental Centre,Dentist,Mumbai,"1, AG, Daffodil, Central Avenue, Powai, Mumbai - 400076, Maharashtra, India",+9125703400,Geoapify,node/6795494390,19.1150452,72.9073536,2026-10-06T17:38:30+00:00
+Auro Dental Clinic and Implant Centre,Dentist,Mumbai,"Laxmibai Kelkar Marg, Matunga East, - 400019, Maharashtra, India",+91-22-2409-0799,Geoapify,node/12770185644,19.0272368,72.8564254,2026-10-06T17:38:30+00:00
+Union Bank of India,Bank,Mumbai,"Takandas H. Kataria Marg, Matunga West, - 400016, Maharashtra, India",,Geoapify,way/151806616,19.0317058,72.8408104,2026-10-06T17:38:30+00:00
+Bank of Baroda,Bank,Mumbai,"81, Hill Road, Khar, Mumbai - 400050, Maharashtra, India",,Geoapify,node/2610566388,19.0545517,72.8271477,2026-10-06T17:38:30+00:00
+Kotak Mahindra Bank,Bank,Mumbai,"Street 3, Bandra Kurla Complex, Mumbai - 400051, Maharashtra, India",,Geoapify,node/10779234842,19.0612585,72.8620791,2026-10-06T17:38:30+00:00
+SVC Cooperative Bank,Bank,Mumbai,"1st Road, Khar, Mumbai - 400050, Maharashtra, India",,Geoapify,node/12706010778,19.0587668,72.8329242,2026-10-06T17:38:30+00:00
+Citizen Credit Co-operative Bank,Bank,Mumbai,"56, Hill Road, Khar, Mumbai - 400050, Maharashtra, India",,Geoapify,node/12809197800,19.0558381,72.8319577,2026-10-06T17:38:30+00:00
+Aashirwad stores,Supermarket,Mumbai,"Shree Yavateshwar Marg, K/W Ward, Mumbai - 400053, Maharashtra, India",022 26361534,Geoapify,node/8456529090,19.1395376,72.8294624,2026-10-06T17:38:30+00:00
+Variety Provision Stores,Supermarket,Mumbai,"Ground Floor, Clanfield Society, Balasaheb Devras Road, K/W Ward, Mumbai - 400053, Maharashtra, India",+912226339243,Geoapify,node/9080857998,19.1411063,72.8273351,2026-10-06T17:38:30+00:00
+New Mount Mary General and Provision Stores,Supermarket,Mumbai,"Pereira Road, H/W Ward, Mumbai - 400050, Maharashtra, India",,Geoapify,node/12974675316,19.0515476,72.8226071,2026-10-06T17:38:30+00:00
+Mount Mary Traders,Supermarket,Mumbai,"D. P. Marg, H/W Ward, Mumbai - 400050, Maharashtra, India",,Geoapify,node/12926508558,19.0474828,72.8250805,2026-10-06T17:38:30+00:00
+ravi market,Supermarket,Mumbai,"room no:1,line:f,plot no:12, Mohmmad Road, Shivaji Nagar, Mumbai - 400043, Maharashtra, India",,Geoapify,node/3213767198,19.0616617,72.9247589,2026-10-06T17:38:30+00:00
+IGP: Cakes Flowers Gifts,Bakery,Mumbai,"Chapel Road, H/W Ward, Mumbai - 400050, Maharashtra, India",,Geoapify,node/5494560188,19.0504807,72.8267171,2026-10-06T17:38:30+00:00
+Magnolia Bakery,Bakery,Mumbai,"Dr. BR Ambedkar Road, Khar, Mumbai - 400050, Maharashtra, India",,Geoapify,node/12923618614,19.0611687,72.8296513,2026-10-06T17:38:30+00:00
+Theobroma,Bakery,Mumbai,"Dr Babasaheb Ambedkar Marg (Vincent Road), Matunga East, - 400019, Maharashtra, India",,Geoapify,node/5760634922,19.0266878,72.8545929,2026-10-06T17:38:30+00:00
+ZamZam Sweets and Bakery,Bakery,Mumbai,"Lal Bahadur Shastri Marg, Kurla West, Mumbai - 400070, Maharashtra, India",,Geoapify,node/11452002808,19.0799839,72.8801472,2026-10-06T17:38:30+00:00
+CakeBred,Bakery,Mumbai,"Shree Yavateshwar Marg, Jogeshwari West, Mumbai - 400053, Maharashtra, India",,Geoapify,node/3221684164,19.1369227,72.8293921,2026-10-06T17:38:30+00:00
+Suntech Business Solutions,Electronics Store,Mumbai,"Mathuradas Vasanji Road, Andheri East, Mumbai - 400069, Maharashtra, India",+91 22 4972 4686;+91 74004 36581;+91 74004 36585,Geoapify,node/8065431802,19.1153572,72.8555855,2026-10-06T17:38:30+00:00
+Dell Exclusive Store,Electronics Store,Mumbai,"Linking Road, Bandra West, Mumbai - 400050, Maharashtra, India",,Geoapify,node/12926036240,19.0607051,72.8359735,2026-10-06T17:38:30+00:00
+Reliance Digital,Electronics Store,Mumbai,"Appasaheb Marathe Marg, Prabhadevi, - 400025, Maharashtra, India",,Geoapify,node/9080656320,19.0128029,72.8277261,2026-10-06T17:38:30+00:00
+Vikas Sales,Electronics Store,Mumbai,"Senapati Bapat Marg, Matunga West, - 400016, Maharashtra, India",,Geoapify,node/11384605320,19.0280462,72.8463709,2026-10-06T17:38:30+00:00
+ALAM TELECOM,Electronics Store,Mumbai,"market road, M/E Ward, Mumbai - 400043, Maharashtra, India",,Geoapify,node/3227729226,19.0686148,72.920808,2026-10-06T17:38:30+00:00
+New Paris,Salon,Mumbai,"Oshiwara Garden Road, Goregaon West, Mumbai - 400102, Maharashtra, India",+91 81129 71470,Geoapify,node/12290034708,19.1453533,72.846252,2026-10-06T17:38:30+00:00
+Hair Zone The Salon,Salon,Mumbai,"St. Andrew Road Extension, Khar, Mumbai - 400050, Maharashtra, India",+91 95945 96017,Geoapify,node/11296361350,19.0615778,72.8270119,2026-10-06T17:38:30+00:00
+Agile Fingers,Salon,Mumbai,"Manuel Gonsalves Road, H/W Ward, Mumbai - 400050, Maharashtra, India",,Geoapify,node/5273193980,19.0578234,72.829794,2026-10-06T17:38:30+00:00
+Agile Fingers,Salon,Mumbai,"Manuel Gonsalves Road, H/W Ward, Mumbai - 400050, Maharashtra, India",,Geoapify,node/12716963146,19.0577835,72.8297928,2026-10-06T17:38:30+00:00
+EaseOn Spa Salon & Yoga,Salon,Mumbai,"Central Avenue, Powai, Mumbai - 400076, Maharashtra, India",,Geoapify,node/5881460646,19.115294,72.9079517,2026-10-06T17:38:30+00:00
+Indian School of Calisthenics (ISC),Gym,Mumbai,"Western Express Highway, P/S Ward, Mumbai - 400065, Maharashtra, India",917715953218,Geoapify,node/13922548082,19.1430686,72.8565057,2026-10-06T17:38:30+00:00
+New Ajinkyatara Fitness,Gym,Mumbai,"Madhusudan Kalekar Marg, Bandra East, Mumbai - 400051, Maharashtra, India",+91 9702 023434,Geoapify,node/11304366853,19.0592695,72.8536185,2026-10-06T17:38:30+00:00
+Regius The Fitness Factory,Gym,Mumbai,"Plot no 8, Gopi Tank Marg, Matunga West, - 400016, Maharashtra, India",022 65316555,Geoapify,node/4792028221,19.0297417,72.8410197,2026-10-06T17:38:30+00:00
+Jewel Clubhouse,Gym,Mumbai,"Lodha Adrina Concierge, Lower Parel, - 400013, Maharashtra, India",,Geoapify,way/1523993879,19.0045596,72.8291604,2026-10-06T17:38:30+00:00
+Vasant Gym,Gym,Mumbai,"14, St. Dhyneshwar marg, Ghatkopar East, Mumbai - 400075, Maharashtra, India",,Geoapify,node/5470599074,19.0825039,72.912496,2026-10-06T17:38:30+00:00
+Hotel Rangsharda,Hotel,Mumbai,"K C Marg, H/W Ward, Mumbai - 400050, Maharashtra, India",+91 22 6852 1919,Geoapify,way/1410368282,19.051195,72.8322599,2026-10-06T17:38:30+00:00
+Sofitel,Hotel,Mumbai,"C57, Avenue 3, Bandra Kurla Complex, Mumbai - 400051, Maharashtra, India",+91 (22) 6117 5000,Geoapify,way/430412674,19.0677635,72.8687791,2026-10-06T17:38:30+00:00
+Janata Hotel,Hotel,Mumbai,"F Sector, M G Ramchandran Marg, Cheeta Camp, Mumbai - 400088, Maharashtra, India",,Geoapify,way/307395968,19.0397417,72.9479217,2026-10-06T17:38:30+00:00
+Ghatla,Hotel,Mumbai,"Waman Tukaram Patil Marg, Deonar, Mumbai - 400088, Maharashtra, India",,Geoapify,node/245664752,19.0517387,72.9103117,2026-10-06T17:38:30+00:00
+Hotel Kalpana Elite,Hotel,Mumbai,"Lal Bahadur Shastri Marg, Kurla West, Mumbai - 400070, Maharashtra, India",,Geoapify,node/12632124454,19.0772101,72.8788131,2026-10-06T17:38:30+00:00
+Mum Café and Bakery,Cafe,Delhi,"Satya Niketan Road, Moti Bagh, New Delhi - 110021, India",+91-8448-336-088,Geoapify,node/11813706344,28.5877898,77.1684033,2026-10-06T17:38:30+00:00
+Tea Crow Metry Cafe,Cafe,Delhi,"Guru Tegh Bahadur Marg, Civil Lines Tehsil, Delhi - 110007, India",,Geoapify,node/12196467732,28.6929255,77.2089366,2026-10-06T17:38:30+00:00
+Chain Chulha,Cafe,Delhi,"Mahatma Gandhi Marg, Majnu Ka Tila, Delhi - 110054, India",,Geoapify,node/13568849204,28.694961,77.2141067,2026-10-06T17:38:30+00:00
+Cafe Coffee Day,Cafe,Delhi,"Netaji Subhash Marg, Old Delhi, Delhi - 110006, India",,Geoapify,node/5732543220,28.64467,77.2402214,2026-10-06T17:38:30+00:00
+Jugmug,Cafe,Delhi,"Netaji Subhash Marg, Old Delhi, Delhi - 110006, India",,Geoapify,node/11491292628,28.6534474,77.2399354,2026-10-06T17:38:30+00:00
+The Salt Cafe Kitchen & Bar,Restaurant,Delhi,"Complex 19 & 20, Acharya Nagraj Marg, Preet Vihar Tehsil, Delhi - 110051, India",08130828293,Geoapify,node/11146533148,28.6341173,77.2900948,2026-10-06T17:38:30+00:00
+Anidra Cafe and Lounge,Restaurant,Delhi,"Plot No.118, Block-B, GT Karnal Rd, Industrial Area, Jahangirpuri Industrial Area, Ashok Vihar Flyover, Model Town Tehsil, Delhi - 110033, India",+91 97739 68228,Geoapify,node/9632496558,28.6964486,77.1842968,2026-10-06T17:38:30+00:00
+Talli Station Rajouri Garden,Restaurant,Delhi,"J2, 11, Block J, Lala Marg, Patel Nagar, Delhi - 110027, India",+91 9911054940,Geoapify,node/9378787102,28.6473,77.1194981,2026-10-06T17:38:30+00:00
+True Blue,Restaurant,Delhi,"Oriental Apartment Road, Preet Vihar Tehsil, Delhi - 110092, India","011 65101366, 011 42171399",Geoapify,node/4438975392,28.6280352,77.3086694,2026-10-06T17:38:30+00:00
+CHICA,Restaurant,Delhi,"Shaheed Sudhir Tyagi Marg, Netaji Nagar, New Delhi - 110066, India",099900 19981,Geoapify,way/1298088264,28.5706102,77.1859377,2026-10-06T17:38:30+00:00
+Nath Brothers,Pharmacy,Delhi,"Radial Road 3, Connaught Place, New Delhi - 110001, India",+91-98994-41605;+91-11-4151-6266;+91-11-2332-7284,Geoapify,node/5784312302,28.6338668,77.2173585,2026-10-06T17:38:30+00:00
+Maxwell Chemist,Pharmacy,Delhi,"Guru Gobind Singh Marg, Malviya Nagar, Delhi - 110017, India",+91-11-4108-2244;+91-11-4978-5545;+91-97174-56632,Geoapify,node/5827193784,28.5340749,77.2093782,2026-10-06T17:38:30+00:00
+Healthy Life Pharmacy,Pharmacy,Delhi,"Mahatma Gandhi Marg, Defence Colony Tehsil, Delhi - 110065, India",+91-99901-68275;+91-88022-41708,Geoapify,node/6282682554,28.566497,77.2484873,2026-10-06T17:38:30+00:00
+Metro City Pharmacy,Pharmacy,Delhi,"7, Connaught Place, New Delhi - 110001, India",+91-11-403-955-86,Geoapify,node/13705276520,28.6338607,77.2170799,2026-10-06T17:38:30+00:00
+Life Care Medicos,Pharmacy,Delhi,"82;83, Mandawali Fazalpur, Delhi - 110092, India",+91 11 2247 9788;+91 98118 96443,Geoapify,node/8163204980,28.6226447,77.2904912,2026-10-06T17:38:30+00:00
+Upchar Nursing Home,Hospital,Delhi,"Ashok Vihar Road, Saraswati Vihar Tehsil, Delhi - 110052, India",27210012,Geoapify,node/7138632166,28.6975051,77.1772633,2026-10-06T17:38:30+00:00
+North Delhi Nursing Home,Hospital,Delhi,"Ashok Vihar Flyover, Saraswati Vihar Tehsil, Delhi - 110052, India",27422131,Geoapify,node/7138632228,28.696547,77.179557,2026-10-06T17:38:30+00:00
+Sharma Medical Center,Hospital,Delhi,"Sadar Thana Marg, Sadar Bazar, Delhi - 110035, India",011-23651395,Geoapify,node/7138534392,28.6494565,77.209831,2026-10-06T17:38:30+00:00
+Safdarjung Hospital,Hospital,Delhi,"AIIMS Flyover, Kidwai Nagar, New Delhi - 110029, India",+91 011 2616 5060,Geoapify,way/454523330,28.5673381,77.2049728,2026-10-06T17:38:30+00:00
+Moolchand Khairati Ram Hospital,Hospital,Delhi,"Sri Ramsharanam Marg, Defence Colony Tehsil, Delhi - 110024, India",42000102,Geoapify,way/44316348,28.5667571,77.2355617,2026-10-06T17:38:30+00:00
+"MCD, Shastri Park",Clinic,Delhi,"Gali Number 1, Seelampur, Delhi - 110053, India",22561798,Geoapify,node/7138534390,28.675788,77.2597307,2026-10-06T17:38:30+00:00
+DGD Keshav Puram B4,Clinic,Delhi,"Maharaja Nahar Singh Marg, Ashok Vihar, Delhi - 110035, India",27192215,Geoapify,node/7138632186,28.6878228,77.1615413,2026-10-06T17:38:30+00:00
+Dispensary Pusa,Clinic,Delhi,"Sahyadri Avenue, Pusa, New Delhi - 110012, India",011-26183201,Geoapify,node/7138493226,28.6364792,77.1634061,2026-10-06T17:38:30+00:00
+"CGHS, Dev Nagar",Clinic,Delhi,"Hardhyan Singh Marg, Karol Bagh, Delhi - 110005, India",25860275,Geoapify,node/7138534330,28.6543709,77.1835213,2026-10-06T17:38:30+00:00
+"CGHS, Pusa Road",Clinic,Delhi,"Pusa Road, Paharganj, Delhi - 110005, India",28758071,Geoapify,node/7138534350,28.644386,77.189502,2026-10-06T17:38:30+00:00
+DentisTree,Dentist,Delhi,"LIG Flat No JA-1A, Mahakavi Goswami Tulsidas Marg, Hari Nagar, Delhi - 110064, India",083839 35992,Geoapify,node/13963609502,28.6307475,77.1161346,2026-10-06T17:38:30+00:00
+Family Dental Clinic,Dentist,Delhi,"E-54A, Sadbhavana Road, Preet Vihar Tehsil, Delhi - 110091, India",+91 98180 41313;+91 11 2247 9172,Geoapify,node/9547388352,28.622073,77.2941027,2026-10-06T17:38:30+00:00
+Kalra Dental Specialities,Dentist,Delhi,"R.M. Vats Marg, Hauz Khas Tehsil, Delhi - 110017, India",+91-98111-08729;+91-98109-85205;+91-011-4174-5126;+91-011-2601-7256,Geoapify,node/5258047748,28.5424598,77.2176955,2026-10-06T17:38:30+00:00
+Jain Dental Centre,Dentist,Delhi,"Baird Lane, Connaught Place, New Delhi - 110001, India",+91 11 4476 4701,Geoapify,node/12912482322,28.6329446,77.2073777,2026-10-06T17:38:30+00:00
+New Delhi Dental Centre,Dentist,Delhi,"Rao Tula Ram Marg, Moti Bagh, New Delhi - 110057, India",+91 98114 61274;+91 99710 76696,Geoapify,node/13780550358,28.5724649,77.1671602,2026-10-06T17:38:30+00:00
+Indian Bank,Bank,Delhi,"Vikas Marg, Preet Vihar, Delhi - 110051, India",,Geoapify,node/12726500772,28.6395635,77.2931151,2026-10-06T17:38:30+00:00
+State Bank of India,Bank,Delhi,"Mangal Bazar Road, Preet Vihar Tehsil, Delhi - 110031, India",,Geoapify,node/11210261200,28.6365102,77.2791763,2026-10-06T17:38:30+00:00
+City Union Bank,Bank,Delhi,"Vikas Marg, Gandhi Nagar Tehsil, Delhi - 110031, India",,Geoapify,node/11238492962,28.6312998,77.2788927,2026-10-06T17:38:30+00:00
+HDFC Bank,Bank,Delhi,"Vikas Marg, Gandhi Nagar Tehsil, Delhi - 110031, India",,Geoapify,node/6853471536,28.6319921,77.2801886,2026-10-06T17:38:30+00:00
+Yes Bank,Bank,Delhi,"Mother Dairy Road, Gandhi Nagar Tehsil, Delhi - 110031, India",,Geoapify,node/5807089786,28.6293697,77.2769881,2026-10-06T17:38:30+00:00
+Shiv Paneer,Supermarket,Delhi,"Baird Lane, Connaught Place, New Delhi - 110001, India",+91 99533 31441;+91 98183 35441,Geoapify,node/12896531740,28.6326159,77.2062024,2026-10-06T17:38:30+00:00
+Munafa Mart,Supermarket,Delhi,"Hansraj Sethi Marg, Kalkaji, Delhi - 110019, India",+91-11-4912-3949,Geoapify,node/6544857030,28.5421857,77.2529083,2026-10-06T17:38:30+00:00
+Prakash General Store,Supermarket,Delhi,"111, Thekedar Surjit Singh Marg, Model Town Tehsil, Delhi - 110009, India",+91 98111 22994,Geoapify,node/12495409850,28.6984334,77.2044502,2026-10-06T17:38:30+00:00
+Shri Mahadev Store,Supermarket,Delhi,"G-59, Barapullah Road Flyover, South Extension, Delhi - 110049, India",+91 93127 32140;+91 98184 49554,Geoapify,node/13684861374,28.5735612,77.2171054,2026-10-06T17:38:30+00:00
+Agarwal,Supermarket,Delhi,"Gali Number 9, Shakarpur, Delhi - 110031, India",,Geoapify,way/965246596,28.6323342,77.2747598,2026-10-06T17:38:30+00:00
+Evergreen Pastry,Bakery,Delhi,"Mother Dairy Road, Mayur Vihar Tehsil, Delhi - 110091, India",+91 97115 22228;+91 97115 22229,Geoapify,node/9490009782,28.6201974,77.2854508,2026-10-06T17:38:30+00:00
+"Shah Namkeen(Bakery, Snacks, Sweets, Namkeen in Delhi, India)",Bakery,Delhi,"Bhisham Lal Sharma Marg, Preet Vihar, Delhi - 110051, India",098101 92757,Geoapify,node/13963564001,28.6514613,77.2852918,2026-10-06T17:38:30+00:00
+Janta Sweets ( kashori samosa),Bakery,Delhi,"Multani Dhanda, Sadar Bazar, Delhi - 110055, India",9811009914,Geoapify,node/4711354394,28.6481235,77.2117033,2026-10-06T17:38:30+00:00
+Monginis,Bakery,Delhi,"Middle Circle, Connaught Place, New Delhi - 110001, India",+91 9999318724;+91 9867867927,Geoapify,node/11637351388,28.6346218,77.2207011,2026-10-06T17:38:30+00:00
+Cake O'Clocks,Bakery,Delhi,"Mother Dairy Road, Gandhi Nagar Tehsil, Delhi - 110031, India",,Geoapify,node/10862104372,28.6296529,77.2767949,2026-10-06T17:38:30+00:00
+Retron,Electronics Store,Delhi,"Vikas Marg, Preet Vihar, Delhi - 110051, India",+91 11 4011 2119,Geoapify,node/11212035018,28.6378011,77.2869604,2026-10-06T17:38:30+00:00
+Reliance Mobile Store,Electronics Store,Delhi,"Thekedar Surjit Singh Marg, Model Town Tehsil, Delhi - 110009, India",011-49057299,Geoapify,node/4362498604,28.69823,77.2044712,2026-10-06T17:38:30+00:00
+Sai Solutions,Electronics Store,Delhi,"Bhishma Pitamah Marg, South Extension, Delhi - 110049, India",+91 77039 02433,Geoapify,node/6766175600,28.5726139,77.227698,2026-10-06T17:38:30+00:00
+Hotspot,Electronics Store,Delhi,"Hetraj Batra Marg, Malviya Nagar, Delhi - 110017, India",+91-81306-22665,Geoapify,node/5985180342,28.5364816,77.2121562,2026-10-06T17:38:30+00:00
+Kavya Mobile Centre,Electronics Store,Delhi,"153, Sadar Bazar Road, Delhi Cantonment, New Delhi - 110046, India",+91 73007 90035,Geoapify,node/11850167048,28.5949516,77.1223016,2026-10-06T17:38:30+00:00
+Badal Men's Salon,Salon,Delhi,"Mall Road, Model Town Tehsil, Delhi - 110009, India",+91 87002 75075,Geoapify,node/12495428429,28.6980568,77.2051132,2026-10-06T17:38:30+00:00
+Anu Naagar Studio,Salon,Delhi,"94B, Defence Colony Tehsil, Delhi - 110065, India",+91 81300 59912,Geoapify,node/11854174522,28.5701047,77.2396262,2026-10-06T17:38:30+00:00
+Aurrum,Salon,Delhi,"Vikas Marg, Preet Vihar, Delhi - 110051, India",,Geoapify,node/11985412786,28.64369,77.2985105,2026-10-06T17:38:30+00:00
+Punjab hair dressers,Salon,Delhi,"Prithviraj Lane, Chanakya Puri Tehsil, New Delhi - 110003, India",,Geoapify,node/10690476880,28.6007845,77.225755,2026-10-06T17:38:30+00:00
+VA Unisex Salon,Salon,Delhi,"Gali No. 1, Vasant Vihar Tehsil, New Delhi - 110029, India",,Geoapify,node/13814216434,28.5627249,77.1937818,2026-10-06T17:38:30+00:00
+Anytime Fitness,Gym,Delhi,"38, Bungalow Road, Kamla Nagar, Delhi - 110007, India",+91 81304 32323,Geoapify,node/13110159215,28.6839665,77.2046073,2026-10-06T17:38:30+00:00
+Juggernout Fitness Club,Gym,Delhi,"A-6, Bharat Nagar Main Road, Saraswati Vihar Tehsil, Delhi - 110052, India",+919354757953,Geoapify,node/8172739117,28.6807243,77.1771536,2026-10-06T17:38:30+00:00
+Health India,Gym,Delhi,"Sadbhavana Road, Preet Vihar Tehsil, Delhi - 110091, India",+91-9968-559512;+91-92112-77535,Geoapify,node/9041105463,28.6220322,77.2939735,2026-10-06T17:38:30+00:00
+Focus Gym,Gym,Delhi,"Mother Dairy Road, Gandhi Nagar Tehsil, Delhi - 110031, India",+91 88005 29193,Geoapify,node/11914760035,28.6286792,77.2767576,2026-10-06T17:38:30+00:00
+Rainbow Health and Fitness Shoppee,Gym,Delhi,"Veer Savarkar Marg, Defence Colony Tehsil, Delhi - 110065, India",+91 98910 81305; 01141648498,Geoapify,node/12208840339,28.5684118,77.2458256,2026-10-06T17:38:30+00:00
+Amax Inn,Hotel,Delhi,"8145/6, Arakashan Road, Kotwali Tehsil, Delhi - 110055, India",+91-11-23543813,Geoapify,node/4101512398,28.6467628,77.2135529,2026-10-06T17:38:30+00:00
+Indus Biznotel,Hotel,Delhi,"Hans Raj Gupta Marg, Greater Kailash, Delhi - 110048, India",+911140267700,Geoapify,node/2454223034,28.5493151,77.2428571,2026-10-06T17:38:30+00:00
+Maidens Hotel,Hotel,Delhi,"7, Sham Nath Marg, Civil Lines, Delhi - 110054, India",+91 11 2397 5464,Geoapify,way/1476768272,28.6745417,77.2264597,2026-10-06T17:38:30+00:00
+Golden DX,Hotel,Delhi,"Saraswati Marg, Karol Bagh, Delhi - 110060, India",+91 80769 79763,Geoapify,node/12135560706,28.6465057,77.1876219,2026-10-06T17:38:30+00:00
+Imperial Villa,Hotel,Delhi,"Mahatma Gandhi Marg, Defence Colony Tehsil, Delhi - 110065, India",+91 11 4997 7000,Geoapify,node/1794027306,28.5658144,77.2481626,2026-10-06T17:38:30+00:00
+Cafe Jassie's,Cafe,Bengaluru,"Doctor Muthuraj Underpass, Swamy Vivekananda Ward, Bengaluru - 560085, Karnataka, India",,Geoapify,node/12395928076,12.9307897,77.5434861,2026-10-06T17:38:30+00:00
+Namm Kannada,Cafe,Bengaluru,"19th Cross Road, Kane Muneshwara Ward, Bengaluru - 560111, Karnataka, India",,Geoapify,node/11794875010,12.9080228,77.5639733,2026-10-06T17:38:30+00:00
+NJAC,Cafe,Bengaluru,"Vyasraya Ballala Road, Kane Muneshwara Ward, Bengaluru - 560111, Karnataka, India",,Geoapify,node/1331929354,12.9089138,77.5625218,2026-10-06T17:38:30+00:00
+Metro Cafe,Cafe,Bengaluru,"Kanakapura Road, Sarakki, Bengaluru - 560078, Karnataka, India",,Geoapify,node/13463427690,12.9073997,77.5733618,2026-10-06T17:38:30+00:00
+The Caffeine Baar,Cafe,Bengaluru,"1424/81, South End C Cross, Pattabhirama Nagara, Bengaluru - 560078, Karnataka, India",,Geoapify,node/12035150490,12.9163712,77.5928203,2026-10-06T17:38:30+00:00
+Kanti Sweets,Restaurant,Bengaluru,"6th Main Road, Byrasandra, Bengaluru - 560011, Karnataka, India",08022960638,Geoapify,way/1428293058,12.9277892,77.5810521,2026-10-06T17:38:30+00:00
+Maffei Kitchen,Restaurant,Bengaluru,"23, 5th Cross Road, A Adugodi, Bengaluru - 560095, Karnataka, India",+91 8005471058,Geoapify,node/10695242204,12.9351187,77.6226367,2026-10-06T17:38:30+00:00
+Adyar Ananda Bhavan,Restaurant,Bengaluru,"3, Marenahalli Road - Outer Ring Road, New Tavarekere, Bengaluru - 560029, Karnataka, India",+91 073388 16688,Geoapify,way/639368292,12.9168828,77.609506,2026-10-06T17:38:30+00:00
+Amandé Patisserie,Restaurant,Bengaluru,"115/121, 10th Cross Road, N.R Colony, Bengaluru - 560004, Karnataka, India",080 2676 1080,Geoapify,node/4445782638,12.9363723,77.5682018,2026-10-06T17:38:30+00:00
+Mane Holige Kuruk thindi,Restaurant,Bengaluru,"7th Main Road, Byrasandra, Bengaluru - 560011, Karnataka, India",+91 97426 72871,Geoapify,node/4200239822,12.9288993,77.5818811,2026-10-06T17:38:30+00:00
+Upadhya Ayurveda Bhandara,Pharmacy,Bengaluru,"# 1333, 26th Main Road, Tilak Nagara, Bengaluru - 560041, Karnataka, India",080 2663 9321,Geoapify,node/4446978240,12.9258133,77.5936851,2026-10-06T17:38:30+00:00
+Star Homeopathy,Pharmacy,Bengaluru,"#771, 32 Cross Road, Tilak Nagara, Bengaluru - 560011, Karnataka, India",+9191009 60066,Geoapify,node/4446986134,12.9267767,77.5838359,2026-10-06T17:38:30+00:00
+Shriniwas Medicals,Pharmacy,Bengaluru,"#16/47/1-C, 34th Cross Road, Byrasandra, Bengaluru - 560011, Karnataka, India",08026632258,Geoapify,node/4446323286,12.9257866,77.5861651,2026-10-06T17:38:30+00:00
+Ruth Medicals,Pharmacy,Bengaluru,"16th B Main Road, Kormangala East, Bengaluru - 560034, Karnataka, India",+9180 2553 7424,Geoapify,node/4447072622,12.9317312,77.6230979,2026-10-06T17:38:30+00:00
+Shri Siddhanth Pharma,Pharmacy,Bengaluru,"3155, Indiranagar Double Road, Agaram, Bengaluru - 560038, Karnataka, India",080 2520 0422,Geoapify,node/4445607998,12.9702378,77.6356539,2026-10-06T17:38:30+00:00
+Rajshekhar Hospital,Hospital,Bengaluru,"21, 9th Cross Road, JP Nagar, Bengaluru - 560078, Karnataka, India",080 4252 7555,Geoapify,way/118411722,12.9110065,77.5797761,2026-10-06T17:38:30+00:00
+Rainbow Children's Hospital,Hospital,Bengaluru,"178/1 & 178/2, Bannerghatta Road, Bilekahalli, Bengaluru - 560076, Karnataka, India",9355400341,Geoapify,way/1108934944,12.9034237,77.6006167,2026-10-06T17:38:30+00:00
+Parimala Health Care,Hospital,Bengaluru,"2nd Cross Rd, Bannerghatta Road, Bilekahalli, Bengaluru - 560076, Karnataka, India",080 2658 3117,Geoapify,node/4445973784,12.9003193,77.6008061,2026-10-06T17:38:30+00:00
+Prashanth Hospital,Hospital,Bengaluru,"90/D, 7th Main Road, Bommanahalli, Bengaluru - 560068, Karnataka, India",080 4150 3714,Geoapify,node/4447972412,12.9067129,77.6265085,2026-10-06T17:38:30+00:00
+Dr Lal PathLabs,Hospital,Bengaluru,"#3, 23rd Cross Road, Ganesh Mandira Ward, Bengaluru - 560068, Karnataka, India",080 4091 6014,Geoapify,node/4448118314,12.924274,77.5680927,2026-10-06T17:38:30+00:00
+Bombay Surgicals,Clinic,Bengaluru,"#348, 9th Main Road, Tilak Nagara, Bengaluru - 560011, Karnataka, India",+919739986012,Geoapify,node/4447020600,12.930019,77.584183,2026-10-06T17:38:30+00:00
+Oasis Artificial Kidney Care (P) Ltd,Clinic,Bengaluru,"Magrath Road, Ashokanagar, Bengaluru - 560025, Karnataka, India","8971151515, 9886756813",Geoapify,node/3760131454,12.9687118,77.6139361,2026-10-06T17:38:30+00:00
+Sri Balaji Specialist clinic,Clinic,Bengaluru,"2nd Main Road, Swamy Vivekananda Ward, Bengaluru - 560085, Karnataka, India",,Geoapify,node/8261705436,12.9336108,77.5415266,2026-10-06T17:38:30+00:00
+Banashankari Heart Clinic,Clinic,Bengaluru,"Outer Ring Road, Sarakki, Bengaluru - 560078, Karnataka, India",,Geoapify,node/11303698298,12.9062356,77.5762138,2026-10-06T17:38:30+00:00
+Namma Clinic,Clinic,Bengaluru,"3 Main Road, Pattabhirama Nagara, Bengaluru - 560070, Karnataka, India",,Geoapify,node/10931530154,12.9177197,77.5799118,2026-10-06T17:38:30+00:00
+Athos,Dentist,Bengaluru,"100 Feet Road, Indiranagar, Bengaluru - 560038, Karnataka, India",7813004040,Geoapify,node/3370230942,12.9820577,77.6404784,2026-10-06T17:38:30+00:00
+Dr Noor Saira's Dental Studio,Dentist,Bengaluru,"MM Road, Frazer Town, Bengaluru - 560005, Karnataka, India",+91 88849 26497,Geoapify,node/11472852216,13.0003005,77.6173407,2026-10-06T17:38:30+00:00
+Root & Crown Dental Care,Dentist,Bengaluru,"Chikkalasandra Main Road, Sarvabhouma Nagar, Bengaluru - 560061, Karnataka, India",,Geoapify,node/7579924736,12.913579,77.548358,2026-10-06T17:38:30+00:00
+Sunkris Dental Health Care & Implant Centre,Dentist,Bengaluru,"12, 24th Main Road, Iblur, Bengaluru - 560102, Karnataka, India",,Geoapify,node/11533112310,12.9210197,77.6493322,2026-10-06T17:38:30+00:00
+Pari's Dental Clinic,Dentist,Bengaluru,"1st Main Road, Kodihalli, Bengaluru - 560008, Karnataka, India",,Geoapify,node/7572526706,12.9605494,77.6493794,2026-10-06T17:38:30+00:00
+State Bank of India,Bank,Bengaluru,"259, 3rd Main Road, Kane Muneshwara Ward, Bengaluru - 560078, Karnataka, India",,Geoapify,way/1272148166,12.8995205,77.5580505,2026-10-06T17:38:30+00:00
+Kotak Mahindra Bank,Bank,Bengaluru,"7th Main Road, Ganesh Mandira Ward, Bengaluru - 560085, Karnataka, India",,Geoapify,way/1087732062,12.9231455,77.5564933,2026-10-06T17:38:30+00:00
+Indian Bank,Bank,Bengaluru,"9th Cross Road, JP Nagar, Bengaluru - 560078, Karnataka, India",,Geoapify,node/3393501416,12.9107057,77.5835123,2026-10-06T17:38:30+00:00
+ING,Bank,Bengaluru,"9th Cross Road, Shakambarinagara, Bengaluru - 560078, Karnataka, India",,Geoapify,node/3226809436,12.9100858,77.5920685,2026-10-06T17:38:30+00:00
+HDFC Bank,Bank,Bengaluru,"15th Cross Road, Yediyuru, Bengaluru - 560011, Karnataka, India",,Geoapify,node/1438214050,12.9365,77.582432,2026-10-06T17:38:30+00:00
+Big Bazaar,Supermarket,Bengaluru,"Sarjapura Road, Shivanasamudra Ward, Bengaluru - 560103, Karnataka, India",07795976949,Geoapify,node/9830902374,12.9192999,77.6689075,2026-10-06T17:38:30+00:00
+Z Shoppe,Supermarket,Bengaluru,"579, 6th Cross Road, Kodihalli, Bengaluru - 560008, Karnataka, India",+91 80 252171841,Geoapify,node/1760015500,12.9662704,77.6497422,2026-10-06T17:38:30+00:00
+Spar,Supermarket,Bengaluru,"LG-34, Sampige Road, Dattatreya Ward, Bengaluru - 560003, Karnataka, India",+918039378500,Geoapify,node/4445642736,12.991691,77.5707302,2026-10-06T17:38:30+00:00
+Reebok Store,Supermarket,Bengaluru,"Outer Ring Road, Kamakya Layout, Bengaluru - 560085, Karnataka, India",,Geoapify,node/1474831726,12.9246981,77.5508112,2026-10-06T17:38:30+00:00
+Kashyapi Naturals,Supermarket,Bengaluru,"31st Main Road, JP Nagar, Bengaluru - 560078, Karnataka, India",,Geoapify,node/11303726652,12.9074264,77.5824555,2026-10-06T17:38:30+00:00
+Cake of the Day,Bakery,Bengaluru,"Outer Ring Road, Padmanabhanagara, Bengaluru - 560085, Karnataka, India",,Geoapify,node/5626258374,12.9227144,77.556339,2026-10-06T17:38:30+00:00
+Choice Bakery,Bakery,Bengaluru,"12th Main, Contour Road, Kadirenahalli, Bengaluru - 560070, Karnataka, India",,Geoapify,node/2124814946,12.9183496,77.5572332,2026-10-06T17:38:30+00:00
+Krishna Bakery,Bakery,Bengaluru,"26th Main Road, Tilak Nagara, Bengaluru - 560041, Karnataka, India",,Geoapify,node/5234777582,12.9271618,77.5934225,2026-10-06T17:38:30+00:00
+Iyengar's Bakery,Bakery,Bengaluru,"33, Outer Ring Road, Shakambarinagara, Bengaluru - 560078, Karnataka, India",,Geoapify,node/11303698304,12.9064664,77.590046,2026-10-06T17:38:30+00:00
+Just Bake,Bakery,Bengaluru,"38th Cross Road, Pattabhirama Nagara, Bengaluru - 560041, Karnataka, India",,Geoapify,node/9904130020,12.9218738,77.5850227,2026-10-06T17:38:30+00:00
+Cromā,Electronics Store,Bengaluru,"LG-34, Sampige Road, Dattatreya Ward, Bengaluru - 560003, Karnataka, India",+917207666000,Geoapify,node/4446286774,12.9915154,77.5707071,2026-10-06T17:38:30+00:00
+Sangeetha,Electronics Store,Bengaluru,"LG-34, Sampige Road, Dattatreya Ward, Bengaluru - 560003, Karnataka, India",+917022004708,Geoapify,node/4446323836,12.9917048,77.5709199,2026-10-06T17:38:30+00:00
+S Abbas & Co,Electronics Store,Bengaluru,"59/2, SP Road, Dharmaraya Swamy Temple Ward, Bengaluru - 560002, Karnataka, India",08022225569,Geoapify,node/4563000590,12.964736,77.5817243,2026-10-06T17:38:30+00:00
+Shree Sudarshan Light And Appliances,Electronics Store,Bengaluru,"62, AM Lane, Chikkapete, Bengaluru - 560053, Karnataka, India",(91)-9986419127,Geoapify,node/4487996362,12.9703096,77.5761097,2026-10-06T17:38:30+00:00
+QuickConnect,Electronics Store,Bengaluru,"27th Cross Road, Tilak Nagara, Bengaluru - 560011, Karnataka, India",,Geoapify,node/2927773288,12.9306117,77.584041,2026-10-06T17:38:30+00:00
+New Classic Men's Parlour,Salon,Bengaluru,"30th Main Road, Shakambarinagara, Bengaluru - 560078, Karnataka, India",+91 99006 15439,Geoapify,node/11303787988,12.9104295,77.5818288,2026-10-06T17:38:30+00:00
+First Look Color & Style Salon,Salon,Bengaluru,"9th Cross Road, Hoysala Nagara Central, Bengaluru - 560038, Karnataka, India",08041222623,Geoapify,node/3369957256,12.9789913,77.6393703,2026-10-06T17:38:30+00:00
+My Look Beauty Parlour,Salon,Bengaluru,"5/1, Balaji Layout, Maruthi Seva Nagara, Bengaluru - 560084, Karnataka, India",+919972515553,Geoapify,node/8963758102,13.0022137,77.6237059,2026-10-06T17:38:30+00:00
+Lakme Salon,Salon,Bengaluru,"Outer Ring Road, Banashankari, Bengaluru - 560085, Karnataka, India",,Geoapify,node/1471945416,12.9251112,77.55076,2026-10-06T17:38:30+00:00
+Style Hairdresses,Salon,Bengaluru,"Sri Rama Temple Road, Ejipura, Bengaluru - 560095, Karnataka, India",,Geoapify,node/4063559082,12.9456667,77.6289508,2026-10-06T17:38:30+00:00
+Snap Fitness,Gym,Bengaluru,"46, Star Circle Underpass, Basaveshwaranagar, Bengaluru - 560010, Karnataka, India",8065651050,Geoapify,node/4382905017,12.9992349,77.5495341,2026-10-06T17:38:30+00:00
+Impact Fitness Studio,Gym,Bengaluru,"948, 12th Main Road, 4th Cross Road, Indiranagar, Bengaluru - 560008, Karnataka, India",9880602625,Geoapify,node/4490237942,12.9714764,77.6389942,2026-10-06T17:38:30+00:00
+Apple Fitness,Gym,Bengaluru,"25333, 24th Main Road, HSR Layout, Bengaluru - 560102, Karnataka, India",7259606666,Geoapify,node/4490311867,12.9121818,77.6487761,2026-10-06T17:38:30+00:00
+Gold's Gym,Gym,Bengaluru,"2631, 27th Main Road, HSR Layout, Bengaluru - 560102, Karnataka, India",8042420606,Geoapify,node/4490422378,12.915438,77.6515839,2026-10-06T17:38:30+00:00
+Snap Fitness,Gym,Bengaluru,"775, 24th Cross Road, Ganesh Mandira Ward, Bengaluru - 560070, Karnataka, India",8026420203,Geoapify,node/4490453225,12.9243812,77.5644144,2026-10-06T17:38:30+00:00
+Kaniṣka Gryāṇḍ,Hotel,Bengaluru,"2, Ācārya Tulsī Road, Gandhinagar, Bengaluru - 560009, Karnataka, India",+919900600177;+919742208318,Geoapify,way/150797672,12.9781708,77.5799084,2026-10-06T17:38:30+00:00
+West Fort Hotel,Hotel,Bengaluru,"19/6, Magadi Road, Gopalpura, Bengaluru - 560023, Karnataka, India",+91 802 320 3303;+91 907 176 3397;+91 80 2200 3300,Geoapify,way/347175728,12.979031,77.5640807,2026-10-06T17:38:30+00:00
+Royal Regency Lodge,Hotel,Bengaluru,"251, Subedar Chatram Road, Gandhinagar, Bengaluru - 560009, Karnataka, India",080-41130202,Geoapify,node/4763212044,12.978436,77.5753365,2026-10-06T17:38:30+00:00
+Manjusri Paradise Lodge,Hotel,Bengaluru,"2nd Cross Road, Gandhinagar, Bengaluru - 560009, Karnataka, India",9880701649,Geoapify,node/4763212998,12.9777193,77.5748871,2026-10-06T17:38:30+00:00
+Santrina Hotels,Hotel,Bengaluru,"1st A Cross Road, Kormangala West, Bengaluru - 560095, Karnataka, India",,Geoapify,node/13246335122,12.9348121,77.6159774,2026-10-06T17:38:30+00:00
+Kumbakonam Degree Coffee,Cafe,Chennai,"Vadhyar Subbraya mudali street, Zone 10 Kodambakkam, Chennai - 600015, Tamil Nadu, India",,Geoapify,node/3450050680,13.0222529,80.2222034,2026-10-06T17:38:30+00:00
+Nibble Nest,Cafe,Chennai,"18, South Mada Street, Zone 13 Adyar, Chennai - 600025, Tamil Nadu, India",,Geoapify,node/13683621558,13.0130045,80.229791,2026-10-06T17:38:30+00:00
+Madras Coffee House,Cafe,Chennai,"Sir Thyagaraya Road, Zone 9 Teynampet, Chennai - 600017, Tamil Nadu, India",,Geoapify,node/13743048384,13.0398966,80.2431716,2026-10-06T17:38:30+00:00
+Coffee Central,Cafe,Chennai,"Doctor Shivaji Ganesan Road, Zone 9 Teynampet, Chennai - 600017, Tamil Nadu, India",,Geoapify,node/386780832,13.0470673,80.2455216,2026-10-06T17:38:30+00:00
+Cafe Coffee Day,Cafe,Chennai,"Uttamar Gandhi Salai (Nungambakkam High Road), Zone 9 Teynampet, Chennai - 600034, Tamil Nadu, India",,Geoapify,node/7255775716,13.0554045,80.2496804,2026-10-06T17:38:30+00:00
+The Perf Ice Candy,Restaurant,Chennai,"27/1, Welcome Colony, Welcome Colony 3rd Stree, Zone 7 Ambattur, Chennai - 600101, Tamil Nadu, India",+919962957373,Geoapify,node/6637689502,13.0879425,80.1947286,2026-10-06T17:38:30+00:00
+Adyar Ananda Bhavan,Restaurant,Chennai,"RK Mutt Road, Zone 9 Teynampet, Chennai - 600004, Tamil Nadu, India",+91 44 2345 3031,Geoapify,node/332065830,13.0340003,80.2677522,2026-10-06T17:38:30+00:00
+Ayyanar Hotel,Restaurant,Chennai,"Shastri Nagar1st Main Road, Zone 13 Adyar, Chennai - 600090, Tamil Nadu, India",,Geoapify,way/355025312,12.9968601,80.2591282,2026-10-06T17:38:30+00:00
+Vel Tiffin Centre,Restaurant,Chennai,"Koothadum Pilliyar Koil Street, Saidapet, Chennai - 600015, Tamil Nadu, India",,Geoapify,node/3450042000,13.0243276,80.2212113,2026-10-06T17:38:30+00:00
+Home Meals,Restaurant,Chennai,"Gandhi Mandapam Road, Zone 13 Adyar, Chennai - 600085, Tamil Nadu, India",,Geoapify,node/3687697988,13.0180196,80.2411617,2026-10-06T17:38:30+00:00
+Raasi Medicals,Pharmacy,Chennai,"S.V. Chidambaram Salai, Zone 10 Kodambakkam, Chennai - 600083, Tamil Nadu, India",044 2471 6153,Geoapify,node/8100644874,13.0275307,80.2102579,2026-10-06T17:38:30+00:00
+Sree Thirumal Pharmacy,Pharmacy,Chennai,"4C, T.V.S. Avenue Main Road, Zone 7 Ambattur, Chennai - 600101, Tamil Nadu, India",04426544609,Geoapify,node/4571917396,13.090139,80.1885088,2026-10-06T17:38:30+00:00
+Apollo Pharmacy,Pharmacy,Chennai,"Besant Nagar 3rd Main Road, Zone 13 Adyar, Chennai - 600090, Tamil Nadu, India",,Geoapify,node/10268908442,12.9985283,80.2674654,2026-10-06T17:38:30+00:00
+Ashok Nagar Pharmacy,Pharmacy,Chennai,"Vaigai Colony 2nd Cross Street, Zone 10 Kodambakkam, Chennai - 600083, Tamil Nadu, India",,Geoapify,node/8111869852,13.0312946,80.2116224,2026-10-06T17:38:30+00:00
+Ashok Medicals,Pharmacy,Chennai,"Jawaharlal Nehru Road (100 Feet Road), Zone 10 Kodambakkam, Chennai - 600083, Tamil Nadu, India",,Geoapify,node/5400382372,13.0349633,80.2123839,2026-10-06T17:38:30+00:00
+Frontier Lifeline Hospital,Hospital,Chennai,"R 30 C, Greenfields colony road, Zone 7 Ambattur, Chennai - 600101, Tamil Nadu, India",044 4201 7575,Geoapify,way/354278944,13.0875243,80.1857322,2026-10-06T17:38:30+00:00
+SRM Institutes For Medical Science,Hospital,Chennai,"No. 1, Jawaharlal Nehru Road (100 Feet Road), Zone 10 Kodambakkam, Chennai - 600026, Tamil Nadu, India",+91 44 2000 2001,Geoapify,node/4488082604,13.0515961,80.2114304,2026-10-06T17:38:30+00:00
+Health Centre,Hospital,Chennai,"Gandhi Mandapam Road, Zone 13 Adyar, Chennai - 600085, Tamil Nadu, India",,Geoapify,way/181579506,13.0135785,80.2393143,2026-10-06T17:38:30+00:00
+"Medindia Hospitals, Chennai",Hospital,Chennai,"Melpaadi Muthu Lane, Zone 9 Teynampet, Chennai - 600034, Tamil Nadu, India",,Geoapify,node/6937067452,13.0606718,80.2432201,2026-10-06T17:38:30+00:00
+MM Hospital,Hospital,Chennai,"Kaliamman Koil Street, Zone 10 Kodambakkam, Chennai - 600092, Tamil Nadu, India",,Geoapify,node/7823776250,13.0527721,80.191781,2026-10-06T17:38:30+00:00
+Suman Clinic,Clinic,Chennai,"76, Mahalingapuram Main Road, Zone 9 Teynampet, Chennai - 600034, Tamil Nadu, India",+91 44 2817 4422,Geoapify,node/6167503412,13.055823,80.2348714,2026-10-06T17:38:30+00:00
+Dr. Prema Womens Clinic,Clinic,Chennai,"Mahatma Gandhi Road, Zone 13 Adyar, Chennai - 600041, Tamil Nadu, India",,Geoapify,node/7823415050,12.9969555,80.2582848,2026-10-06T17:38:30+00:00
+The Homeo Clinic,Clinic,Chennai,"Mahatma Gandhi Road, Zone 13 Adyar, Chennai - 600090, Tamil Nadu, India",,Geoapify,node/7823415036,12.9963121,80.2637162,2026-10-06T17:38:30+00:00
+Jeyam Gastro Clinc,Clinic,Chennai,"Mahatma Gandhi Road, Zone 13 Adyar, Chennai - 600090, Tamil Nadu, India",,Geoapify,node/7823415042,12.9962821,80.2641614,2026-10-06T17:38:30+00:00
+Sujetha Clinic,Clinic,Chennai,"Beach Road, Zone 13 Adyar, Chennai - 600041, Tamil Nadu, India",,Geoapify,node/7823415074,12.993602,80.2619646,2026-10-06T17:38:30+00:00
+Renew Aesthetics and Renew Dental,Dentist,Chennai,"21/9, Krishnapuram Street, Zone 9 Teynampet, Chennai - 600014, Tamil Nadu, India",099411 72377,Geoapify,node/13942284301,13.0467593,80.2669408,2026-10-06T17:38:30+00:00
+Sri Viveka Institute Of Dental Health,Dentist,Chennai,"Gopathi Narayanaswami Road, Zone 10 Kodambakkam, Chennai - 600017, Tamil Nadu, India",,Geoapify,node/6937420406,13.0438892,80.2387923,2026-10-06T17:38:30+00:00
+Ramchandras Jussmile Dental Clinic & Dental Implant Centre,Dentist,Chennai,"Poompuhar Nagar 1st Main Road, Ward 64, Chennai - 600099, Tamil Nadu, India",,Geoapify,node/7825009802,13.1209261,80.214363,2026-10-06T17:38:30+00:00
+Arun Dental Clinic,Dentist,Chennai,"kamarajar Salai, AVM Avenue 1st Main Road, Zone 10 Kodambakkam, Chennai - 600092, Tamil Nadu, India",,Geoapify,node/7823776204,13.0478238,80.1892231,2026-10-06T17:38:30+00:00
+Ranganathan Dental Clinic,Dentist,Chennai,"SAIT Colony 2nd Street, Zone 5 Royapuram, Chennai - 600008, Tamil Nadu, India",,Geoapify,node/7824965236,13.0732526,80.25379,2026-10-06T17:38:30+00:00
+Indian Overseas Bank,Bank,Chennai,"Besant Nagar 3rd Main Road, Zone 13 Adyar, Chennai - 600090, Tamil Nadu, India",,Geoapify,node/10268908440,12.9985753,80.2676265,2026-10-06T17:38:30+00:00
+AU Small Finance Bank,Bank,Chennai,"Besant Nagar 2nd Avenue, Zone 13 Adyar, Chennai - 600090, Tamil Nadu, India",,Geoapify,node/12623383154,12.9961908,80.2678226,2026-10-06T17:38:30+00:00
+ICICI Bank,Bank,Chennai,"Jeenis Road, Saidapet, Chennai - 600015, Tamil Nadu, India",,Geoapify,node/3467526750,13.0221903,80.2241076,2026-10-06T17:38:30+00:00
+State Bank of India,Bank,Chennai,"Jeenis Road, Saidapet, Chennai - 600015, Tamil Nadu, India",,Geoapify,way/338261244,13.0233744,80.2245169,2026-10-06T17:38:30+00:00
+Bank of Baroda,Bank,Chennai,"Sir Thyagaraya Road, Zone 10 Kodambakkam, Chennai - 600017, Tamil Nadu, India",,Geoapify,node/13311060904,13.0412999,80.2352747,2026-10-06T17:38:30+00:00
+C.S.Rajasundaram Chetty & Sons.,Supermarket,Chennai,"Rasappa Chetty Street, Zone 5 Royapuram, Chennai - 600003, Tamil Nadu, India",044 25353104,Geoapify,node/8445003084,13.0859974,80.2807246,2026-10-06T17:38:30+00:00
+Alchemy Media Marketing,Supermarket,Chennai,"56/16, Rukmani Road, Zone 13 Adyar, Chennai - 600090, Tamil Nadu, India",,Geoapify,node/9819135522,12.9945334,80.2640619,2026-10-06T17:38:30+00:00
+S.T.M.S. General Store,Supermarket,Chennai,"Valluvar Kottam High Road, Zone 9 Teynampet, Chennai - 600034, Tamil Nadu, India",,Geoapify,node/7271121226,13.0571524,80.242978,2026-10-06T17:38:30+00:00
+Daniel Super Market,Supermarket,Chennai,"Velachery Road, Zone 13 Adyar, Chennai - 600015, Tamil Nadu, India",,Geoapify,node/12573526002,13.0131367,80.2240167,2026-10-06T17:38:30+00:00
+Reliance Fresh,Supermarket,Chennai,"Kaliamman Koil Street, Zone 10 Kodambakkam, Chennai - 600093, Tamil Nadu, India",,Geoapify,node/595659824,13.0596967,80.1952529,2026-10-06T17:38:30+00:00
+Fresh Baked Goodness,Bakery,Chennai,"New No. 22, Old No. 40, 3rd Street, Zone 9 Teynampet, Chennai - 600004, Tamil Nadu, India",+919962104626,Geoapify,node/8425034938,13.0338116,80.2625203,2026-10-06T17:38:30+00:00
+CK Bakery,Bakery,Chennai,"Arya Gowda Road, Zone 10 Kodambakkam, Chennai - 600033, Tamil Nadu, India",,Geoapify,node/6010172976,13.0362143,80.220664,2026-10-06T17:38:30+00:00
+Cake Park,Bakery,Chennai,"Doctor Nair Road, Zone 10 Kodambakkam, Chennai - 600017, Tamil Nadu, India",,Geoapify,node/3725572114,13.0406035,80.2404478,2026-10-06T17:38:30+00:00
+The olde madras baking company,Bakery,Chennai,"Habibullah Road, Zone 9 Teynampet, Chennai - 600017, Tamil Nadu, India",,Geoapify,node/13137393826,13.0502555,80.2381734,2026-10-06T17:38:30+00:00
+Vijaya bakery,Bakery,Chennai,"Vivekananda Nagar Main Road, Zone 7 Ambattur, Chennai - 600099, Tamil Nadu, India",,Geoapify,node/10013621160,13.1241104,80.2014276,2026-10-06T17:38:30+00:00
+OnePlus Experience & Service,Electronics Store,Chennai,"39, Sir Thyagaraya Road, Zone 10 Kodambakkam, Chennai - 600017, Tamil Nadu, India",+91-44-48599314,Geoapify,node/8413766106,13.0408878,80.2377814,2026-10-06T17:38:30+00:00
+Xerox World,Electronics Store,Chennai,"Kasi Estate 1st Street, Zone 10 Kodambakkam, Chennai - 600083, Tamil Nadu, India",,Geoapify,node/8096493932,13.0292686,80.2085889,2026-10-06T17:38:30+00:00
+Sangeetha Mobiles,Electronics Store,Chennai,"South Usman Road, Zone 10 Kodambakkam, Chennai - 600022, Tamil Nadu, India",,Geoapify,node/13760669020,13.0340421,80.2305654,2026-10-06T17:38:30+00:00
+Rajan Electronics,Electronics Store,Chennai,"EVR Periyar Salai, Zone 8 Anna Nagar, Chennai - 600030, Tamil Nadu, India",,Geoapify,node/13955228802,13.0738221,80.2267297,2026-10-06T17:38:30+00:00
+maha ganapathy cell city,Electronics Store,Chennai,"Vivekananda Nagar Main Road, Kolathur, Chennai - 600099, Tamil Nadu, India",,Geoapify,node/10013621148,13.1241794,80.2015853,2026-10-06T17:38:30+00:00
+Apple Hair Style,Salon,Chennai,"Anaikara Kannan Street, Zone 5 Royapuram, Chennai - 600079, Tamil Nadu, India",,Geoapify,node/11533218766,13.1014849,80.2829859,2026-10-06T17:38:30+00:00
+"Macau, Men and Kids Beauty Saloon",Salon,Chennai,"Mettu Street, Zone 5 Royapuram, Chennai - 600021, Tamil Nadu, India",,Geoapify,node/10675652330,13.1010509,80.2907926,2026-10-06T17:38:30+00:00
+The Hair Lounge,Salon,Chennai,"Savari Muthu Street, Zone 5 Royapuram, Chennai - 600079, Tamil Nadu, India",,Geoapify,node/10208863114,13.0975736,80.2874061,2026-10-06T17:38:30+00:00
+Classic Corner Saloon,Salon,Chennai,"Moore Street, Zone 5 Royapuram, Chennai - 600079, Tamil Nadu, India",,Geoapify,node/10107995500,13.0959944,80.2911697,2026-10-06T17:38:30+00:00
+K.F. Salon,Salon,Chennai,"Geils Street, Zone 5 Royapuram, Chennai - 600079, Tamil Nadu, India",,Geoapify,node/10156205708,13.100101,80.286975,2026-10-06T17:38:30+00:00
+Elliot's Beach Gym,Gym,Chennai,"Elliot's Beach Promenade, Zone 13 Adyar, Chennai - 600090, Tamil Nadu, India",,Geoapify,way/1132145716,13.0001673,80.2711805,2026-10-06T17:38:30+00:00
+Muscle Factory,Gym,Chennai,"Kodambakkam Road, Zone 10 Kodambakkam, Chennai - 600015, Tamil Nadu, India",,Geoapify,node/5631872270,13.0279767,80.2200456,2026-10-06T17:38:30+00:00
+New Body and Soul Hi Tech Gym,Gym,Chennai,"Gandhi Street, Zone 10 Kodambakkam, Chennai - 600083, Tamil Nadu, India",,Geoapify,node/8100626663,13.0277261,80.2086898,2026-10-06T17:38:30+00:00
+Shape Up Gym,Gym,Chennai,"Gandhi Road, Zone 8 Anna Nagar, Chennai - 600094, Tamil Nadu, India",,Geoapify,node/10611686005,13.0661144,80.2224113,2026-10-06T17:38:30+00:00
+Penguin Sports Academy,Gym,Chennai,"Rasappa Chetty Street, Zone 5 Royapuram, Chennai - 600079, Tamil Nadu, India",,Geoapify,node/10795076513,13.0864829,80.2759526,2026-10-06T17:38:30+00:00
+"The Raintree, St Mary's Road",Hotel,Chennai,"120, St. Mary's Road, Zone 9 Teynampet, Chennai - 600018, Tamil Nadu, India",+914442252525,Geoapify,way/1112836238,13.0286315,80.2526642,2026-10-06T17:38:30+00:00
+G R Guest House,Hotel,Chennai,"Anjugam Nagar 1st Street, Zone 10 Kodambakkam, Chennai - 600083, Tamil Nadu, India",96771 92893,Geoapify,node/8108613660,13.0296004,80.2090818,2026-10-06T17:38:30+00:00
+Hotel Mines,Hotel,Chennai,"Inner Ring Road, Zone 13 Adyar, Chennai - 600032, Tamil Nadu, India",,Geoapify,node/5232761114,13.0236643,80.2066037,2026-10-06T17:38:30+00:00
+Amma Unavagam,Hotel,Chennai,"Gangai Amman Koil Street, Zone 10 Kodambakkam, Chennai - 600083, Tamil Nadu, India",,Geoapify,node/4308320096,13.0246097,80.2125531,2026-10-06T17:38:30+00:00
+Kuber Inn,Hotel,Chennai,"8, Lakshmi Narasimman Street, Zone 10 Kodambakkam, Chennai - 600017, Tamil Nadu, India",,Geoapify,way/1126048198,13.0409084,80.2311831,2026-10-06T17:38:30+00:00
+Masthanamma Canteen,Cafe,Hyderabad,"Boduppal Colony Road, Boduppal, - 500039, Telangana, India",+91 8328406462;+91 7396098152;+91 9951555024,Geoapify,node/6582353398,17.4211212,78.5647834,2026-10-06T17:38:30+00:00
+SATYA NARAYANA CAFE,Cafe,Hyderabad,"Malkajgiri Road, Ward 141 Gautham Nagar, Hyderabad - 500017, Telangana, India",,Geoapify,node/10262083190,17.4469498,78.5328389,2026-10-06T17:38:30+00:00
+N S Pizza Hub,Cafe,Hyderabad,"Padmarao Nagar Road, Boiguda, Hyderabad - 500025, Telangana, India",,Geoapify,node/9731704308,17.4236387,78.5077151,2026-10-06T17:38:30+00:00
+Aqua Cafe,Cafe,Hyderabad,"Golnaka Road, Nallakunta, Hyderabad - 500027, Telangana, India",,Geoapify,node/4378873492,17.3886699,78.5036851,2026-10-06T17:38:30+00:00
+Cafe Coffee Day,Cafe,Hyderabad,"Nallakunta Main Road, Vidyanagar, Hyderabad - 500044, Telangana, India",,Geoapify,node/7244243972,17.4003341,78.5077415,2026-10-06T17:38:30+00:00
+JusyLife,Restaurant,Hyderabad,"2-2-7\5a, Osmania University Road, Ward 84 Bagh Amberpet, Hyderabad - 500013, Telangana, India",+91 91333 81888,Geoapify,node/9748215760,17.4053026,78.5156729,2026-10-06T17:38:30+00:00
+Grand Bavarchi,Restaurant,Hyderabad,"Service Road, Moosarambagh, Hyderabad - 500036, Telangana, India",040 6668 9741,Geoapify,node/7576018686,17.3693123,78.5153122,2026-10-06T17:38:30+00:00
+Istanbul authentic doner kebab,Restaurant,Hyderabad,"Old Bombay Highway, Tolichowki, Hyderabad - 500008, Telangana, India",9573002015,Geoapify,node/5973773086,17.3968157,78.4238638,2026-10-06T17:38:30+00:00
+Surabhi Bar and Restaurant,Restaurant,Hyderabad,"Nacharam Road, Nacharam, Hyderabad - 500076, Telangana, India",,Geoapify,node/8111070732,17.4285032,78.5511175,2026-10-06T17:38:30+00:00
+Pickles,Restaurant,Hyderabad,"Sarojini Devi Road, Marredpally mandal, Hyderabad - 500026, Telangana, India",,Geoapify,node/1416850704,17.4412663,78.5003508,2026-10-06T17:38:30+00:00
+Pradhan Manthri Bharatiya Jan Aushadhi Kendra,Pharmacy,Hyderabad,"Hill Park Road, Nampally, Hyderabad - 500004, Telangana, India",8096745599,Geoapify,node/6222437288,17.3972626,78.462798,2026-10-06T17:38:30+00:00
+Hetero,Pharmacy,Hyderabad,"Shivam Road, Ward 84 Bagh Amberpet, Hyderabad - 500044, Telangana, India",,Geoapify,node/2708239888,17.3989187,78.5128218,2026-10-06T17:38:30+00:00
+Sai Ram Medical & General Stores,Pharmacy,Hyderabad,"Chilkanagar Main Road, Uppal, Hyderabad - 500039, Telangana, India",,Geoapify,node/6593421966,17.4208674,78.5644225,2026-10-06T17:38:30+00:00
+Mediplus,Pharmacy,Hyderabad,"LB Nagar - Uppal Road, Nagole, Hyderabad - 500060, Telangana, India",,Geoapify,node/1713940490,17.3741194,78.5585102,2026-10-06T17:38:30+00:00
+Pharmacy ,Pharmacy,Hyderabad,"New Nagole Main Road, Saroor Nagar, Hyderabad - 500102, Telangana, India",,Geoapify,node/4209992292,17.3723814,78.5459288,2026-10-06T17:38:30+00:00
+Meena Hospital,Hospital,Hyderabad,"Tukaram Gate Main Road, Ward 142 Addagutta, Hyderabad - 500026, Telangana, India",040 2773 0674,Geoapify,node/3506878894,17.44165,78.5218514,2026-10-06T17:38:30+00:00
+KASTURI MULTISPECIALITY HOSPITAL,Hospital,Hyderabad,"St Johns Road, Ward 142 Addagutta, Hyderabad - 500025, Telangana, India","040-27830534, 040-27831534, +91-7207375534",Geoapify,node/6548826056,17.4389273,78.5060866,2026-10-06T17:38:30+00:00
+Satya Multi Speciality Hospital,Hospital,Hyderabad,"Chilkanagar Main Road, Uppal, Hyderabad - 500039, Telangana, India",+91 7093088502;+91 9030911252,Geoapify,node/6632844432,17.4189151,78.5654264,2026-10-06T17:38:30+00:00
+ANAND EYE INSITUTE,Hospital,Hyderabad,"Habsiguda Main Road, Uppal, Hyderabad - 500007, Telangana, India",040-27151999,Geoapify,node/6549209512,17.4183281,78.5427846,2026-10-06T17:38:30+00:00
+SUMITHRA HOSPITALS,Hospital,Hyderabad,"Inner Ring Road, Ward 10 Uppal, Hyderabad - 500039, Telangana, India",04027202741 ; 04027202742,Geoapify,node/6549439100,17.3960244,78.559704,2026-10-06T17:38:30+00:00
+"Urban Primary Health Centre, Tukaramgate",Clinic,Hyderabad,"Tukaram Gate Main Road, Marredpally mandal, Hyderabad - 500026, Telangana, India",,Geoapify,node/11001542598,17.4439108,78.5213253,2026-10-06T17:38:30+00:00
+"Primary Health Centre, Uppal (Urban)",Clinic,Hyderabad,"Uppal Skywalk, Ward 10 Uppal, Hyderabad - 500039, Telangana, India",,Geoapify,node/6547969014,17.4020034,78.5607594,2026-10-06T17:38:30+00:00
+Ananda Nursing Home,Clinic,Hyderabad,"Lalitha Nagar Road, Ward 85 Adikmet, Hyderabad - 752106, Telangana, India",,Geoapify,node/635590614,17.4101591,78.5143831,2026-10-06T17:38:30+00:00
+IICT-CCMB Dispensary,Clinic,Hyderabad,"Dr. Zaheer Marg, Nacharam, Hyderabad - 500007, Telangana, India",,Geoapify,node/6616154446,17.4216119,78.5427439,2026-10-06T17:38:30+00:00
+Urban Primary Health Centre Venkatreddy Nagar (Urban),Clinic,Hyderabad,"Patel Nagar Road, Ward 8 Habsiguda, Hyderabad - 500013, Telangana, India",,Geoapify,node/6545241016,17.3861047,78.5282457,2026-10-06T17:38:30+00:00
+Appaji Dental Clinic,Dentist,Hyderabad,"Lane Number 6, Jawahar Nagar, Hyderabad - 500020, Telangana, India",,Geoapify,node/6308262634,17.4106528,78.4926179,2026-10-06T17:38:30+00:00
+Shubham Dental Clinic,Dentist,Hyderabad,"Akbar Road, Gunrock Enclave, - 500011, Telangana, India",,Geoapify,node/5892276114,17.4643612,78.4838834,2026-10-06T17:38:30+00:00
+M.S. Malik Multi Speciality Dental Clinic,Dentist,Hyderabad,"Fateh Sultan Road, Ward 78 Gunfoundry, Hyderabad - 500001, Telangana, India",,Geoapify,node/6811749038,17.39345,78.472396,2026-10-06T17:38:30+00:00
+Smile Care Dental Hospital,Dentist,Hyderabad,"Yousufguda Main Road, Vengal Rao Nagar, Hyderabad - 500045, Telangana, India",,Geoapify,node/6811749100,17.4379618,78.4401576,2026-10-06T17:38:30+00:00
+Smile Dental Hospital,Dentist,Hyderabad,"Khader Bagh road, Ward 71 Gudimalkapur, Hyderabad - 500028, Telangana, India",,Geoapify,node/6811749060,17.3911578,78.4276191,2026-10-06T17:38:30+00:00
+Syndicate Bank,Bank,Hyderabad,"Wellington Road, Marredpally mandal, Secunderabad - 500003, Telangana, India",,Geoapify,node/8386652612,17.4551205,78.5038909,2026-10-06T17:38:30+00:00
+Axis Bank,Bank,Hyderabad,"Krishna Deva Raya Road, Sitaphalmandi, Hyderabad - 500017, Telangana, India",,Geoapify,node/813571840,17.4289334,78.5275174,2026-10-06T17:38:30+00:00
+Dena Bank,Bank,Hyderabad,"Warasiguda Road, Musheerabad, Hyderabad - 500061, Telangana, India",,Geoapify,node/5539327284,17.4195859,78.5185669,2026-10-06T17:38:30+00:00
+State Bank of India,Bank,Hyderabad,"12-10-416/A, Warasiguda, Padmarao Nagar, Namalagundu Road, Ward 145 Seethaphalmandi, Hyderabad - 500061, Telangana, India",,Geoapify,node/9903919152,17.422347,78.5170927,2026-10-06T17:38:30+00:00
+Canara Bank,Bank,Hyderabad,"Street Number 20, Ward 84 Bagh Amberpet, Hyderabad - 353535, Telangana, India",,Geoapify,way/331773086,17.3960055,78.5202614,2026-10-06T17:38:30+00:00
+Rajlaxmi Kirana & General Stores,Supermarket,Hyderabad,"Boduppal Colony Road, Boduppal, - 500039, Telangana, India",+91 9676786288,Geoapify,node/6581371226,17.4236842,78.5673812,2026-10-06T17:38:30+00:00
+sandeep kirana stores,Supermarket,Hyderabad,"railway street, Marredpally mandal, Hyderabad - 500017, Telangana, India",+91 9885204612,Geoapify,node/9391096288,17.4378229,78.5382835,2026-10-06T17:38:30+00:00
+Maa Bhagwathi Home Needs & Electronics,Supermarket,Hyderabad,"Chilkanagar Main Road, Uppal, Hyderabad - 500039, Telangana, India",+91 9700057507,Geoapify,node/6632844428,17.4191818,78.5653266,2026-10-06T17:38:30+00:00
+Tharuni Super Market,Supermarket,Hyderabad,"5-32/4, Malkajgiri, Malkajgiri X Road, Ward 140 Malkajgiri, Hyderabad - 500047, Telangana, India",,Geoapify,node/1435296000,17.4500675,78.5360546,2026-10-06T17:38:30+00:00
+Ghanshyam Super Market,Supermarket,Hyderabad,"Hyderabad - Mancherial Highway, Marredpally mandal, - 500015, Telangana, India",,Geoapify,node/8386386570,17.4579823,78.500072,2026-10-06T17:38:30+00:00
+S.S.K. Bakers,Bakery,Hyderabad,"Boduppal Colony Road, Boduppal, - 500039, Telangana, India",+91 9059024051,Geoapify,node/6593421944,17.4230365,78.5680497,2026-10-06T17:38:30+00:00
+Dolphin,Bakery,Hyderabad,"Nacharam Road, Nacharam, Hyderabad - 500076, Telangana, India",,Geoapify,node/6865895984,17.4234709,78.5461301,2026-10-06T17:38:30+00:00
+MGM Bakery,Bakery,Hyderabad,"Warasiguda-Parsigutta Road, Ward 146 Boudha Nagar, Hyderabad - 500061, Telangana, India",,Geoapify,node/5608451168,17.4197715,78.5165633,2026-10-06T17:38:30+00:00
+Dophin,Bakery,Hyderabad,"Nacharam Road, Nacharam, Hyderabad - 500017, Telangana, India",,Geoapify,way/733462896,17.4234562,78.5461442,2026-10-06T17:38:30+00:00
+Universal bakery,Bakery,Hyderabad,"Ramnagar Road, Ward 85 Adikmet, Hyderabad - 500044, Telangana, India",,Geoapify,node/8387157862,17.4073283,78.5129101,2026-10-06T17:38:30+00:00
+Unique Mobile Stationery and Gift Sales and Service,Electronics Store,Hyderabad,"Road No 10, Boduppal, - 500076, Telangana, India",+91 9666349444;+919059181031;+919395501165,Geoapify,node/6581371216,17.4234176,78.567006,2026-10-06T17:38:30+00:00
+Telenor Store,Electronics Store,Hyderabad,"Ramnagar Road, Ward 85 Adikmet, Hyderabad - 500044, Telangana, India",9059201178,Geoapify,node/4319818243,17.4084061,78.5112931,2026-10-06T17:38:30+00:00
+Aircel Store,Electronics Store,Hyderabad,"Ramnagar Road, Ward 85 Adikmet, Hyderabad - 500044, Telangana, India",,Geoapify,node/4319818968,17.4084249,78.5112269,2026-10-06T17:38:30+00:00
+Bajaj electronics,Electronics Store,Hyderabad,"Ward 9 Ramanthapur, Hyderabad - 500013, Telangana, India",,Geoapify,node/12852211118,17.3991007,78.5380842,2026-10-06T17:38:30+00:00
+Tirupati Electronics,Electronics Store,Hyderabad,"Vijaywada Highway, Gaddiannaram, Hyderabad - 500035, Telangana, India",,Geoapify,node/6390378848,17.3689714,78.522324,2026-10-06T17:38:30+00:00
+Laxmi Tirumala Hair Style,Salon,Hyderabad,"Boduppal Colony Road, Boduppal, - 500039, Telangana, India",+91 9963121924,Geoapify,node/6581371222,17.4235778,78.5672191,2026-10-06T17:38:30+00:00
+Karthik Mens Beauty Salon,Salon,Hyderabad,"Road No 6, Boduppal, - 500039, Telangana, India",+918019474269,Geoapify,node/6574777324,17.4215264,78.5668253,2026-10-06T17:38:30+00:00
+Swagath Mens Hair Saloon,Salon,Hyderabad,"Boduppal Colony Road, Boduppal, - 500039, Telangana, India",+91 8801262090,Geoapify,node/6582353394,17.4212419,78.5648953,2026-10-06T17:38:30+00:00
+Sree Swagath Mens Parlour,Salon,Hyderabad,"Boduppal Colony Road, Boduppal, - 500039, Telangana, India",+91 9866683791,Geoapify,node/6582353392,17.4212869,78.5649492,2026-10-06T17:38:30+00:00
+Sri Nandishwara Hair Style,Salon,Hyderabad,"Boduppal Colony Road, Boduppal, - 500039, Telangana, India",+91 8008383863,Geoapify,node/6593421938,17.4229891,78.5683467,2026-10-06T17:38:30+00:00
+LORD'S GYM,Gym,Hyderabad,"3rd floor, Inner Ring Road, Ward 11 Nagole, Hyderabad - 500068, Telangana, India",063012 04045,Geoapify,node/13963701201,17.3625157,78.5576483,2026-10-06T17:38:30+00:00
+Shakthi Gold Gym,Gym,Hyderabad,"Chilkanagar Main Road, Uppal, Hyderabad - 500039, Telangana, India",+91 9848496829,Geoapify,node/6575821850,17.4179636,78.5661598,2026-10-06T17:38:30+00:00
+SIM Lion Fitness,Gym,Hyderabad,"Ayyappa Temple Road, Uppal, - 500039, Telangana, India",,Geoapify,way/357337057,17.409882,78.5739663,2026-10-06T17:38:30+00:00
+z fitness world,Gym,Hyderabad,"green hills colony, Ward 20 RK Puram, Hyderabad - 500102, Telangana, India",,Geoapify,way/357456733,17.3578844,78.5457946,2026-10-06T17:38:30+00:00
+salus gym,Gym,Hyderabad,"GreenHills Colony Road Number 3, Ward 20 RK Puram, Hyderabad - 500102, Telangana, India",,Geoapify,way/357612254,17.3606739,78.5456642,2026-10-06T17:38:30+00:00
+Kinara Grand,Hotel,Hyderabad,"Habsiguda Main Road, Habsiguda, Hyderabad - 500007, Telangana, India",,Geoapify,node/3200948742,17.4189945,78.5409396,2026-10-06T17:38:30+00:00
+OYO,Hotel,Hyderabad,"green hills colony road no 6, Ward 20 RK Puram, Hyderabad - 500102, Telangana, India",,Geoapify,node/11690787306,17.3585767,78.5457706,2026-10-06T17:38:30+00:00
+Peppermint Hotel,Hotel,Hyderabad,"Lakdikapul Road, Saifabad, Hyderabad - 500004, Telangana, India",,Geoapify,way/115153870,17.406282,78.4631916,2026-10-06T17:38:30+00:00
+Hotel Kens,Hotel,Hyderabad,"Sri Nagar Colony Main Road, Jubilee Hills, Hyderabad - 500073, Telangana, India",,Geoapify,node/1885687332,17.4286758,78.4387661,2026-10-06T17:38:30+00:00
+Hotel Katriya Fortune,Hotel,Hyderabad,"Raj Bhavan Road, Somajiguda, Hyderabad - 500082, Telangana, India",,Geoapify,node/2052650400,17.4247273,78.4595863,2026-10-06T17:38:30+00:00
+Pagdandi cafe,Cafe,Pune,"Baner-Pashan Link Road, Pune - 411021, Maharashtra, India",8788990609,Geoapify,node/3987038638,18.5523223,73.7931643,2026-10-06T17:38:30+00:00
+Revive Social Rooftop Cafe & Lounge,Cafe,Pune,"Rooftop, Raviraj Society, D.P Road, Parihar Chowk, Near Westend Mall, Ramchandra Gayakwad Path, Aundh, Pune - 411007, Maharashtra, India",+918668564552,Geoapify,node/12101659688,18.5604275,73.8080515,2026-10-06T17:38:30+00:00
+Barista Lavazza,Cafe,Pune,"Vishnushastri Chiplunkar Path, Erandwane, Pune - 411001, Maharashtra, India",02025662080,Geoapify,node/2183488936,18.5151955,73.8286908,2026-10-06T17:38:30+00:00
+Vohuman Cafe,Cafe,Pune,"Rajarshi Shahu Maharaj Path, Pune - 411001, Maharashtra, India",+919373323263,Geoapify,node/9967066414,18.5324382,73.8768496,2026-10-06T17:38:30+00:00
+The Veg Culture,Cafe,Pune,"Narveer Tanaji Malusare Marg, Manik Baug, Anandnagar - 411051, Maharashtra, India",,Geoapify,node/8711632382,18.4718862,73.8204546,2026-10-06T17:38:30+00:00
+Cakestory Desserts Gangadham,Restaurant,Pune,"S no. 588/1 A BL B, Shop no.20, Jawaharlal Nehru Marg, Pune - 411037, Maharashtra, India",+91-8552-809191,Geoapify,node/12688233704,18.4814608,73.8722918,2026-10-06T17:38:30+00:00
+New Apoorwai,Restaurant,Pune,"V. R. Kothari Path, Narayan Peth, Pune - 411001, Maharashtra, India",+912024453820,Geoapify,node/5832579348,18.5142459,73.8461682,2026-10-06T17:38:30+00:00
+Asia Kitchen,Restaurant,Pune,"Boat Club Road, Pune - 411001, Maharashtra, India",+91 20 66013030,Geoapify,node/518640962,18.538908,73.8752478,2026-10-06T17:38:30+00:00
+ChickeGo,Restaurant,Pune,"10, Viman Nagar Road, Pune - 411014, Maharashtra, India",8484084833,Geoapify,way/359805562,18.5662424,73.9110802,2026-10-06T17:38:30+00:00
+Sumadhu Veg Restaurant,Restaurant,Pune,"Narveer Tanaji Malusare Marg, Dattawadi, Anandnagar - 411051, Maharashtra, India",02024251822,Geoapify,node/3816611692,18.4896771,73.832051,2026-10-06T17:38:30+00:00
+Morya Generic Medical,Pharmacy,Pune,"Sahyognagar Road, Warje, Anandnagar - 411051, Maharashtra, India",+91 77967 33030,Geoapify,node/13620265852,18.4823083,73.7974961,2026-10-06T17:38:30+00:00
+Amit Medico and General Stores,Pharmacy,Pune,"New DP Road, Pune - 411007, Maharashtra, India",,Geoapify,node/11546228224,18.5608263,73.8028984,2026-10-06T17:38:30+00:00
+Care Cure,Pharmacy,Pune,"Wakeshwar Road, Pashan, Pune - 411001, Maharashtra, India",,Geoapify,node/9975580508,18.5437093,73.7926408,2026-10-06T17:38:30+00:00
+Ishwar Drug House,Pharmacy,Pune,"Pashan-Sus Road, Pashan, Pune - 411001, Maharashtra, India",,Geoapify,node/1011184896,18.5434538,73.7845372,2026-10-06T17:38:30+00:00
+Chetan Medicals,Pharmacy,Pune,"Dattawadi Road, Dattawadi, Pune - 411001, Maharashtra, India",,Geoapify,node/2801208408,18.4987396,73.8389126,2026-10-06T17:38:30+00:00
+Patil Hospital,Hospital,Pune,"Narveer Tanaji Malusare Marg, Manik Baug, Anandnagar - 411051, Maharashtra, India",+919225825463,Geoapify,node/3719797432,18.4791887,73.8247015,2026-10-06T17:38:30+00:00
+Sushrusha Hospital,Hospital,Pune,"Kale Padal Road, Krushna Nagar, Pune - 411028, Maharashtra, India",,Geoapify,node/7649461780,18.483917,73.939737,2026-10-06T17:38:30+00:00
+Om Hospital in Pune,Hospital,Pune,"Lane Number 11, Kondhwa, Pune - 411018, Maharashtra, India",,Geoapify,node/9143796444,18.4747094,73.8844764,2026-10-06T17:38:30+00:00
+immunology and rheumatology clinic,Hospital,Pune,"Right Flank Road, Wanawadi, Pune - 411001, Maharashtra, India",,Geoapify,node/10172914040,18.4958983,73.8886709,2026-10-06T17:38:30+00:00
+Gultekdi Nursing and Maternity Home,Hospital,Pune,"Kushaba Jhangale Road, Mukund Nagar, Pune - 411037, Maharashtra, India",,Geoapify,node/7050392540,18.4926804,73.8685472,2026-10-06T17:38:30+00:00
+Suhrud clinic,Clinic,Pune,"Netaji Palkar Chowk, Pune - 411009, Maharashtra, India",8888893925,Geoapify,node/9549711684,18.4971906,73.8554839,2026-10-06T17:38:30+00:00
+Sai Clinic,Clinic,Pune,"Golwalkar Guruji Path, Panchavati, Pune - 411043, Maharashtra, India",+91 9657617503,Geoapify,node/13314484672,18.4742757,73.8543639,2026-10-06T17:38:30+00:00
+My Speech & Hearing Clinic,Clinic,Pune,"6, Lokmanya Tilak Marg, Sadashiv Peth, Pune - 411030, Maharashtra, India",7040300300,Geoapify,way/365487862,18.507282,73.8514695,2026-10-06T17:38:30+00:00
+The Gastro Clinic,Clinic,Pune,"Gopal Hari Deshmukh Marg, Baner, Pune - 411001, Maharashtra, India",+91 88888 00470,Geoapify,node/13461268166,18.5644788,73.7747916,2026-10-06T17:38:30+00:00
+Opal Histopathology Center,Clinic,Pune,"Gopal Hari Deshmukh Marg, Baner, Pune - 411001, Maharashtra, India",+91 77570 73688;+91 96230 09290,Geoapify,node/13461268168,18.5644423,73.7748448,2026-10-06T17:38:30+00:00
+Dr Rasika's Dental Wellness Centre,Dentist,Pune,"Someshwar Temple Road, Pashan, Pune - 411001, Maharashtra, India",+91 7588871443 / (020) 41225502,Geoapify,node/5771102650,18.5481911,73.7933549,2026-10-06T17:38:30+00:00
+Varad Dental Clinic & Implant Centre,Dentist,Pune,"Samartha Path, Karve Nagar, Anandnagar - 411052, Maharashtra, India",07775866101,Geoapify,node/5803625454,18.4935965,73.8253105,2026-10-06T17:38:30+00:00
+Oracare Detal Clinic,Dentist,Pune,"Someshwar Temple Road, Pashan, Pune - 411001, Maharashtra, India",(020) 25860233,Geoapify,node/10261057846,18.5484006,73.7935198,2026-10-06T17:38:30+00:00
+Lily white Dental clinic,Dentist,Pune,"Pashan-Sus Road, Baner, Pune - 411001, Maharashtra, India",+91 8007663663,Geoapify,node/10799628505,18.5447971,73.7804094,2026-10-06T17:38:30+00:00
+Glowdent Clinic,Dentist,Pune,"Karve Road, Erandwane, Pune - 411051, Maharashtra, India",+91 20 25430418,Geoapify,node/5879368029,18.5033728,73.8193544,2026-10-06T17:38:30+00:00
+SVC Bank,Bank,Pune,"New DP Road, Pune - 411045, Maharashtra, India",+91 20 2729 9110;+91 20 2729 9120;+91 20 2729 9130,Geoapify,node/6130922024,18.5620601,73.8026661,2026-10-06T17:38:30+00:00
+Indusbank,Bank,Pune,"Kondhwa Main Road, Kondhwa, Pune - 411018, Maharashtra, India",,Geoapify,node/9998965648,18.4785123,73.8903509,2026-10-06T17:38:30+00:00
+ICICI Bank,Bank,Pune,"Suncity Road, Manik Baug, Anandnagar - 411051, Maharashtra, India",,Geoapify,node/11909430134,18.4758041,73.8175358,2026-10-06T17:38:30+00:00
+Lokmanya Patasanstha,Bank,Pune,"Gandhibhavan Road, Karve Nagar, Anandnagar - 411038, Maharashtra, India",,Geoapify,node/12880272740,18.4959628,73.8091948,2026-10-06T17:38:30+00:00
+The Yavatmal Urban Co-op Bank Ltd,Bank,Pune,"DP Road, Pune - 411051, Maharashtra, India",,Geoapify,node/6111357576,18.5030788,73.7997848,2026-10-06T17:38:30+00:00
+Ganesh General Store,Supermarket,Pune,"Deccan College Road, Yerawada, Pune - 411001, Maharashtra, India",+91 82620 18692,Geoapify,node/13619790664,18.5485923,73.878748,2026-10-06T17:38:30+00:00
+Jewel Paradise,Supermarket,Pune,"11, Sohrab Hall, Tadiwala Road, RBM Road, Pune - 411001, Maharashtra, India",+91 9823779837,Geoapify,node/6315701310,18.53083,73.8747421,2026-10-06T17:38:30+00:00
+Jiashree Supermarket,Supermarket,Pune,"Someshwar Temple Road, Pashan, Pune - 411001, Maharashtra, India",+91 86691 05803,Geoapify,node/5696339610,18.5482566,73.7934856,2026-10-06T17:38:30+00:00
+Lachhoba,Supermarket,Pune,"NIBM Kondhwa Link Road, Kondhwa, Kondhwa Budruk - 411048, Maharashtra, India",,Geoapify,node/10542458034,18.464781,73.8900789,2026-10-06T17:38:30+00:00
+Cromā,Supermarket,Pune,"Uttamchand Mukunddas Gandhi Path, Pune - 411038, Maharashtra, India",,Geoapify,way/282051126,18.4986827,73.8217192,2026-10-06T17:38:30+00:00
+Bangalore Ayyangers Bakery,Bakery,Pune,"DP Road, Pune - 411051, Maharashtra, India",,Geoapify,node/6111357574,18.5032276,73.7987937,2026-10-06T17:38:30+00:00
+Chocolate Biclate,Bakery,Pune,"Gopal Hari Deshmukh Marg, Baner, Pune - 411001, Maharashtra, India",,Geoapify,node/13598173716,18.5575683,73.7932615,2026-10-06T17:38:30+00:00
+WS Bakers,Bakery,Pune,"Senapati Bapat Marg, Model Colony, Pune - 411001, Maharashtra, India",,Geoapify,node/3754528636,18.5407605,73.8302241,2026-10-06T17:38:30+00:00
+Monginis,Bakery,Pune,"Sqn Ldr Sureshchandra Bhagwat Marg, Model Colony, Pune - 411001, Maharashtra, India",,Geoapify,node/761948610,18.5300262,73.8366561,2026-10-06T17:38:30+00:00
+Copper Chocs,Bakery,Pune,"Karve Road, Erandwane, Pune - 411051, Maharashtra, India",,Geoapify,node/6183911094,18.5026976,73.8172584,2026-10-06T17:38:30+00:00
+Deepak Electronics and Electricals,Electronics Store,Pune,"Dhayari Road, Vadgaon Budruk, Anandnagar - 411051, Maharashtra, India",02024390340,Geoapify,node/3685860724,18.4497428,73.8107698,2026-10-06T17:38:30+00:00
+Crystal Lifestyles,Electronics Store,Pune,"Shankarao Gaikwad Path, Pune - 411007, Maharashtra, India",+91 880 655 5757,Geoapify,node/6135560378,18.5535864,73.8077362,2026-10-06T17:38:30+00:00
+Reliance Digital,Electronics Store,Pune,"Balewadi High Street, Ram Indu Park, Pune - 411045, Maharashtra, India",+912029526081,Geoapify,node/9401950404,18.5635424,73.7765209,2026-10-06T17:38:30+00:00
+Swaroop Computers,Electronics Store,Pune,"Samartha Path, Karve Nagar, Anandnagar - 411052, Maharashtra, India",9890199798,Geoapify,node/5803624700,18.4926766,73.8253871,2026-10-06T17:38:30+00:00
+Vaishali Mobiles,Electronics Store,Pune,"DSK Vishwa Road, Anandnagar - 411051, Maharashtra, India",,Geoapify,node/13546434294,18.4472322,73.8099574,2026-10-06T17:38:30+00:00
+Sameer Men's Salon,Salon,Pune,"Balewadi Gaon Road, Baner, Pune - 411001, Maharashtra, India",+91 95793 92385,Geoapify,node/12770261288,18.5662347,73.7826249,2026-10-06T17:38:30+00:00
+Infinity salon,Salon,Pune,"Paud Road, Bavdhan, Pune - 411051, Maharashtra, India",,Geoapify,node/11766669222,18.5074729,73.7985321,2026-10-06T17:38:30+00:00
+Vivek Hairdressers,Salon,Pune,"Lalbahadur Shashtri Marg, Navi Peth, Pune - 411001, Maharashtra, India",,Geoapify,node/4415636702,18.5065819,73.8446491,2026-10-06T17:38:30+00:00
+Cute Cut,Salon,Pune,"Lane Number 1, Kharadi, Pune - 411001, Maharashtra, India",,Geoapify,node/10560842510,18.5539753,73.9429419,2026-10-06T17:38:30+00:00
+Shades,Salon,Pune,"Lane 8, Ghorpuri, Pune - 411001, Maharashtra, India",,Geoapify,node/10117677626,18.5364587,73.8990858,2026-10-06T17:38:30+00:00
+Endure Fitness Club - Aundh,Gym,Pune,"2nd Floor, Vasundhara Space Survey No-167/1, 168/1, Nagras Road, Aundh, Pune - 411007, Maharashtra, India",+91 7767050404,Geoapify,node/9931533792,18.5656385,73.8065019,2026-10-06T17:38:30+00:00
+Endure Fitness Club - Ambegaon BK,Gym,Pune,"“SUN GLORIA” Complex S. No. 36/2/2 and 39/9B, Katraj Ambegaon Khurd Road, Katraj, Anandnagar - 411046, Maharashtra, India",+91 9158026123,Geoapify,node/9931597154,18.4497215,73.8402625,2026-10-06T17:38:30+00:00
+Gold's Gym,Gym,Pune,"Survey No. 20/2, Uttamchand Mukunddas Gandhi Path, Karve Nagar, Pune - 411051, Maharashtra, India",02065000993,Geoapify,node/2501196670,18.4991044,73.822031,2026-10-06T17:38:30+00:00
+Gold's Gym,Gym,Pune,"Shankarao Gaikwad Path, Pune - 411007, Maharashtra, India",+91 744 748 5011;+91 744 748 5012,Geoapify,node/6135560379,18.553641,73.8076048,2026-10-06T17:38:30+00:00
+Endure Fitness Club - Satara Road,Gym,Pune,"692/693, Ground Floor, CityPride Multiplex, Satara Road, Pune - 411037, Maharashtra, India",+91 9049820505,Geoapify,node/9931539790,18.4886713,73.8579949,2026-10-06T17:38:30+00:00
+Cocoon Hotel,Hotel,Pune,"Magarpatta Rear Approach Road, Pune - 411013, Maharashtra, India",+91 20 6624 4444,Geoapify,way/265094352,18.5091275,73.9285769,2026-10-06T17:38:30+00:00
+Four Points by Sheraton,Hotel,Pune,"5th Mile Stone, Nagar Road, Ward 12, Pune - 411014, Maharashtra, India",91 20-67606699,Geoapify,way/242245544,18.5626195,73.9222212,2026-10-06T17:38:30+00:00
+Fairfield by Marriott Pune Kharadi,Hotel,Pune,"Kharadi Bypass, Kharadi, Pune - 411014, Maharashtra, India",+91 20 6712 1515,Geoapify,way/360274567,18.5459065,73.9366509,2026-10-06T17:38:30+00:00
+Raj Mahal,Hotel,Pune,"Chimaji Appa Peshwe Path, Swargate, Pune - 411001, Maharashtra, India",,Geoapify,node/10612527938,18.49755,73.8538827,2026-10-06T17:38:30+00:00
+Royal Hotel,Hotel,Pune,"Chavhan Bagh Road, Anandnagar - 411041, Maharashtra, India",,Geoapify,way/360306088,18.4475801,73.8031558,2026-10-06T17:38:30+00:00

@@ -13,7 +13,7 @@ from datetime import datetime, timezone
 
 import requests
 
-from common import CITIES, USER_AGENT, get_logger, write_raw_csv
+from common import CITIES, USER_AGENT, get_logger, prefer_english, write_raw_csv
 
 ENDPOINTS = [
     "https://overpass-api.de/api/interpreter",
@@ -99,7 +99,7 @@ def to_row(element: dict, city: str, scraped_at: str) -> dict | None:
     lat = element.get("lat") or element.get("center", {}).get("lat")
     lon = element.get("lon") or element.get("center", {}).get("lon")
     return {
-        "business_name": tags["name"],
+        "business_name": prefer_english(tags["name"], tags.get("name:en")),
         "category": category,
         "city": city,
         "address": address_of(tags),

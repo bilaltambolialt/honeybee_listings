@@ -19,7 +19,7 @@ from datetime import datetime, timezone
 import requests
 from dotenv import load_dotenv
 
-from common import CITIES, RAW_DIR, ROOT_DIR, USER_AGENT, get_logger, write_raw_csv
+from common import CITIES, RAW_DIR, ROOT_DIR, USER_AGENT, get_logger, prefer_english, write_raw_csv
 
 API_URL = "https://api.geoapify.com/v2/places"
 RADIUS_M = 10_000
@@ -84,6 +84,7 @@ def to_row(feature: dict, category: str, city: str, scraped_at: str) -> dict | N
     if not name:
         return None
     raw = props.get("datasource", {}).get("raw", {})
+    name = prefer_english(name, props.get("name_international", {}).get("en") or raw.get("name:en"))
     phone = props.get("contact", {}).get("phone") or raw.get("phone") or raw.get("contact:phone")
     osm_type, osm_id = raw.get("osm_type"), raw.get("osm_id")
     return {
