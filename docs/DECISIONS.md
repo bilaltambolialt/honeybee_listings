@@ -11,4 +11,7 @@
 - **Aggregation happens in MySQL, not Python:** `GROUP BY` on indexed columns returns a few small rows instead of shipping every listing to the API; it scales to millions of rows.
 - **Stable ordering:** counts sorted descending with alphabetical tie-break, so the charts never reshuffle between refreshes.
 - **`with_phone` KPI in the summary:** a simple data-quality signal (contact coverage) alongside the volume totals.
+- **OpenStreetMap via the official Overpass API** (not HTML scraping): open data under ODbL, explicit fair-use limits (~10,000 requests/day, 1 GB/day). The collector sends 6 requests in total, identifies itself with a descriptive User-Agent, pauses 15 s between cities and backs off on HTTP 429. Attribution: "(c) OpenStreetMap contributors".
+- **Balanced sampling:** OSM returned 22,365 matching places, heavily skewed (e.g. Bengaluru alone had 8,748). The collector keeps up to 5 per city x category, preferring records with an address and phone, giving 390 evenly spread rows so the charts compare like with like.
+- **Common raw format:** every collector writes the same columns (plus `source_id`, coordinates and `scraped_at` for traceability), so cleaning can combine sources directly.
 (Add more as we decide.)
