@@ -1,0 +1,12 @@
+# Web framework + ASGI server
+fastapi==0.142.2
+uvicorn[standard]==0.54.0
+
+# Database: ORM, MySQL driver, and crypto needed for MySQL 8+ default auth (caching_sha2_password)
+SQLAlchemy==2.1.3
+PyMySQL==1.2.3
+cryptography==50.0.2
+
+# Validation + .env-based configuration
+pydantic==2.13.5
+pydantic-settings==2.15.0
