@@ -37,3 +37,20 @@ class BulkInsertResult(BaseModel):
     received: int = Field(description="Rows in the request")
     inserted: int = Field(description="New rows written to MySQL")
     skipped: int = Field(description="Duplicates (within the batch or already stored)")
+
+
+class CountItem(BaseModel):
+    """One bar/slice in a dashboard chart."""
+
+    label: str
+    count: int
+
+
+class DashboardSummary(BaseModel):
+    """Headline numbers for the dashboard KPI cards."""
+
+    total_listings: int
+    cities: int = Field(description="Distinct cities")
+    categories: int = Field(description="Distinct categories")
+    sources: int = Field(description="Distinct data sources")
+    with_phone: int = Field(description="Listings that have a phone number")

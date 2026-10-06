@@ -8,4 +8,7 @@
 - **Duplicate handling in the API:** one indexed `SELECT ... IN (...)` to find existing keys, then insert only new rows; the UNIQUE index is the safety net (409 on a race). Chosen over `INSERT IGNORE`, which also silences unrelated errors such as truncation.
 - **Request body is a plain JSON array,** capped at 1000 rows per batch, so the loader sends data in manageable chunks.
 - **API trims, cleaning normalises:** the API only trims whitespace and stores blanks as NULL; heavier normalisation (casing, inner spaces, phone formats) happens in the cleaning step, keeping each stage's job clear.
+- **Aggregation happens in MySQL, not Python:** `GROUP BY` on indexed columns returns a few small rows instead of shipping every listing to the API; it scales to millions of rows.
+- **Stable ordering:** counts sorted descending with alphabetical tie-break, so the charts never reshuffle between refreshes.
+- **`with_phone` KPI in the summary:** a simple data-quality signal (contact coverage) alongside the volume totals.
 (Add more as we decide.)
