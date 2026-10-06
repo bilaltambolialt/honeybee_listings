@@ -20,3 +20,6 @@ dist/
 .DS_Store
 Thumbs.db
 .vscode/
+
+# Large downloaded source files (re-downloaded by the collectors)
+data/cache/

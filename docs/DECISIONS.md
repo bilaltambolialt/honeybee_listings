@@ -16,4 +16,8 @@
 - **Common raw format:** every collector writes the same columns (plus `source_id`, coordinates and `scraped_at` for traceability), so cleaning can combine sources directly.
 - **Geoapify Places API as source 2:** official keyed API; its terms allow results to be cached, stored and redistributed. Free plan: 3,000 credits/day, 5 req/s; the collector uses ~156 credits with a 0.5 s pause. Attribution: "Powered by Geoapify" and "(c) OpenStreetMap contributors".
 - **Keeping sources distinct:** Geoapify builds much of its places data on OpenStreetMap, so the collector skips any place whose OSM id was already collected in source 1 (111 of 2,952 candidates) and keeps each place once even if it sits in two categories. Result: zero shared records between the two files. Same-name rows in the same city (e.g. chain branches) are kept because their addresses differ.
+- **Named platforms not scraped:** Justdial, Sulekha and Google Maps (and five other Indian directories) forbid scraping or republishing in their terms; the brief says to avoid ToS violations. Evidence with quotes is in `docs/DATA_SOURCES.md`.
+- **RBI bank-branch directory as source 3:** fully independent of OpenStreetMap, MIT-licensed, official origin. Downloaded once (36 MB) into a git-ignored cache; only the 150-row sample is committed.
+- **Accuracy over volume for bank data:** sponsor-bank registrations made ~1,100 "banks" appear in Mumbai. Filters (15+ local branches, address must match city by PIN prefix or name, helpline/toll-free numbers dropped) raised landline area-code agreement to 67/72 before cleaning.
+- **Round-robin sampling across banks:** one branch per bank in turn, so 150 rows cover 49 banks instead of mostly the largest one.
 (Add more as we decide.)
