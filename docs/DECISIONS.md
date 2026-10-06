@@ -5,4 +5,7 @@
 - **Dedupe key:** sha256 hash column, because a UNIQUE index on long text columns is awkward in MySQL utf8mb4.
 - **Data goes through the Insert API,** not directly into MySQL, to prove the API works end to end.
 - **Single codebase for both roles;** only the submission email and video emphasis differ.
+- **Duplicate handling in the API:** one indexed `SELECT ... IN (...)` to find existing keys, then insert only new rows; the UNIQUE index is the safety net (409 on a race). Chosen over `INSERT IGNORE`, which also silences unrelated errors such as truncation.
+- **Request body is a plain JSON array,** capped at 1000 rows per batch, so the loader sends data in manageable chunks.
+- **API trims, cleaning normalises:** the API only trims whitespace and stores blanks as NULL; heavier normalisation (casing, inner spaces, phone formats) happens in the cleaning step, keeping each stage's job clear.
 (Add more as we decide.)
