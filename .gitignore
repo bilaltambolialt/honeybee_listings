@@ -1,0 +1,22 @@
+# Secrets
+.env
+*.env.local
+# Local one-off setup script that contains the DB password
+honeybeedb.sql
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Node / frontend
+node_modules/
+dist/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/

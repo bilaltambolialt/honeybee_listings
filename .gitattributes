@@ -1,0 +1,4 @@
+# Store text files with LF line endings so diffs are clean across Windows/macOS/Linux
+* text=auto eol=lf
+*.bat text eol=crlf
+*.ps1 text eol=crlf
