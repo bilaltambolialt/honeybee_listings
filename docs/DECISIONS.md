@@ -20,4 +20,9 @@
 - **RBI bank-branch directory as source 3:** fully independent of OpenStreetMap, MIT-licensed, official origin. Downloaded once (36 MB) into a git-ignored cache; only the 150-row sample is committed.
 - **Accuracy over volume for bank data:** sponsor-bank registrations made ~1,100 "banks" appear in Mumbai. Filters (15+ local branches, address must match city by PIN prefix or name, helpline/toll-free numbers dropped) raised landline area-code agreement to 67/72 before cleaning.
 - **Round-robin sampling across banks:** one branch per bank in turn, so 150 rows cover 49 banks instead of mostly the largest one.
+- **Cleaning as a script plus a notebook:** `scraper/clean_listings.py` holds the logic (re-runnable with one command); `notebooks/cleaning_eda.ipynb` calls the same functions step by step and shows before/after evidence, so there is one source of truth.
+- **Never guess data:** invalid phones (toll-free, wrong digit count, a spreadsheet-corrupted `1.13E+42`) are set to empty rather than "repaired"; phone completeness falls slightly (e.g. OSM 87.4% to 84.3%) in exchange for trustworthy values.
+- **Phone standard:** first number kept when several are listed; prefixes stripped in dialling order (00, 91, 0); 8-digit local landlines get the city's area code. 107 raw formats became 3 (`+91 98765 43210`, `+91 22 2401 4419`, `+91 XXX XXX XXXX`).
+- **Careful capitalisation:** only ALL-CAPS text is title-cased; a leading single upper-case word is kept (brands such as OYO, VLCC) and vowel-less abbreviations stay upper case.
+- **English names preferred at collection time:** 6 names in Devanagari/Tamil script were replaced by their `name:en` equivalents in the collectors (not patched by hand), so re-running the pipeline reproduces them.
 (Add more as we decide.)
