@@ -1,10 +1,9 @@
-# Decisions and trade-offs (use these in README "Challenges" and in the video)
+# Design decisions and trade-offs
 
-- **MySQL, not Supabase:** the brief mandates MySQL; Supabase is Postgres, so it would fail the stack requirement.
+- **MySQL with utf8mb4:** the brief mandates MySQL; utf8mb4 stores names in any script (accents, Devanagari, Tamil) without loss.
 - **Sources:** OpenStreetMap (Overpass API), Geoapify Places API and the RBI bank-branch directory: all openly licensed or explicitly permitting storage. Google Maps, Justdial and Sulekha avoided because their terms prohibit scraping (see `docs/DATA_SOURCES.md`).
 - **Dedupe key:** sha256 hash column, because a UNIQUE index on long text columns is awkward in MySQL utf8mb4.
 - **Data goes through the Insert API,** not directly into MySQL, to prove the API works end to end.
-- **Single codebase for both roles;** only the submission email and video emphasis differ.
 - **Duplicate handling in the API:** one indexed `SELECT ... IN (...)` to find existing keys, then insert only new rows; the UNIQUE index is the safety net (409 on a race). Chosen over `INSERT IGNORE`, which also silences unrelated errors such as truncation.
 - **Request body is a plain JSON array,** capped at 1000 rows per batch, so the loader sends data in manageable chunks.
 - **API trims, cleaning normalises:** the API only trims whitespace and stores blanks as NULL; heavier normalisation (casing, inner spaces, phone formats) happens in the cleaning step, keeping each stage's job clear.
@@ -30,4 +29,3 @@
 - **Dashboard chart forms:** bar charts for cities and categories, donut only for sources. A 13-slice pie is unreadable (good practice caps pies at ~8 slices); 3 sources suit a donut and cover the brief's "Bar / Pie".
 - **Consistent, accessible colour:** a validated colour-blind-safe palette, fixed per source across the dashboard and notebook, with separate light and dark steps; every chart has a table view and labelled legend so colour is never the only cue.
 - **Verified visually, not just compiled:** screenshots at 1280 px (light and dark) and a true 390 px phone viewport (0 px horizontal overflow) drove two fixes: round-number axis ticks and a horizontal city chart on phones.
-(Add more as we decide.)
