@@ -1,391 +1,469 @@
 ﻿business_name,category,city,address,phone,source,source_id,latitude,longitude,scraped_at
-Blue Bells Residency-Mumbai Airport,Hotel,Mumbai,"B-403,suba zircon apartments, near suba international hotel,sahar road chakala andheri east., 400099",8779477720 / 9920261461,OpenStreetMap,node/10715797457,19.1052359,72.8613339,2026-10-06T17:34:00+00:00
-Alfa Executive,Hotel,Mumbai,Vp Road,+91-9321445588,OpenStreetMap,node/11609355462,19.1189559,72.8416903,2026-10-06T17:34:00+00:00
-Prakash Inn,Hotel,Mumbai,Sakinaka Tele Exchange Lane,7045970972,OpenStreetMap,node/12223944101,19.0988777,72.8812339,2026-10-06T17:34:00+00:00
-ibis Mumbai Vikhroli,Hotel,Mumbai,"17, Lal Bahadur Shastri Marg, 400083",+91 22 6920 9999,OpenStreetMap,node/12397200851,19.1203432,72.9252049,2026-10-06T17:34:00+00:00
-Naaz Executive Hotel,Hotel,Mumbai,"Rani Arcade, Shamsuddin Nagar, Andheri-Kurla Road, Jarimari, Sakinaka, Mumbai - 400 072",+919069100333,OpenStreetMap,node/12475496774,19.0921691,72.8830998,2026-10-06T17:34:00+00:00
-Shivam Diagnostic Center,Clinic,Mumbai,"8, RK Patkar Marg, 400050",+91 97025 75501;022 6267 9298,OpenStreetMap,node/10608361193,19.0578438,72.8336886,2026-10-06T17:34:00+00:00
-Walk In care,Clinic,Mumbai,"Karimi Building no. 5, Oshiwara Garden Road",+91 77385 05906; +91 92244 12662; +91 97689 02660,OpenStreetMap,node/12290060214,19.1455882,72.8460408,2026-10-06T17:34:00+00:00
-Dr Dharampal Singh,Clinic,Mumbai,"9, Raviraj Oberoi Complex, Inside SAB TV Lane, 400053",+912226361219,OpenStreetMap,node/2363073040,19.1366491,72.828144,2026-10-06T17:34:00+00:00
-Vital Imaging Centre,Clinic,Mumbai,"B 103, New Link Road, Andheri West, 400053",+912226301184,OpenStreetMap,node/2365370916,19.1396186,72.831187,2026-10-06T17:34:00+00:00
-Top Dog Pets Clinic,Clinic,Mumbai,"J.P Road, 7 Bungalows, Andheri West, 400061",+912226348466,OpenStreetMap,node/2370228416,19.1293548,72.8191564,2026-10-06T17:34:00+00:00
-SevenHills Reliance Foundation Hospital,Hospital,Mumbai,"Marol Maroshi Rd, Mahavir Nagar, Pandit Dindayala Upadhaya Nagar, Andheri East, 400059",02267676767,OpenStreetMap,node/14246457601,19.1177332,72.8779729,2026-10-06T17:34:00+00:00
-gr8 smile dental clinic,Hospital,Mumbai,"krishna alankar, Tejpal Scheme Road 5, 400057",+91 22 2684 2451,OpenStreetMap,node/3403264488,19.1068191,72.8507443,2026-10-06T17:34:00+00:00
-"Nanavati Hospital, Mumbai",Hospital,Mumbai,"S V Road , Vile Parle",2226267500,OpenStreetMap,node/3951526714,19.0959684,72.8400115,2026-10-06T17:34:00+00:00
-Smt S.R.Mehta and Sir K.P.Cardiac Institute,Hospital,Mumbai,"Sion-Matunga Estate, Plot No: 96, Road No.31, Near Gandhi Market, King Circle-Sion (East)",2224035459,OpenStreetMap,node/4423695890,19.0323408,72.8595512,2026-10-06T17:34:00+00:00
-Bharatiya Arogya Nidhi Sheth Kantilal C. Parikh General Hospital,Hospital,Mumbai,"N. S. Road No. 13, Juhu Scheme, Vile Parle (W), Nxt To Utpal Sanghvi School",02226206021,OpenStreetMap,node/4998848423,19.1117839,72.8283425,2026-10-06T17:34:00+00:00
-Veronica‘s,Cafe,Mumbai,"Veronica Street, 400050",+91 93729 81697,OpenStreetMap,node/11301585072,19.0540462,72.8268024,2026-10-06T17:34:00+00:00
-Cat Café Studio,Cafe,Mumbai,"63, Harminder Singh Road, Aram Nagar Part 1, Versova, Andheri West, Mumbai, Maharashtra - 400061",+91-82914-90907,OpenStreetMap,node/11400928627,19.1304992,72.8162025,2026-10-06T17:34:00+00:00
-cafe coffee,Cafe,Mumbai,"12, Popco Colony Road, 400061",0987654321,OpenStreetMap,node/11465355918,19.1343491,72.8139673,2026-10-06T17:34:00+00:00
-Third Wave Coffee,Cafe,Mumbai,"27, Juhu Church Rd",+91-9620951522,OpenStreetMap,node/11609368066,19.1059439,72.8260163,2026-10-06T17:34:00+00:00
-Starbucks,Cafe,Mumbai,"High Street, 400076",1860 266 0010,OpenStreetMap,node/11617857998,19.1185484,72.911426,2026-10-06T17:34:00+00:00
-Paras Medical and General Store,Pharmacy,Mumbai,"35/D-2, Vaibhav CHS, SVP Nagar, MHADA, Versova, Andheri (W), Mumbai - 400053",+91-2633-8948,OpenStreetMap,node/12317765975,19.1363999,72.8232737,2026-10-06T17:34:00+00:00
-Guruprasad,Pharmacy,Mumbai,400053,+91 86938 08111; +91 97695 60515,OpenStreetMap,node/12329881103,19.1435304,72.8242287,2026-10-06T17:34:00+00:00
-Om sai medical,Pharmacy,Mumbai,"1, Pipeline Road, 400072",9096588976,OpenStreetMap,node/13685574901,19.0908959,72.8877136,2026-10-06T17:34:00+00:00
-Lifeline,Pharmacy,Mumbai,"1, Off Yari Road, 400061",+912226378686,OpenStreetMap,node/4152604762,19.1386001,72.8147987,2026-10-06T17:34:00+00:00
-Wellness Forever,Pharmacy,Mumbai,"7, Central Avenue, 400076",022 6162 0659,OpenStreetMap,node/4577067890,19.1166725,72.9097223,2026-10-06T17:34:00+00:00
-Banana Leaf,Restaurant,Mumbai,"7B, Revdandkar Road, 400049",+918828848884,OpenStreetMap,node/10221860821,19.0853517,72.8298349,2026-10-06T17:34:00+00:00
-Yoko Sizzlers,Restaurant,Mumbai,"Hill Road, 400050",+91 22 2640 1746,OpenStreetMap,node/10678500279,19.0562679,72.83473,2026-10-06T17:34:00+00:00
-amar juice center,Restaurant,Mumbai,"j b nagar andheri east, 400059",1234335,OpenStreetMap,node/11182699704,19.1067492,72.8635393,2026-10-06T17:34:00+00:00
-Modern Aaji,Restaurant,Mumbai,"A4 Vashveen CHSL, Seven Bungalows Andheri west, 400061",+918605171819,OpenStreetMap,node/11341347607,19.1300624,72.8178585,2026-10-06T17:34:00+00:00
-Aharveda,Restaurant,Mumbai,"Viral Apartments, Behind Hotel Radhakrishna, Next to Hotel Golden Chariot, Swami Vivekananda Rd, Opp. Shoppers Stop, Andheri West, 400058",02240722211,OpenStreetMap,node/11348865438,19.1147115,72.84361,2026-10-06T17:34:00+00:00
-Hangout Cakes,Bakery,Mumbai,"Jheel Darshan, Rambaug, MHADA Colony 20, Powai, 400076",+917208786152,OpenStreetMap,node/14039310227,19.119625,72.901253,2026-10-06T17:34:00+00:00
-Heavenly Delight Bakery and Store,Bakery,Mumbai,"Shop No 2, Church Road, 400059",+919930603303,OpenStreetMap,node/14209793101,19.1128537,72.8769021,2026-10-06T17:34:00+00:00
-Mad Over Donuts,Bakery,Mumbai,Juhu Versova Link Road,+912232230301,OpenStreetMap,node/2116516246,19.1254948,72.8221529,2026-10-06T17:34:00+00:00
-J Hearsch and Co,Bakery,Mumbai,"Hill Road, 400050",022 2643 5361,OpenStreetMap,node/347146089,19.0551689,72.8269905,2026-10-06T17:34:00+00:00
-Birdy's Bakery and Patisserie,Bakery,Mumbai,"Appasaheb Marathe Marg, 400025","+91 22 24331641 , +91 22 24301074",OpenStreetMap,node/7142975162,19.013337,72.8283829,2026-10-06T17:34:00+00:00
-Bank of India,Bank,Mumbai,"Juhu Tara Road, 400054",+91 8097060040,OpenStreetMap,node/13231510820,19.0845023,72.8355683,2026-10-06T17:34:00+00:00
-IDBI Bank,Bank,Mumbai,"Jheel Darshan MHADA Complex A. S. Marg, Powai",+912265244853,OpenStreetMap,node/14039486566,19.1196807,72.9010526,2026-10-06T17:34:00+00:00
-State Bank of India,Bank,Mumbai,"Vihar Lake Marg, 400087",022-28575099,OpenStreetMap,node/2313088123,19.1352428,72.9005482,2026-10-06T17:34:00+00:00
-State Bank of India Specialised NRI Branch,Bank,Mumbai,"Plot No 1, Hotel Bahri Residency, V N Purav Marg, 400071",+91 22 25214446,OpenStreetMap,node/3214396698,19.0518251,72.9011295,2026-10-06T17:34:00+00:00
-Indian Overseas Bank,Bank,Mumbai,400089,+91 22 25258093,OpenStreetMap,node/3215227340,19.068094,72.9062425,2026-10-06T17:34:00+00:00
-Bellissimo Nail Studio,Salon,Mumbai,"Rham Bhavan 1, Ahinsa Marg, 400052",090824 21512,OpenStreetMap,node/12249892501,19.0732805,72.8326678,2026-10-06T17:34:00+00:00
-The SoBo Nail Salon,Salon,Mumbai,"Appasaheb Marathe Marg, 400025",+9177158251,OpenStreetMap,node/12495531801,19.0129196,72.8244766,2026-10-06T17:34:00+00:00
-Kak's Salon,Salon,Mumbai,400053,+91-22-4450-8475,OpenStreetMap,node/13252683689,19.1446464,72.8239736,2026-10-06T17:34:00+00:00
-Urban Thai Spa,Salon,Mumbai,"Dr Ambedkar Road, Bandra West, 400050",+91 98703 64444,OpenStreetMap,node/2171375797,19.061938,72.82943,2026-10-06T17:34:00+00:00
-21 Beauty Clinic,Salon,Mumbai,"St Sebastian Road, 400050",02226554445,OpenStreetMap,node/5238415221,19.0505191,72.826571,2026-10-06T17:34:00+00:00
-Cromā,Electronics Store,Mumbai,"Croma, Centre Point Junction, Juhu Tara Road Santacruz West Mumbai - 400054",+91 8655730448,OpenStreetMap,node/13231638241,19.0842971,72.8377739,2026-10-06T17:34:00+00:00
-Micromax Service Center,Electronics Store,Mumbai,400070,097 02 540638,OpenStreetMap,node/2933164683,19.076787,72.8834956,2026-10-06T17:34:00+00:00
-Satyam Electronics,Electronics Store,Mumbai,27,+91-22-2639-4983;+91-22-2639-4984;+91-22-2639-4985;,OpenStreetMap,node/9134182477,19.1270432,72.8253448,2026-10-06T17:34:00+00:00
-Apple Store,Electronics Store,Mumbai,BKC,,OpenStreetMap,node/10793001025,19.0531701,72.8495722,2026-10-06T17:34:00+00:00
-Izone,Electronics Store,Mumbai,400053,,OpenStreetMap,node/13968027779,19.1278845,72.8312546,2026-10-06T17:34:00+00:00
-thethar,Supermarket,Mumbai,"jarimari, 90 Feet Road, 400072",8591199151,OpenStreetMap,node/11217402649,19.0936354,72.8838547,2026-10-06T17:34:00+00:00
-Kohinoor Enterprises,Supermarket,Mumbai,"250, MEHBOOB E SUBHANI MASJID, 250 BHALEKAR WADI, New Mill Rd, beside MADINA HOTEL, Kurla West,, 400070",07860404303,OpenStreetMap,node/11962654785,19.0765454,72.8802586,2026-10-06T17:34:00+00:00
-Reliance Smart Superstore,Supermarket,Mumbai,"Raobahadur S.K. Bole Marg, 400028",18008910001,OpenStreetMap,node/13122745701,19.0185516,72.8306911,2026-10-06T17:34:00+00:00
-SMART Sahakari Bhandar,Supermarket,Mumbai,400093,02261362800,OpenStreetMap,node/13638004709,19.1361616,72.8683484,2026-10-06T17:34:00+00:00
-Food Arcade,Supermarket,Mumbai,"591, jame jamshed rd, 400019",54789754754238,OpenStreetMap,node/14144168429,19.0235916,72.8536431,2026-10-06T17:34:00+00:00
-Dr. Umesh Trivedi,Dentist,Mumbai,"14th Road, 400050",+91 22 26005738,OpenStreetMap,node/5346728494,19.0636864,72.8324768,2026-10-06T17:34:00+00:00
-Ganatra's Dental Care,Dentist,Mumbai,"19, Hill Road, 400050",,OpenStreetMap,node/11342048111,19.0527576,72.824478,2026-10-06T17:34:00+00:00
-Dr. Khanna's Dental Care,Dentist,Mumbai,"103, Juhu Tara Road, 400049",,OpenStreetMap,node/11372185928,19.0992401,72.8278147,2026-10-06T17:34:00+00:00
-Dentifi Dental Clinic - Implants & Cosmetic Dentistry,Dentist,Mumbai,"Business Suites 9, above Telon Showroom, Saraswat Nagar, Willingdon, Santacruz (West), 400054",,OpenStreetMap,node/13206771516,19.0786936,72.83805,2026-10-06T17:34:00+00:00
-Citadel Dental clinic-an oral cancer & maxillofacial surgery,Dentist,Mumbai,"shop-20, ground floor, Godrej Urban Park, Powai, chandivali farm road, 400072",,OpenStreetMap,node/13926786187,19.1061297,72.9009182,2026-10-06T17:34:00+00:00
-Fitencity Gym,Gym,Mumbai,"Custom colony, Rambaug, MHADA Colony 20, Powai,",+919702267701,OpenStreetMap,node/11697989558,19.118582,72.9011117,2026-10-06T17:34:00+00:00
-Cloud 9 Fitness Club - Dadar,Gym,Mumbai,"Dr Babasaheb Ambedkar Marg (Vincent Road), 400014",02224137945,OpenStreetMap,node/14101220341,19.0115821,72.8436733,2026-10-06T17:34:00+00:00
-Rajshree Yoga - Weight & Health Centre,Gym,Mumbai,"5, Dhun Building, 1st Floor, Dadasaheb Phalke Marg, 400014",+919699966266,OpenStreetMap,node/8494348695,19.0141926,72.8414903,2026-10-06T17:34:00+00:00
-Yog Love,Gym,Mumbai,"601 + 602, Jai Prakash Road, 400061",+919920996069,OpenStreetMap,node/9398624364,19.1334656,72.8114154,2026-10-06T17:34:00+00:00
-Chereshwar GYM,Gym,Mumbai,"V.N.PURAV MARG, 400088",,OpenStreetMap,node/10048587859,19.0311883,72.9470608,2026-10-06T17:34:00+00:00
-State Bank of India,Bank,Delhi,110091,1800 11 2211,OpenStreetMap,node/13537064601,28.6122949,77.3114053,2026-10-06T17:34:00+00:00
-State Bank of India ATM,Bank,Delhi,110091,1800 1234,OpenStreetMap,node/13537066101,28.6123474,77.3113827,2026-10-06T17:34:00+00:00
-Union bank of India,Bank,Delhi,"Chandni Chowk, 110006",+91 96531 30770,OpenStreetMap,node/9941147019,28.6564863,77.224811,2026-10-06T17:34:00+00:00
-Central Bank of India,Bank,Delhi,Nehru Place,,OpenStreetMap,node/10933922036,28.5488466,77.2528032,2026-10-06T17:34:00+00:00
-Kotak Mahindra Bank,Bank,Delhi,Nehru Place,,OpenStreetMap,node/10933923063,28.5496897,77.2507372,2026-10-06T17:34:00+00:00
-Hotel The Oak Plaza New Delhi,Hotel,Delhi,"Plot 5/3, Deshbandhu Gupta Road, 110055",+919711611704,OpenStreetMap,node/11256638237,28.6455507,77.2114121,2026-10-06T17:34:00+00:00
-Hotel Siddharth,Hotel,Delhi,"4830, Laddu Ghati",+91 98733 11076,OpenStreetMap,node/11394411631,28.640227,77.2138774,2026-10-06T17:34:00+00:00
-Star Palace,Hotel,Delhi,"15A/17, Saraswati Marg",011-45711548; 04571 339,OpenStreetMap,node/12135560709,28.6463905,77.1878717,2026-10-06T17:34:00+00:00
-Nand Kartar Orchid Suites,Hotel,Delhi,"15A/18, Saraswati Marg",011-25756134; 01125756135; +91 98701 06981,OpenStreetMap,node/12135560710,28.64638,77.1878917,2026-10-06T17:34:00+00:00
-Orania BnB,Hotel,Delhi,"A20, Aurobindo Marg, Green Park, 110016",9654333321,OpenStreetMap,node/12466980691,28.5531829,77.2047049,2026-10-06T17:34:00+00:00
-Veg Gulati,Restaurant,Delhi,"8, Pandara Road Market",+91 11 2338 8830;+91 112338862,OpenStreetMap,node/10250886679,28.6077855,77.2299247,2026-10-06T17:34:00+00:00
-Gonzo,Restaurant,Delhi,"14C, First Floor, Munrika Marg, 110057",98119 26307,OpenStreetMap,node/10770258937,28.5586071,77.1640872,2026-10-06T17:34:00+00:00
-Andhra Canteen,Restaurant,Delhi,"M-58/59, Middle Circle, Connaught Place, 110001",+91 11 4558 4136,OpenStreetMap,node/10910516588,28.6336017,77.2221648,2026-10-06T17:34:00+00:00
-Punjabi Khana,Restaurant,Delhi,110019,9811153620,OpenStreetMap,node/10933890872,28.5491128,77.2508918,2026-10-06T17:34:00+00:00
-Hotel Adarsh Vegetarian,Restaurant,Delhi,110006,+91-11-4151-6429;+91-11-4151-6731;+91-95998-73690,OpenStreetMap,node/10969186086,28.6563053,77.224223,2026-10-06T17:34:00+00:00
-Luthra Chemist,Pharmacy,Delhi,110013,+91-11-4182-5113,OpenStreetMap,node/10299807155,28.5896915,77.2525296,2026-10-06T17:34:00+00:00
-NK Pharmacy,Pharmacy,Delhi,Shop 3 House 1,971529571,OpenStreetMap,node/11409067269,28.5381057,77.2078468,2026-10-06T17:34:00+00:00
-Singh Medicos,Pharmacy,Delhi,"8, Greater Kailash, 110048",+91-11-4905-7018;+91-11-2923-2344,OpenStreetMap,node/11594245904,28.5498211,77.2340326,2026-10-06T17:34:00+00:00
-Medicine House,Pharmacy,Delhi,110021,+917827856055,OpenStreetMap,node/11818675681,28.5875719,77.1689867,2026-10-06T17:34:00+00:00
-All India Pharmacy,Pharmacy,Delhi,"Lajpat Nagar 4, 110024",011-41038494,OpenStreetMap,node/13546472887,28.5628874,77.2378129,2026-10-06T17:34:00+00:00
-Sandisk,Electronics Store,Delhi,mahan expotex it solutions,9999052846,OpenStreetMap,node/11917695056,28.5481685,77.2517813,2026-10-06T17:34:00+00:00
-Voltas,Electronics Store,Delhi,K-81B,+91 11 4759 3737,OpenStreetMap,node/12208824293,28.5671056,77.2451184,2026-10-06T17:34:00+00:00
-MW ENTERPRIISES,Electronics Store,Delhi,"H33, Bali Nagar, 110015",+91-11-25437540,OpenStreetMap,node/1510558207,28.6537296,77.132445,2026-10-06T17:34:00+00:00
-MW INTERNATIONAL,Electronics Store,Delhi,"H33, Bali Nagar, 110015",+91-11-25437540,OpenStreetMap,node/1510558220,28.6537988,77.1324402,2026-10-06T17:34:00+00:00
-Apple Store,Electronics Store,Delhi,Saket,,OpenStreetMap,node/10824795261,28.5284643,77.2185271,2026-10-06T17:34:00+00:00
-Ram Lal Kundan Lal Orthopaedic Hospital,Hospital,Delhi,"Bunglow Plot no. 8, Pandav Nagar, Mayur Vihar, Patparganj",+91 11 4318 9000;+91 11 4318 9099,OpenStreetMap,node/1305481210,28.6179569,77.2866841,2026-10-06T17:34:00+00:00
-Nulife Multi Specialty Hospital,Hospital,Delhi,"1616, Outram Lines, GTB Nagar, Delhi, 110033, India",+911147005555,OpenStreetMap,node/13950434366,28.7008293,77.2086357,2026-10-06T17:34:00+00:00
-Goyal MRI & Diagnostic Centre,Hospital,Delhi,"B-1/12, Safdarjung Enclave, 110029",+91-11-40771234,OpenStreetMap,node/2318172256,28.5647144,77.1893283,2026-10-06T17:34:00+00:00
-Sir Ganga Ram Kolmet Hospital,Hospital,Delhi,"7-B, Pusa Road, Karol Bagh",1145099999,OpenStreetMap,node/5246751221,28.643492,77.187296,2026-10-06T17:34:00+00:00
-National Institute of TB and Respiratory Diseases,Hospital,Delhi,"NITRD, Sri Aurobindo Marg, Near Qutub minar",1.13E+42,OpenStreetMap,node/6257609191,28.529118,77.1900425,2026-10-06T17:34:00+00:00
-Blue Tokai Coffee Roasters,Cafe,Delhi,"Khan Market, Rabindra Nagar, 110003",+91 98219 84555,OpenStreetMap,node/10982332457,28.5997174,77.2261777,2026-10-06T17:34:00+00:00
-Empire Cafe House,Cafe,Delhi,"Shop 1, Vijay Nagar Marg, 110007",+91 8107315234,OpenStreetMap,node/13127356568,28.6918315,77.2078104,2026-10-06T17:34:00+00:00
-India Coffee House,Cafe,Delhi,"JNU Ring Road, 110067",+919013828749,OpenStreetMap,node/13620213101,28.5457335,77.16926,2026-10-06T17:34:00+00:00
-Shake's Brew,Cafe,Delhi,"27UB, Block UB, 110007",+91 99533 67189,OpenStreetMap,node/13644931666,28.6814205,77.2067885,2026-10-06T17:34:00+00:00
-4th Street Cafe,Cafe,Delhi,"Shop no.14, 1st, DDA Market Rd, near mother global school, G Block, Preet Vihar, Delhi, 110092, 110092",09990243628,OpenStreetMap,node/14124576545,28.6423002,77.297967,2026-10-06T17:34:00+00:00
-Mursalin Dental Clinic,Dentist,Delhi,195/5,+919212181833,OpenStreetMap,node/11216041986,28.6296466,77.2735655,2026-10-06T17:34:00+00:00
-Jain Dental Centre,Dentist,Delhi,"9, Mandir Marg, 110051",+91-98109-24515,OpenStreetMap,node/11982456704,28.6598841,77.2828387,2026-10-06T17:34:00+00:00
-Doctor Sanjay Kumar's Dental Clinic and Dental Studio,Dentist,Delhi,110019,+91 98100 83705,OpenStreetMap,node/12995760872,28.5407775,77.24325,2026-10-06T17:34:00+00:00
-Good Dental Clinic,Dentist,Delhi,G-14,+91 83682 76099;+91 93105 61300,OpenStreetMap,node/13969467569,28.5737547,77.2176393,2026-10-06T17:34:00+00:00
-Sai Dental Centre,Dentist,Delhi,"N-124, Greater Kailash - I",+91 98113 55058;+91 70423 98212,OpenStreetMap,node/13982741918,28.5570147,77.2332887,2026-10-06T17:34:00+00:00
-Nails Mantra,Salon,Delhi,M-70,+91-97176-74888,OpenStreetMap,node/10804021823,28.5508785,77.2342219,2026-10-06T17:34:00+00:00
-Looks Beauty Parlour,Salon,Delhi,"B-89/B-293, Ram Marg;Gali #1, Mandawali Fazalpur, 110092",+91-98683-41751;+91-84478-70454,OpenStreetMap,node/10911422985,28.6227978,77.2903006,2026-10-06T17:34:00+00:00
-Forest Essentials,Salon,Delhi,"60A, Greater Kailash 1, 110048",+91-11-4181-1347,OpenStreetMap,node/11101285434,28.5506871,77.2347498,2026-10-06T17:34:00+00:00
-Elcor Spa,Salon,Delhi,"M-53, 2nd floor, GK-1, M-Block Market, New Delhi - 110048",+91-11-4178-7050,OpenStreetMap,node/11118587155,28.5503967,77.2352693,2026-10-06T17:34:00+00:00
-Madonna Beauty Salon,Salon,Delhi,"37, Kailash Colony Market, 110048",+91-11-4163-1128,OpenStreetMap,node/11131967571,28.5539739,77.2412272,2026-10-06T17:34:00+00:00
-Nun Kun by Greenr Cafe,Bakery,Delhi,"Shop No. 56, Fifth Avenue Road, 110003",96432 41004,OpenStreetMap,node/13333191361,28.5847449,77.2266409,2026-10-06T17:34:00+00:00
-Whipped,Bakery,Delhi,"Greater Kailash 2, 110048",011 41037878,OpenStreetMap,node/4236920089,28.5388421,77.2402041,2026-10-06T17:34:00+00:00
-Fingerlicious,Bakery,Delhi,"A-142, Madhu Vihar Main Road, Near Hasanpur Depot, 110092",+91-11-4972-5555,OpenStreetMap,node/4437543451,28.636205,77.3056906,2026-10-06T17:34:00+00:00
-defense Bakery,Bakery,Delhi,",34, Defence Colony Market, 110024",+91 011 24333178,OpenStreetMap,node/4709852089,28.5734067,77.2307127,2026-10-06T17:34:00+00:00
-Wenger's,Bakery,Delhi,"Inner Circle, 110001",+91-11-2332-8589,OpenStreetMap,node/4709852091,28.6333804,77.21807,2026-10-06T17:34:00+00:00
-Modern Bazaar,Supermarket,Delhi,"18-B, Basant Lok Complex, 110057",01141669775,OpenStreetMap,node/13282257301,28.5590088,77.1640353,2026-10-06T17:34:00+00:00
-Home Needs Supermarket,Supermarket,Delhi,"P-37/38, Shashi Park Road, Pandav Nagar, 110091",+91 11 4015 8299;+91 99994 74862,OpenStreetMap,node/13453273196,28.6081463,77.2926298,2026-10-06T17:34:00+00:00
-Reliance Fresh,Supermarket,Delhi,"9008, Deshbandhu Gupta Road, 110055",02261220220,OpenStreetMap,node/4415219190,28.645693,77.2108527,2026-10-06T17:34:00+00:00
-19 Dal Chawal Masale,Supermarket,Delhi,"375/19, Khari Baoli Road, 110006",+919811572962,OpenStreetMap,way/1194095930,28.6572395,77.2201965,2026-10-06T17:34:00+00:00
-Markketo Supermarket,Supermarket,Delhi,"T-540,, Maharishi Dayanand Marg, 110017",70421 55050,OpenStreetMap,way/352541137,28.539378,77.2137577,2026-10-06T17:34:00+00:00
-Choudhary Healthcare Clinic,Clinic,Delhi,"B-72A, 16",+91-98999-58816,OpenStreetMap,node/10262806206,28.6241393,77.2924633,2026-10-06T17:34:00+00:00
-R D Jindal Charitable Clinic,Clinic,Delhi,"1/8B, Asaf Ali Road, 110002",+91 11 3218206,OpenStreetMap,node/3093873338,28.6454365,77.2251207,2026-10-06T17:34:00+00:00
-"Maternal And Child Welfare Centre (MCD), Nangal Raya",Clinic,Delhi,"MCD, Nangal Raya, Janakpuri",011-28525536,OpenStreetMap,node/7138493126,28.6105214,77.1082645,2026-10-06T17:34:00+00:00
-President Estate Clinic,Clinic,Delhi,"No. 27, North Avenue Area, Near R M L Hospital",011-23092781,OpenStreetMap,node/7138493129,28.6208562,77.2004083,2026-10-06T17:34:00+00:00
-"Maternity Home And Child Care Dispensary, Naraiana",Clinic,Delhi,"WZ 752N, Behind Naraina Club",011-25770557,OpenStreetMap,node/7138493130,28.623212,77.138335,2026-10-06T17:34:00+00:00
-Shapes Of You Fitness Club,Gym,Delhi,"161, Street No 1, Jogabai Extenshion, 110025",+918826222848,OpenStreetMap,node/10960475397,28.5659578,77.282348,2026-10-06T17:34:00+00:00
-MA Unisex Gym,Gym,Delhi,"D-151A, 1st and 2nd Floor, Vikas Marg",+91 82877 48167,OpenStreetMap,node/11914850901,28.6310159,77.2777956,2026-10-06T17:34:00+00:00
-Occult MMA,Gym,Delhi,"D-111, D Block Road Opposite Metro Hospital & Cancer Institute, 110092",08130420037,OpenStreetMap,node/13945108456,28.6380713,77.2951744,2026-10-06T17:34:00+00:00
-cult.fit,Gym,Delhi,"C-52, Vikas Marg, 110092",+91-7406784845,OpenStreetMap,node/14252964773,28.6392242,77.2925723,2026-10-06T17:34:00+00:00
-Anytime Fitness,Gym,Delhi,"C-53, Vikas Marg, 110092",+91-9870488618,OpenStreetMap,node/14252964778,28.639189,77.2924707,2026-10-06T17:34:00+00:00
-Karnataka Bank,Bank,Bengaluru,"9th Cross Road, 560040",+91 80 22955814,OpenStreetMap,node/2486099277,12.9606617,77.5271701,2026-10-06T17:34:00+00:00
-Can Fin Homes Limited,Bank,Bengaluru,"30, Survey No.41, 1st Floor, 2nd Main, Iblur, Marathahalli-Sarjapur Outer Ring Road, HSR Layout, Next to HSR Police station, Sarjapur Main Road, Iblur-Sarjapur Road",080 2574 0089,OpenStreetMap,node/4445373073,12.9219138,77.6617062,2026-10-06T17:34:00+00:00
-State Bank of India,Bank,Bengaluru,"LG-34, Sampige Road, 560003",+919901998324,OpenStreetMap,node/4446527432,12.9917126,77.5708843,2026-10-06T17:34:00+00:00
-Bank of Baroda,Bank,Bengaluru,"12, 1st Main Road, 560086",+91 80 25584066,OpenStreetMap,node/4448781935,12.998169,77.5496373,2026-10-06T17:34:00+00:00
-Allahabad Bank,Bank,Bengaluru,"2, Kempegowda Road, 560009",080-22262064,OpenStreetMap,node/4655054151,12.9733363,77.5799372,2026-10-06T17:34:00+00:00
-Kamat Vegetarian Restaurant,Restaurant,Bengaluru,"495/496, Jumma Masjid Road",+91 93533 46114,OpenStreetMap,node/10009232548,12.9819129,77.6057536,2026-10-06T17:34:00+00:00
-To Be Continued,Restaurant,Bengaluru,"2795, 27th Main Road",+91 80 3069 5255,OpenStreetMap,node/10049251547,12.9229003,77.6514302,2026-10-06T17:34:00+00:00
-Paratha Plaza,Restaurant,Bengaluru,5th Main Road,9740258348,OpenStreetMap,node/10197286017,12.9801188,77.6404801,2026-10-06T17:34:00+00:00
-Alt Pizza,Restaurant,Bengaluru,"974, 80 Feet Road, Koramangala, 560034",+91 8123892268,OpenStreetMap,node/10219532237,12.9351115,77.6292155,2026-10-06T17:34:00+00:00
-Dhaba - Estd 1986 Delhi,Restaurant,Bengaluru,"202, Brigade Road, Ashok Nagar, 560001",+919555805296,OpenStreetMap,node/10265825052,12.9726603,77.6070088,2026-10-06T17:34:00+00:00
-German BrezelHaus,Cafe,Bengaluru,"Koramangala, 560095",+91 63637 85582,OpenStreetMap,node/10075729572,12.9824601,77.6384512,2026-10-06T17:34:00+00:00
-Now Boarding Cafe,Cafe,Bengaluru,"68/150/4, 9th Main Road, Jayanagar, 560011",9663568855,OpenStreetMap,node/10244979164,12.9338482,77.5837728,2026-10-06T17:34:00+00:00
-T'ART Cafe,Cafe,Bengaluru,"202, Brigade Road, Ashok Nagar, 560001",9380357634,OpenStreetMap,node/10265825073,12.9727906,77.6066668,2026-10-06T17:34:00+00:00
-Nuage Pâtisserie & Café,Cafe,Bengaluru,"787, 1st Cross Road, Indiranagar, 560008",+08048520831,OpenStreetMap,node/10296978082,12.9699596,77.6408261,2026-10-06T17:34:00+00:00
-Magnolia Bakery,Cafe,Bengaluru,"Kanakapura Road, Konanakunte",+91 99026 42266,OpenStreetMap,node/10763481597,12.8886906,77.5634793,2026-10-06T17:34:00+00:00
-The Infantry Hotel,Hotel,Bengaluru,"66, Infantry Road, 560001",+918025591800,OpenStreetMap,node/1005525039,12.980445,77.604525,2026-10-06T17:34:00+00:00
-Hotel Maurya,Hotel,Bengaluru,"22/4, Race Course Road, 560009",+91-80-22254111,OpenStreetMap,node/1006462322,12.980921,77.576491,2026-10-06T17:34:00+00:00
-Hotel Swathi,Hotel,Bengaluru,"1, Railway Platform Road, 560020",+91-80-23561123,OpenStreetMap,node/1006492448,12.989096,77.572253,2026-10-06T17:34:00+00:00
-Sudha Lodge,Hotel,Bengaluru,"6, Cottonpet Main Road, 560053",+91-80-26705420,OpenStreetMap,node/1044323510,12.9727609,77.5701982,2026-10-06T17:34:00+00:00
-Hotel Ganga Sagar,Hotel,Bengaluru,"3, 560095",+91-80-25704880,OpenStreetMap,node/1087884426,12.944337,77.620028,2026-10-06T17:34:00+00:00
-Nano Technology,Electronics Store,Bengaluru,"48, Chamrajpet 5th Main Road",+91 86606 80577,OpenStreetMap,node/11178079809,12.9570351,77.566046,2026-10-06T17:34:00+00:00
-Fab.to.lab,Electronics Store,Bengaluru,"525, 2nd A Main Road, HSR Layout, 560102",+91 6361942383,OpenStreetMap,node/11259449032,12.9134504,77.6286677,2026-10-06T17:34:00+00:00
-Apple Store,Electronics Store,Bengaluru,Hosur Road,+9108046999888,OpenStreetMap,node/11396038128,12.9342242,77.6109653,2026-10-06T17:34:00+00:00
-Imagine Store,Electronics Store,Bengaluru,"6, Swamy Vivekananda Road, 560016",+91 80 67142201,OpenStreetMap,node/2480865069,12.9930746,77.6617576,2026-10-06T17:34:00+00:00
-Asus / Dell Service Center,Electronics Store,Bengaluru,"53-58, 3rd Floor, Chakravarthi Complex, Sajjan Rao Circle, 560004",00918041205444,OpenStreetMap,node/3602709124,12.9524597,77.5773297,2026-10-06T17:34:00+00:00
-Mallya Audikesh Diagnostics Center,Hospital,Bengaluru,"55, Infantry Road, 560001",+918022868423,OpenStreetMap,node/1005544881,12.9815051,77.6011944,2026-10-06T17:34:00+00:00
-Mallige Medical Centre,Hospital,Bengaluru,"31/32, Crescent Rd,Nehru Nagar,Gandhi Nagar, 560001",080 2220 3333,OpenStreetMap,node/1006462338,12.985247,77.5803846,2026-10-06T17:34:00+00:00
-Janani Clinics,Hospital,Bengaluru,"629, 8th B Main Road, 3rd Stage, 2nd Block, Basaveshwaranagara, 560079",9036817877,OpenStreetMap,node/11031908387,12.9918503,77.5437825,2026-10-06T17:34:00+00:00
-St Philomenas Hospital OPD Building,Hospital,Bengaluru,"4, Mother Teresa Road, 560047",08040164346;08040164300,OpenStreetMap,node/12389587601,12.9658506,77.6109015,2026-10-06T17:34:00+00:00
-Hosmat Hospitals,Hospital,Bengaluru,"13, Palmgrove Road, Stage 2, Xavier Layout, Victoria Layout, 560047",+918025593796,OpenStreetMap,node/12737013801,12.9644726,77.6143018,2026-10-06T17:34:00+00:00
-Xpress Home Needs,Supermarket,Bengaluru,"7th, Thavarekere Main Road, 560029",+919986113612;080-2521782,OpenStreetMap,node/13765559801,12.9255977,77.6086431,2026-10-06T17:34:00+00:00
-Homeneeds,Supermarket,Bengaluru,"107, 7th Main Road, 560076",80-33618025,OpenStreetMap,node/1388103622,12.9106552,77.6063086,2026-10-06T17:34:00+00:00
-Kolla Crispy Point,Supermarket,Bengaluru,"36, 7th Cross Road, 560003",+919980919198,OpenStreetMap,node/14222011001,12.9982578,77.5697508,2026-10-06T17:34:00+00:00
-Ashirwad Super Market,Supermarket,Bengaluru,"284, 7th Main Road, 560076",(91)-80-65333340,OpenStreetMap,node/1474819351,12.9151822,77.6059587,2026-10-06T17:34:00+00:00
-Health and Glow,Supermarket,Bengaluru,"156, 19th Main (Goorur Ramaswamy Iyengar Road), 560010",+(91)-80-32466651,OpenStreetMap,node/1474819894,12.9963776,77.5514093,2026-10-06T17:34:00+00:00
-Radhakrishna Pharma,Pharmacy,Bengaluru,"55, 4th Main Road, 560076",+91 9886261869,OpenStreetMap,node/14247386952,12.9062916,77.6039191,2026-10-06T17:34:00+00:00
-The Cash Pharmacy,Pharmacy,Bengaluru,"St. Marks Road, Opp Bishop Cotton Boys School, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",080 3361 8456,OpenStreetMap,node/1446122916,12.9683152,77.6004368,2026-10-06T17:34:00+00:00
-Mohan Medicals,Pharmacy,Bengaluru,4th Main Road,953555104,OpenStreetMap,node/2514705829,12.9609849,77.5269939,2026-10-06T17:34:00+00:00
-Trust Chemists & Druggists Ltd,Pharmacy,Bengaluru,"Hosur Rd, Zuzuvadi, Madiwala, 1st Stage, BTM Layout, 560068",+91-80 2563 0022,OpenStreetMap,node/4441888253,12.9263384,77.6168571,2026-10-06T17:34:00+00:00
-Dr. Suresh's Dia Care,Pharmacy,Bengaluru,"723/B, 11th Main Rd, 3rd Block, Rajaji Nagar, 560010",080 2338 2867,OpenStreetMap,node/4443484964,12.9898377,77.5550568,2026-10-06T17:34:00+00:00
-Breadtime Stories,Bakery,Bengaluru,"51, MM Road, Cox Town, 560005",+91-8867703731,OpenStreetMap,node/11129099866,12.9953074,77.6216752,2026-10-06T17:34:00+00:00
-Chitra Bakery,Bakery,Bengaluru,80 Feet Road,,OpenStreetMap,node/10302909511,12.9811088,77.6459915,2026-10-06T17:34:00+00:00
-Preethi Bakery,Bakery,Bengaluru,"787, 16th Main Road",,OpenStreetMap,node/11464753886,12.9155231,77.6099553,2026-10-06T17:34:00+00:00
-"4 Senses Advanced Skin, Hair & ENT Clinic",Bakery,Bengaluru,"2444, 13th Main Road, 560092",,OpenStreetMap,node/11949185950,13.060184,77.5888665,2026-10-06T17:34:00+00:00
-Bangalore Bakery And Sweets,Bakery,Bengaluru,"268, 8th Cross Road, 560076",,OpenStreetMap,node/11957620950,12.8917479,77.6064234,2026-10-06T17:34:00+00:00
-Heaven's Saloon,Salon,Bengaluru,"Thanisandra Main Road, 560077",09019830117,OpenStreetMap,node/11578192469,13.0481669,77.6288875,2026-10-06T17:34:00+00:00
-Cut And Sttyle Salon,Salon,Bengaluru,1000,07090220099,OpenStreetMap,node/11958462470,12.8926931,77.6112416,2026-10-06T17:34:00+00:00
-Govardhan Men's Parlour,Salon,Bengaluru,"1st Cross Road, 560024",+91 95306 23112,OpenStreetMap,node/12101126903,13.058349,77.6032027,2026-10-06T17:34:00+00:00
-Aloe Spa,Salon,Bengaluru,"Hotel Davanam Sarovar Portico Suites, 7th floor, Hosur road Besides Total Mall, Madiwala, Koramangala 2nd Block, Koramangala",09986511272,OpenStreetMap,node/12553261624,12.9218259,77.6205566,2026-10-06T17:34:00+00:00
-Nirmaya Spa in Madiwala,Salon,Bengaluru,"1st floor Hosur main road, 1stage, next to bajaj showroom, near ayyappa temple, Madiwala, BTM Layout",082175 90197,OpenStreetMap,node/12553304870,12.9258553,77.6170186,2026-10-06T17:34:00+00:00
-Sri Bhagavan Mahaveer Jain Dental Care,Dentist,Bengaluru,"66, Chamrajpet 5th Main Road",+91 78920 49865,OpenStreetMap,node/11178147827,12.9569814,77.5636441,2026-10-06T17:34:00+00:00
-The Dentist,Dentist,Bengaluru,"941, 24th Main Road",+91 99866 89888,OpenStreetMap,node/11533128576,12.9188768,77.6493774,2026-10-06T17:34:00+00:00
-Roots and Grins Dental Clinic,Dentist,Bengaluru,"3037, 8th Main Road, 560008",063660 40123,OpenStreetMap,node/13183413401,12.9729735,77.6467027,2026-10-06T17:34:00+00:00
-KDC Dental Clinic,Dentist,Bengaluru,"BR plaza, SR Layout Main Road, 560017",+918296879540,OpenStreetMap,node/4127160595,12.9551584,77.6512286,2026-10-06T17:34:00+00:00
-32Smiles Multispecialty Dental clinic,Dentist,Bengaluru,"No. 5, 1st Floor,, Bellandur Gate, Sarjapura Road, 560103",+91-93434 33222,OpenStreetMap,node/4441796157,12.919686,77.6670282,2026-10-06T17:34:00+00:00
-National Academy Of Naturopathy And Yoga,Gym,Bengaluru,"857, 3rd Cross, 5th Main, 560076",080 8834 7855,OpenStreetMap,node/11957774855,12.8906991,77.6090805,2026-10-06T17:34:00+00:00
-Dr. Pilates,Gym,Bengaluru,"3rd Floor, Y4 Heights Building, 6th Main Rd, above Starbucks Coffee, HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, 7th Main Road",+91 88922 36442,OpenStreetMap,node/12162210544,13.0193779,77.6430195,2026-10-06T17:34:00+00:00
-Kineto Calisthenics Park,Gym,Bengaluru,"91, 2nd Main Road, Arehalli, 560061",082176 32136,OpenStreetMap,node/13128318401,12.9134483,77.5419934,2026-10-06T17:34:00+00:00
-Jaguar Fitness,Gym,Bengaluru,"9-8, 19th Cross Road, 560076",9986777944,OpenStreetMap,node/13130546131,12.9072691,77.6059652,2026-10-06T17:34:00+00:00
-the Studio by Copper + Cloves,Gym,Bengaluru,"2nd Cross Road, 560071",+91 90084 26703,OpenStreetMap,node/14026889501,12.9639004,77.6383564,2026-10-06T17:34:00+00:00
-Aposs Diagnostics Health Care Pvt Ltd,Clinic,Bengaluru,133,080 2648 3828,OpenStreetMap,node/11957600380,12.8908863,77.606061,2026-10-06T17:34:00+00:00
-Bangalore Endocrinology & Diabetes Research Center (BEDRC),Clinic,Bengaluru,"35, 5th Cross Road, 560003",+918041281998,OpenStreetMap,node/12834564801,12.9966783,77.5728746,2026-10-06T17:34:00+00:00
-"The Apollo Clinic, Bengaluru Urban",Clinic,Bengaluru,"No.51, Jyothi Nivas Colleges, 5Th Block, Kormangala",+91860 500 2244,OpenStreetMap,node/1375978269,12.9339266,77.6161393,2026-10-06T17:34:00+00:00
-Varchas Clinic,Clinic,Bengaluru,"20, 21, 1st floor, Uttarahalli road, KSRTC layout,, 560061",080-48909059,OpenStreetMap,node/14082277964,12.9102407,77.5506789,2026-10-06T17:34:00+00:00
-Nationwide,Clinic,Bengaluru,"#723, 1st Floor, Chinmaya Mission Hospital Road, 1st Stage, Indira Nagar, Above Siemens Showroom, 560038",080 4121 5150,OpenStreetMap,node/3370084884,12.9783475,77.6452371,2026-10-06T17:34:00+00:00
-Women And Children Foundation Hospital,Hospital,Chennai,"1279 B, Poompuhar Nagar 1st Main Road, 600099","04425508210, 8939957777, 8939917777",OpenStreetMap,node/10261422409,13.1180276,80.2126037,2026-10-06T17:34:00+00:00
-Frame of Mind - SCARF Psychiatric Hospital,Hospital,Chennai,"R/7a, N Main Rd, Kailash Colony, Sector A, Anna Nagar West Extension, Chennai, Tamil Nadu 600101",+919150587361;04426151073; 04426153971,OpenStreetMap,node/10271805421,13.0972767,80.1982422,2026-10-06T17:34:00+00:00
-Vasantha Memorial Cancer Centre,Hospital,Chennai,"No. 33, 35th Street, Opp JFA Showroom, Ashok Nagar, 600083",+91 9791048379,OpenStreetMap,node/10294576078,13.040756,80.2146876,2026-10-06T17:34:00+00:00
-Rajan Eye Care Hospital,Hospital,Chennai,"5,Vidyodaya East Second Street, Behind Vidyodaya School",2834 0500/0300,OpenStreetMap,node/1152858038,13.0508335,80.2434416,2026-10-06T17:34:00+00:00
-Ayanavaram 24 hours hospital,Hospital,Chennai,"304 B, Konnur High Road, 600023",+9198843 09028,OpenStreetMap,node/14059898301,13.0986843,80.2336168,2026-10-06T17:34:00+00:00
-Sudar Medical Centre,Clinic,Chennai,"Ramasamy Salai, 600078",044 23774143,OpenStreetMap,node/14007810701,13.0414947,80.1951197,2026-10-06T17:34:00+00:00
-Bahola Labs,Clinic,Chennai,"H108 TNHB Flats, Mahatma Gandhi Road, 600090",9791038585,OpenStreetMap,node/14196861801,12.9957516,80.2643301,2026-10-06T17:34:00+00:00
-"Sri Meenakshi Nursing Home, Chennai",Clinic,Chennai,"No. 3A, Baroda Street, West Mambalam, T Nagar",044 2345 5290,OpenStreetMap,node/3680482049,13.041711,80.2285827,2026-10-06T17:34:00+00:00
-Neuro Clinic,Clinic,Chennai,H Block 5th street,04426164055,OpenStreetMap,node/5306596304,13.0862108,80.2048268,2026-10-06T17:34:00+00:00
-Dr. Ram's Diabetes & Endocrine Clinic,Clinic,Chennai,"18, J.J. Complex, Jawaharlal Nehru Road, Thirumangalam",9333193331,OpenStreetMap,node/5318562365,13.0860731,80.1983714,2026-10-06T17:34:00+00:00
-The Park Avenue Hotel,Hotel,Chennai,"4/8, Nabikhan Street, 600003",07305010423,OpenStreetMap,node/10867759021,13.0839868,80.2702476,2026-10-06T17:34:00+00:00
-Greens Suite,Hotel,Chennai,"14, 15, Varasidhi Vinayakar Koil Street",+91 44 4262 9405,OpenStreetMap,node/11159466936,13.0814738,80.2703442,2026-10-06T17:34:00+00:00
-SPOT ON OYO RKH Inn,Hotel,Chennai,"7,8, MUNIYAPPA STREET, 600005",9884063303,OpenStreetMap,node/11204047131,13.0570203,80.2734588,2026-10-06T17:34:00+00:00
-Star City Hotels,Hotel,Chennai,"39, Bazullah Road, 600017",+91 9840055922,OpenStreetMap,node/14000867401,13.0469006,80.2349522,2026-10-06T17:34:00+00:00
-Green Park - Chennai,Hotel,Chennai,"Arcot Road, 600026",+91 44 66515151,OpenStreetMap,node/304956888,13.051048,80.2081917,2026-10-06T17:34:00+00:00
-Sangamam Chettinad Hotel,Restaurant,Chennai,"Door number 1, 7th Avenue, 600083",044 2489 1225,OpenStreetMap,node/1024554835,13.0349987,80.2163485,2026-10-06T17:34:00+00:00
-BBQ Bro's,Restaurant,Chennai,"#20/A, Sivaraman street, Triplicane",+91 81484 68861; +91 98405 78834,OpenStreetMap,node/12568401589,13.0564212,80.2741982,2026-10-06T17:34:00+00:00
-Adyar Ananda Bhavan,Restaurant,Chennai,"Thiyagaraya Road, 600017",+91 44 2345 3041,OpenStreetMap,node/13743048380,13.0409378,80.2376226,2026-10-06T17:34:00+00:00
-Adyar Ananda Bhavan,Restaurant,Chennai,"Arcot Road, 600026",+91 44 4201 3008,OpenStreetMap,node/1446844312,13.0483451,80.2061063,2026-10-06T17:34:00+00:00
-Texas Fiesta,Restaurant,Chennai,"#17/2, Shaffee Mohammed Road, Off Greams & Khader Nawaz Khan Road, 600006",+91 44 43087882,OpenStreetMap,node/1928542139,13.06004,80.253221,2026-10-06T17:34:00+00:00
-TecEx India Private Limited,Supermarket,Chennai,"2669+M7G, Little Mount, Kotturpuram, 600032",(02) 9056 4057,OpenStreetMap,node/10973840859,13.0077889,80.2210455,2026-10-06T17:34:00+00:00
-Annachi Supermarket,Supermarket,Chennai,"Bazaar Rd, Thirumangalam, Collector Nagar, J J Nagar, Mogappair East, Chennai, Tamil Nadu 600101",+9195662 52790,OpenStreetMap,node/4948927697,13.0871698,80.1881554,2026-10-06T17:34:00+00:00
-Ray Mart Supermarket,Supermarket,Chennai,"No 1, Gangai Amman Koil St, Barathi Block, VSM Garden, West Jafferkhanpet, Chennai, Tamil Nadu 600083",044 2489 1942,OpenStreetMap,node/8108595516,13.0284745,80.2123238,2026-10-06T17:34:00+00:00
-Visalam Supermarket,Supermarket,Chennai,"97/98, 1, Jawaharlal Nehru Road, Ashok Nagar, Chennai, Tamil Nadu 600083",044 2489 0527,OpenStreetMap,node/8108621717,13.0299976,80.2088159,2026-10-06T17:34:00+00:00
-Bharath Gem Testing Lab,Supermarket,Chennai,"42, Mothilol street, 600017",+914424338725,OpenStreetMap,node/8228218791,13.0365972,80.2323815,2026-10-06T17:34:00+00:00
-Bank of Baroda,Bank,Chennai,"Dr Natesan Salai, Raghavareddy Colony, Sector 10, Ashok Nagar, Chennai, Tamil Nadu 600083",044 2345 4272,OpenStreetMap,node/8094517285,13.0370302,80.2111489,2026-10-06T17:34:00+00:00
-Indian Overseas Bank,Bank,Chennai,"Dr Natesan Salai, Raghavareddy Colony, Sector 10, Sivalingapuram, Ashok Nagar, Chennai, Tamil Nadu 600083",044 2489 2696,OpenStreetMap,node/8094553409,13.0370699,80.2110613,2026-10-06T17:34:00+00:00
-Union Bank of India,Bank,Chennai,"Jawaharlal Nehru Rd, Raghavareddy Colony, Zaffarkhanpet, Sivalingapuram, Ashok Nagar, Chennai, Tamil Nadu 600083",1800 22 2244,OpenStreetMap,node/8094561286,13.0369499,80.2121346,2026-10-06T17:34:00+00:00
-Indian Bank,Bank,Chennai,"Zenofer Tower, No 119/1, Jawaharlal Nehru Rd, Ashok Nagar, West Jafferkhanpet, Chennai, Tamil Nadu 600083",044 2489 5862,OpenStreetMap,node/8094668724,13.0279346,80.2087319,2026-10-06T17:34:00+00:00
-State Bank of India,Bank,Chennai,"55, 2nd St, Kasi Estate, West Jafferkhanpet, Chennai, Tamil Nadu 600083",1800 425 3800,OpenStreetMap,node/8096471071,13.0292606,80.2083687,2026-10-06T17:34:00+00:00
-Chai Kings - Thirumangalam Metro,Cafe,Chennai,"2nd Avenue, Anna Nagar West, 600040",08939387667,OpenStreetMap,node/12841106601,13.085677,80.2013868,2026-10-06T17:34:00+00:00
-Beachville,Cafe,Chennai,"94/189, St Marys Road SBI Colony, RA Puram Chennai, 600028 Tamil Nadu India",+91 98416 18185,OpenStreetMap,node/12864010782,13.0290981,80.2553915,2026-10-06T17:34:00+00:00
-Third Wave Coffee,Cafe,Chennai,"70/44, 4th Avenue, 600083",8951820415,OpenStreetMap,node/13893321402,13.0406279,80.2154189,2026-10-06T17:34:00+00:00
-Candose Ice Cream Palour,Cafe,Chennai,"28, Rameswaram Street, 600 017",+914442178384,OpenStreetMap,node/4681455945,13.039421,80.2288253,2026-10-06T17:34:00+00:00
-Cafeteria,Cafe,Chennai,"453, Govindu Street, 600017",+9133578,OpenStreetMap,node/4711359172,13.042971,80.2333968,2026-10-06T17:34:00+00:00
-Chennai Bakes,Bakery,Chennai,Govinda Street,+91 9444288556,OpenStreetMap,node/13909468895,13.0724785,80.2197997,2026-10-06T17:34:00+00:00
-Old Madras,Bakery,Chennai,"279, TTK Road, 600018",044-42084422,OpenStreetMap,node/3376332562,13.0328585,80.2528799,2026-10-06T17:34:00+00:00
-Cake walk,Bakery,Chennai,"1, Kothari Road",044-30853567,OpenStreetMap,node/4140037192,13.0648694,80.2391738,2026-10-06T17:34:00+00:00
-Namma Kudumbham,Bakery,Chennai,"29/42, Thiru Vi Ka Road, 600014",9841393867,OpenStreetMap,node/4405570394,13.0567813,80.2578968,2026-10-06T17:34:00+00:00
-Sri Ragavendra Bakery,Bakery,Chennai,"10, Gangai Amman Koil St, Jawahar Nagar, West Jafferkhanpet, Chennai, Tamil Nadu 600083",95516 33999,OpenStreetMap,node/8108612633,13.026844,80.2117188,2026-10-06T17:34:00+00:00
-Shree Shankara Medical,Pharmacy,Chennai,"18, Nageswara Road, 600034",+918825648469,OpenStreetMap,node/14053803197,13.0582901,80.2455435,2026-10-06T17:34:00+00:00
-Shree Devi Medicals,Pharmacy,Chennai,"# 6, Parthasarathy Street, 600005",7200935169,OpenStreetMap,node/4269972191,13.0610433,80.2765499,2026-10-06T17:34:00+00:00
-Apollo Pharmacy,Pharmacy,Chennai,"69/2, 53rd Street, 600083",04424745946,OpenStreetMap,node/4417312196,13.0339283,80.2142544,2026-10-06T17:34:00+00:00
-S.R. Medicals,Pharmacy,Chennai,167/1,04426180992,OpenStreetMap,node/5336394298,13.1026223,80.2090829,2026-10-06T17:34:00+00:00
-A.R.R. Pharmacy,Pharmacy,Chennai,"5/2, Padikuppam Road, Anna Nagar West",9444629833,OpenStreetMap,node/5370532387,13.0857391,80.1925899,2026-10-06T17:34:00+00:00
-Icon Office Equipments,Electronics Store,Chennai,"No. 71, 22, Cheran St, Pari Nagar, West Jafferkhanpet, Chennai, Tamil Nadu 600083",044 4558 8866,OpenStreetMap,node/8108579750,13.0279423,80.2097497,2026-10-06T17:34:00+00:00
-Sterling Music,Electronics Store,Chennai,Sivaganga Road,,OpenStreetMap,node/4140095589,13.0650994,80.2411573,2026-10-06T17:34:00+00:00
-Vasanth & Co.,Electronics Store,Chennai,"North Usman Road, 600017",,OpenStreetMap,node/4297811669,13.0473139,80.2326225,2026-10-06T17:34:00+00:00
-Electrical Shop,Electronics Store,Chennai,West Jones Road,,OpenStreetMap,node/4308319496,13.0242142,80.2141731,2026-10-06T17:34:00+00:00
-Electrical Shop,Electronics Store,Chennai,West Jones Road,,OpenStreetMap,node/4308320095,13.0241933,80.2139135,2026-10-06T17:34:00+00:00
-New Avalon,Salon,Chennai,"New No 35, 12th Ave, Ashok Nagar, Chennai, Tamil Nadu 600083",96005 33162,OpenStreetMap,node/8111874455,13.030828,80.2118438,2026-10-06T17:34:00+00:00
-VLCC,Salon,Chennai,EVR Periyar Salai,,OpenStreetMap,node/13995176201,13.0749521,80.2317371,2026-10-06T17:34:00+00:00
-Raja Saloon,Salon,Chennai,,+919003968704,OpenStreetMap,node/13142131702,13.0142355,80.2313276,2026-10-06T17:34:00+00:00
-oberoi,Salon,Chennai,,,OpenStreetMap,node/10013621144,13.12424,80.2015746,2026-10-06T17:34:00+00:00
-Eva beauty lounge,Salon,Chennai,,,OpenStreetMap,node/10013621153,13.123541,80.2014695,2026-10-06T17:34:00+00:00
-MaxHealth Dental Clinic,Dentist,Chennai,"555, 600037",9884838148,OpenStreetMap,node/12968985301,13.0832326,80.1802216,2026-10-06T17:34:00+00:00
-White Dental Clinic,Dentist,Chennai,"100, Kamarajar Nagar, Padi kuppam road, Anna Nagar West, Chennai",9840093689,OpenStreetMap,node/5372753056,13.0847871,80.1924469,2026-10-06T17:34:00+00:00
-Smile Care,Dentist,Chennai,"Jones Road, 600015",,OpenStreetMap,node/3470862095,13.0252375,80.2228534,2026-10-06T17:34:00+00:00
-Tooth Craft,Dentist,Chennai,"Karaneeswar Koil Street, 600015",,OpenStreetMap,node/3471088863,13.0242232,80.2231722,2026-10-06T17:34:00+00:00
-Bohra Tooth Palace,Dentist,Chennai,General Muthiah Street,,OpenStreetMap,node/3494254196,13.0923775,80.2777601,2026-10-06T17:34:00+00:00
-Slam Fitness,Gym,Chennai,"64/202, Ramasamy Salai, 600078",09344255502,OpenStreetMap,node/13906419901,13.0408978,80.1982295,2026-10-06T17:34:00+00:00
-G Force Gym & Fitness,Gym,Chennai,"15, Padikuppam Main Road, Anna Nagar West, Chennai",9551501122,OpenStreetMap,node/5370525029,13.0868107,80.1926515,2026-10-06T17:34:00+00:00
-HARI GYM & FITNESS,Gym,Chennai,"No229A P Achalendra Apartment, Redhills High Road, Madavaram Red Hills Rd, Madhavaram, 600060",+919600131392,OpenStreetMap,node/8006895346,13.1545663,80.2272066,2026-10-06T17:34:00+00:00
-Heat Fitness Studio,Gym,Chennai,"11/1 S.V Chidambaram Salai, West Jafferkhanpet, Chennai, Tamil Nadu 600083",63817 14865,OpenStreetMap,node/8096937848,13.0267704,80.2111729,2026-10-06T17:34:00+00:00
-Ultimate Fitness Centre - Adyar,Gym,Chennai,"1st Floor, 69 1st Cross St, Venkata Rathnam Nagar Extension, Teachers Colony, 600020",72997 87411,OpenStreetMap,way/356163999,13.0006804,80.2518604,2026-10-06T17:34:00+00:00
-Tower Bavarchi Multi Cuisine Restaurant,Restaurant,Hyderabad,"9G97+VX Hyderabad, Telangana, 16-2-741/C/4, NH65, Asmangarh, Bank Colony, New Malakpet, Hyderabad, Telangana 500036",090520 69735,OpenStreetMap,node/10012888587,17.369688,78.5149384,2026-10-06T17:34:00+00:00
-Banjara 9,Restaurant,Hyderabad,"banjara hills, Road Number 1, 500034",7674052917,OpenStreetMap,node/10300324812,17.4070548,78.4516599,2026-10-06T17:34:00+00:00
-SVR Grand Family Restaurant,Restaurant,Hyderabad,"Indira park road, Domalguda, 500029",+919550165172,OpenStreetMap,node/11414945481,17.409772,78.4872348,2026-10-06T17:34:00+00:00
-SO - The Sky Kitchen,Restaurant,Hyderabad,Rd 92,+91-40-23558004,OpenStreetMap,node/11597256218,17.4161279,78.416848,2026-10-06T17:34:00+00:00
-Stellar Reserve,Restaurant,Hyderabad,"303, Road No. 1, Nandagiri Hills, Jubilee Hills, 500033",+919030187773,OpenStreetMap,node/12695800228,17.4226437,78.4109735,2026-10-06T17:34:00+00:00
-State Bank of India,Bank,Hyderabad,"D.No:3-5-784/A/2, Opp Parda Gate King Koti Road, 500029",040 2323 4848,OpenStreetMap,node/3244256004,17.3937267,78.4812179,2026-10-06T17:34:00+00:00
-Union Bank,Bank,Hyderabad,Sayeedabad Road,9 40 2346 8560; 91 40 2346 8563,OpenStreetMap,node/8065109152,17.3622554,78.5042614,2026-10-06T17:34:00+00:00
-"اسٹیٹ بینک آف انڈیا, ملاکیپٹ",Bank,Hyderabad,500024,+91 40 24412022,OpenStreetMap,node/8065540528,17.376452,78.4920486,2026-10-06T17:34:00+00:00
-اسٹیٹ بینک آف انڈیا,Bank,Hyderabad,500 064,91 40 2447 3450,OpenStreetMap,node/8065642920,17.3521271,78.4532015,2026-10-06T17:34:00+00:00
-اسٹیٹ بنک آف انڈیا,Bank,Hyderabad,ALKAPURI 'X' ROAD,+91 40 2403 2185,OpenStreetMap,node/8099845254,17.3658713,78.5567891,2026-10-06T17:34:00+00:00
-Appollo Pharmacy,Pharmacy,Hyderabad,Panjagutta Main Road,,OpenStreetMap,node/10279842274,17.4239877,78.4542857,2026-10-06T17:34:00+00:00
-Arogya Medicals,Pharmacy,Hyderabad,Panjagutta Main Road,,OpenStreetMap,node/10279842275,17.4238251,78.4542871,2026-10-06T17:34:00+00:00
-Bhargav Medicals,Pharmacy,Hyderabad,Panjagutta Main Road,,OpenStreetMap,node/10279842276,17.4237644,78.4543324,2026-10-06T17:34:00+00:00
-Vishu Medical Hall,Pharmacy,Hyderabad,"Sai Nagar, Malkajgiri, 500047",,OpenStreetMap,node/1435322781,17.4508429,78.5319111,2026-10-06T17:34:00+00:00
-Gokul Medical Hall,Pharmacy,Hyderabad,"Malkajgiri, 500047",,OpenStreetMap,node/1438259298,17.4499816,78.5353596,2026-10-06T17:34:00+00:00
-Maven Suites,Hotel,Hyderabad,"Plot No 405a,Road No 22a, Jubilee Hills, 500033",+91-4023-541427,OpenStreetMap,node/4487962083,17.4335769,78.4121133,2026-10-06T17:34:00+00:00
-Taj Krishna,Hotel,Hyderabad,"1, Road Number 1, 500034",+91 040-6666 2323,OpenStreetMap,way/117565909,17.4161741,78.4502069,2026-10-06T17:34:00+00:00
-Taj Deccan,Hotel,Hyderabad,"road no 1, Banjara Hills,, 500034",+91-40-66669999,OpenStreetMap,way/117566235,17.4183841,78.4506241,2026-10-06T17:34:00+00:00
-Marigold Hotel,Hotel,Hyderabad,Greenlands,+91 40 6736 3636,OpenStreetMap,way/357444190,17.437494,78.4546548,2026-10-06T17:34:00+00:00
-Hotel Madhura Tiffins,Hotel,Hyderabad,Yashoda hospital Road,,OpenStreetMap,node/10279582824,17.424558,78.4548908,2026-10-06T17:34:00+00:00
-Baker's Den,Bakery,Hyderabad,"9-1-95/5, Sarojini Devi Road, 500003",040 2770 2601,OpenStreetMap,node/4225056389,17.4408372,78.5041362,2026-10-06T17:34:00+00:00
-KS Bakers,Bakery,Hyderabad,"Venkateswara Colony, 500039",079979 80009,OpenStreetMap,node/7473077625,17.3984063,78.5605589,2026-10-06T17:34:00+00:00
-Tip Max Bakers,Bakery,Hyderabad,Adikmet Main Road,,OpenStreetMap,node/12404635101,17.4047672,78.5103262,2026-10-06T17:34:00+00:00
-Brown Bear Bakery,Bakery,Hyderabad,500091,,OpenStreetMap,node/13436947534,17.3648949,78.3954132,2026-10-06T17:34:00+00:00
-Cake Exotica,Bakery,Hyderabad,Vengal Rao Nagar Main Road,,OpenStreetMap,node/2388310549,17.4419934,78.4406006,2026-10-06T17:34:00+00:00
-House of Happiiness,Supermarket,Hyderabad,"10-2-510/1/7, Asif Nagar Main Road, 500057",+917330797070,OpenStreetMap,node/9496252336,17.3930517,78.4488416,2026-10-06T17:34:00+00:00
-Spar,Supermarket,Hyderabad,"Nacharam road, 500076",,OpenStreetMap,node/10244211021,17.425566,78.5496479,2026-10-06T17:34:00+00:00
-Ratnadeep,Supermarket,Hyderabad,Darus Salm Road,,OpenStreetMap,node/10253790309,17.3928515,78.4569744,2026-10-06T17:34:00+00:00
-Ratnadeep Super Market,Supermarket,Hyderabad,DharamKaram Road,,OpenStreetMap,node/10279582855,17.44101,78.4509941,2026-10-06T17:34:00+00:00
-Urban Super Mart,Supermarket,Hyderabad,Saibaba Temple Road,,OpenStreetMap,node/10279728115,17.4245106,78.452603,2026-10-06T17:34:00+00:00
-Vinayaka Nethralaya Eye Hospital,Hospital,Hyderabad,"House No 9-4-84/16, 1st Floor, Janaa Heights Nanal Nagar Cross Roads , Toli Chowki, Mehdipatnam,, 500028",+919677920539,OpenStreetMap,node/10139228459,17.3932979,78.4261156,2026-10-06T17:34:00+00:00
-Omni Hospital,Hospital,Hyderabad,"11-9-46, Sri Sai Shivani Complex, Opposite P.V.T Market, Kothapet 'X' Road, New Nagole Main Road, Dilsukhnagar, Laxmi Nagar Colony, Kothapet",040 49871690;040 67369999,OpenStreetMap,node/1598149460,17.3684777,78.5387483,2026-10-06T17:34:00+00:00
-Hope Children's Hospital,Hospital,Hyderabad,"5-9-24/81, Lake Hill Road, Basheerbagh",040 23223782;040 23223792;040 66069000,OpenStreetMap,node/2192962541,17.4064283,78.4738814,2026-10-06T17:34:00+00:00
-Swapna Health Care,Hospital,Hyderabad,"6-3-1111/19, NISHATH BAGH, BEGUMPET",23402417,OpenStreetMap,node/2208162453,17.4291646,78.4567382,2026-10-06T17:34:00+00:00
-OZONE HOSPITALS,Hospital,Hyderabad,"H.No: 11-13-201/33, ROAD NO. 4, KOTHAPET, DILSUKHNAGAR, BESIDE CMR SHOPPING MALL, OPPOSITE WHITE HOUSE",4030108108,OpenStreetMap,node/2217950153,17.3594287,78.5450683,2026-10-06T17:34:00+00:00
-Almond House,Cafe,Hyderabad,"9-1-109/1B, Regimental Bazaar, Shivaji Nagar, 500003",+91-040-48509898,OpenStreetMap,node/13361820588,17.4408488,78.503202,2026-10-06T17:34:00+00:00
-Kahani Cafe,Cafe,Hyderabad,"Plot no 13, Nagarjuna Nagar Colony, 05, Circle, L.B. Nagar, Mansoorabad, 500068",+91 7032328282,OpenStreetMap,node/13657608396,17.3567284,78.5590319,2026-10-06T17:34:00+00:00
-Harika Tiffins &Snacks,Cafe,Hyderabad,Road no. 44,9949696327,OpenStreetMap,node/6213051887,17.4290162,78.4052452,2026-10-06T17:34:00+00:00
-"Sri Balaji Tiffins, Meals & Curry Point",Cafe,Hyderabad,"Road No 2, 500039",+91 9908212995;+91 9849409279,OpenStreetMap,node/6503654492,17.4203544,78.5657599,2026-10-06T17:34:00+00:00
-Vindhu Tiffins,Cafe,Hyderabad,"Sanjeeva Reddy Nagar Colony Main Road, 500038",095333 51476,OpenStreetMap,node/9094232018,17.4419954,78.4440716,2026-10-06T17:34:00+00:00
-"CGHS Dispensary No.IV,Begumpet",Clinic,Hyderabad,"K.S.Bhawan, Begumpet",040 27904259,OpenStreetMap,node/6477257408,17.4451684,78.4721151,2026-10-06T17:34:00+00:00
-"CGHS Dispensary No.V, Himayatnagar",Clinic,Hyderabad,"Oilseeds Qtrs., Himayatnagar",040 23220454,OpenStreetMap,node/6496826427,17.4055917,78.4778255,2026-10-06T17:34:00+00:00
-"CGHS Dispensary No.X,Ameerpet",Clinic,Hyderabad,AGS Staff Qtrs.Yousufguda,040 23810449,OpenStreetMap,node/6528159744,17.4498216,78.4306334,2026-10-06T17:34:00+00:00
-"CGHS Dispensary No.XIII, Tarnaka",Clinic,Hyderabad,"St.No.5, Tarnaka",040 27019223,OpenStreetMap,node/6528174730,17.4266927,78.5322341,2026-10-06T17:34:00+00:00
-"Urban Primary Health Centre, Doodbowli",Clinic,Hyderabad,"20-1-330, bahadurpura, Near kokabazar",4024576265,OpenStreetMap,node/6543762746,17.355084,78.4615204,2026-10-06T17:34:00+00:00
-Hyderabad Dental Hospital,Dentist,Hyderabad,"Near Fernandez Hospital, Boggulkunta, Abids",040 40047772; 040 24754140,OpenStreetMap,node/6811748984,17.3919916,78.4799019,2026-10-06T17:34:00+00:00
-Dezy,Dentist,Hyderabad,Raj Bhavan Road,,OpenStreetMap,node/11420427272,17.4263767,78.457579,2026-10-06T17:34:00+00:00
-Sai Dental Clinic,Dentist,Hyderabad,"Adikmet, Road No.3",,OpenStreetMap,node/4319812063,17.4078805,78.5141903,2026-10-06T17:34:00+00:00
-Hasaa Super speciality Dental Hospital,Dentist,Hyderabad,Dilsukhnagar,,OpenStreetMap,node/4764304222,17.3681177,78.5222949,2026-10-06T17:34:00+00:00
-Sai Priyanka Dental Clinic,Dentist,Hyderabad,"4-7-75, Opp. Reliance Trends, HABSIGUDA X ROADS",,OpenStreetMap,node/6811749015,17.418699,78.5426304,2026-10-06T17:34:00+00:00
-Sonovision,Electronics Store,Hyderabad,"Sonovision, Punjagutta Junction, 500082",09246663535,OpenStreetMap,node/10279266020,17.4253669,78.4534931,2026-10-06T17:34:00+00:00
-Samsung,Electronics Store,Hyderabad,"Survey No 8 & 9, 1st Floor,, Kothapet, Saroornagar, 500035",+ 91 9177303619,OpenStreetMap,node/11676166203,17.3597459,78.5439215,2026-10-06T17:34:00+00:00
-Tej Kiran Electricals,Electronics Store,Hyderabad,"5-2-270, Hyderbasthi, 500003",+91 98851 28158,OpenStreetMap,node/13678000574,17.4312832,78.4914143,2026-10-06T17:34:00+00:00
-SVR Power Controls,Electronics Store,Hyderabad,"Plot No 205, Road No 6, 500039",+91 9676145931,OpenStreetMap,node/6570905721,17.4224575,78.5658898,2026-10-06T17:34:00+00:00
-Reliance Digital,Electronics Store,Hyderabad,"Nacharam road, 500076",,OpenStreetMap,node/10244211020,17.4303744,78.5534178,2026-10-06T17:34:00+00:00
-LakmeSalon Mehdipatnam,Salon,Hyderabad,"10-3-5/1, Asifnagar Road, 500028",+91 9347382348,OpenStreetMap,node/11586710935,17.3943657,78.4416636,2026-10-06T17:34:00+00:00
-AAKAARAA SALON,Salon,Hyderabad,"8-2-112/120, Road No. 2, 500033",8694979999,OpenStreetMap,node/8401350521,17.4253946,78.4218703,2026-10-06T17:34:00+00:00
-Mane'a,Salon,Hyderabad,"Sanjeeva Reddy Nagar Colony Main Road, 500038",090106 82323,OpenStreetMap,node/9094288717,17.4414383,78.4470678,2026-10-06T17:34:00+00:00
-Satyam Saloom,Salon,Hyderabad,"Gautham Nagar, 500047",,OpenStreetMap,node/1437365133,17.4531238,78.5286273,2026-10-06T17:34:00+00:00
-Basil the saloon,Salon,Hyderabad,"9293747114, opp.fruit market.",,OpenStreetMap,node/2019530634,17.3675971,78.534884,2026-10-06T17:34:00+00:00
-velocity fitness zone,Gym,Hyderabad,"8-1-303/45, vivekananda nagar colony , street no.3, 500008",,OpenStreetMap,node/7002815272,17.4061774,78.4011287,2026-10-06T17:34:00+00:00
-Ameerpet,Gym,Hyderabad,Ameerpet,,OpenStreetMap,node/7113495285,17.4387163,78.4481285,2026-10-06T17:34:00+00:00
-GK fitness,Gym,Hyderabad,"13-1-800/2tr, Magra Road",,OpenStreetMap,node/8110741753,17.3777749,78.4603372,2026-10-06T17:34:00+00:00
-Hanuman vhayamsala,Gym,Hyderabad,"Sanath Nagar Main Road, 500018",,OpenStreetMap,node/8110775263,17.4540782,78.447557,2026-10-06T17:34:00+00:00
-LIV IT,Gym,Hyderabad,Prashanth Nagar Main road,,OpenStreetMap,node/8233184800,17.4074687,78.5564944,2026-10-06T17:34:00+00:00
-Hotel Sanjana Veg-Non Veg,Restaurant,Pune,"DSK Vishwa Road, 411041",08975457602,OpenStreetMap,node/10115879747,18.4472386,73.809127,2026-10-06T17:34:00+00:00
-Gandharva Veg Non Veg,Restaurant,Pune,"DSK Vishwa Road, 411041",07768905151,OpenStreetMap,node/10115879749,18.4469879,73.8090657,2026-10-06T17:34:00+00:00
-Hotel Vardayini,Restaurant,Pune,"Aditya Shagun Road, 411021",+91-7350407999,OpenStreetMap,node/10172993874,18.5197677,73.7785456,2026-10-06T17:34:00+00:00
-California Burrito,Restaurant,Pune,"30-28, Dr Homi Bhabha rd, 411021",020 4855 3727,OpenStreetMap,node/10172993875,18.5195045,73.7785912,2026-10-06T17:34:00+00:00
-Vaishnavi Snacks,Restaurant,Pune,"Shindenagar, Bavdhan,, 411021",+91-09767642070,OpenStreetMap,node/10172993882,18.5123359,73.7820934,2026-10-06T17:34:00+00:00
-Neha cafe,Cafe,Pune,"laxmi road, Golwalkar Guruji Path, 411009",9547516565,OpenStreetMap,node/10313160450,18.489244,73.8484533,2026-10-06T17:34:00+00:00
-Third wave coffee,Cafe,Pune,"Ozone Mall, Anand Park, ITI Road",+91 95298 83500,OpenStreetMap,node/10648169752,18.5562117,73.8089739,2026-10-06T17:34:00+00:00
-Caffee Delicioso,Cafe,Pune,"Caffee Delicioso, Pride Valencia Apartment,, Pancard Club Road, Baner, 411045",+917507657070,OpenStreetMap,node/10686342276,18.5597322,73.7811959,2026-10-06T17:34:00+00:00
-MadyMade Pizza,Cafe,Pune,"Pimple Gurav-Navi Sangvi Road, 411027",07414900543,OpenStreetMap,node/10806884774,18.5776151,73.8156096,2026-10-06T17:34:00+00:00
-Chai High,Cafe,Pune,411041,+919834372320,OpenStreetMap,node/11007174695,18.4650359,73.8339481,2026-10-06T17:34:00+00:00
-Hotel Sheetal,Hotel,Pune,"1180, Gopal Krushna Gokhale Path, 411005",+91 20 2553 5165;+91 20 2553 5627;+91 20 2553 5168;+91 20 2553 5149,OpenStreetMap,node/11622266009,18.5276184,73.8427918,2026-10-06T17:34:00+00:00
-Conrad Pune,Hotel,Pune,"7, Mangaldas Road, 411001",+91-20-67456745,OpenStreetMap,node/4304526698,18.5351646,73.8831426,2026-10-06T17:34:00+00:00
-Marriott Suites Pune,Hotel,Pune,"81, Mundhwa Road, 411036",+912067257777,OpenStreetMap,node/4310403862,18.5334614,73.9106668,2026-10-06T17:34:00+00:00
-Westin,Hotel,Pune,411001,+91 20 6721 0000,OpenStreetMap,way/108093162,18.5394176,73.9061274,2026-10-06T17:34:00+00:00
-"Vivanta By Taj - Blue Diamond, Pune",Hotel,Pune,"11, Koregaon Road, Koregaon Park, 411001",+91 20 66025555,OpenStreetMap,way/108093182,18.5382626,73.886456,2026-10-06T17:34:00+00:00
-Mayur Agency,Supermarket,Pune,"Hingne Internal Road, 411051",07304657338,OpenStreetMap,node/10108645137,18.4801154,73.8273012,2026-10-06T17:34:00+00:00
-New Govind Traders,Supermarket,Pune,"Hingane Internal Road, 411051",09372227779,OpenStreetMap,node/10108645138,18.4800468,73.8274273,2026-10-06T17:34:00+00:00
-carpet store,Supermarket,Pune,"mian road, Dhomkar Path, 411009",9885467721,OpenStreetMap,node/10313195120,18.4907505,73.8466929,2026-10-06T17:34:00+00:00
-Geeta Watch,Supermarket,Pune,"Shop # 2, Panchratna Palace, Sinhagad Rd, Opp. Abhiruchi Mall Road,, 411041",+919371121232,OpenStreetMap,node/11594268019,18.4627752,73.8146729,2026-10-06T17:34:00+00:00
-MEGA SMART MART,Supermarket,Pune,411014,088559 83572,OpenStreetMap,node/13380368152,18.5494709,73.9155493,2026-10-06T17:34:00+00:00
-Navya Spa,Salon,Pune,"New DP Road, 411007",+91 823 793 9989,OpenStreetMap,node/11546228219,18.5604915,73.8029031,2026-10-06T17:34:00+00:00
-Fit and Fair Beauty Salon,Salon,Pune,"New DP Road, 411007",+91 915 899 1329,OpenStreetMap,node/11546228237,18.5641259,73.8027372,2026-10-06T17:34:00+00:00
-Sai Salon,Salon,Pune,"Shankarao Gaikwad Path, 411007",+91 880 698 4141;+91 915 848 1212,OpenStreetMap,node/11561312658,18.5583257,73.8039164,2026-10-06T17:34:00+00:00
-Robin Men's Salon,Salon,Pune,"Gopal Gayan Samaj Road, 411030",+91 992003528,OpenStreetMap,node/13442739579,18.5083862,73.846609,2026-10-06T17:34:00+00:00
-Habibs,Salon,Pune,"Brahma Vantage A-Block, 4, NDA Pashan Rd, next to Axis Bank, Pakharbaug Society, Ram Nagar, Bavdhan, 411021",+91-7020202841,OpenStreetMap,node/14172868027,18.521074,73.7790728,2026-10-06T17:34:00+00:00
-White Shine Multispeciality Dental Clinic,Hospital,Pune,"Shope 127,  First Floor, Shubh Gateway, Airport New Road, 411014",+919067440494,OpenStreetMap,node/10755920583,18.5755375,73.9069211,2026-10-06T17:34:00+00:00
-Surya Sahyadri Hospital,Hospital,Pune,Near Shaniwar Wada,02024574232,OpenStreetMap,node/2289294093,18.521259,73.8556767,2026-10-06T17:34:00+00:00
-ONP Leela Hospital,Hospital,Pune,near Hotel Pride,020 6721 6600;020 6721 6699;9373813199,OpenStreetMap,node/6612854042,18.5329215,73.8468085,2026-10-06T17:34:00+00:00
-Meera Hospital,Hospital,Pune,"710 B 4, Opp. Dhobi Ghat, Bhawani Peth, Pune",020 6721 2099;020 6721 2000,OpenStreetMap,node/6612986080,18.5022882,73.8746894,2026-10-06T17:34:00+00:00
-Jagtap Hospital,Hospital,Pune,"Star Diagnostics Centre, Anandnagar,Sinhagad Road, Near Santosh Hall",+912024353046,OpenStreetMap,node/7049524369,18.4774187,73.8237825,2026-10-06T17:34:00+00:00
-Shiv Generic Medicine Store,Pharmacy,Pune,411043,+91 77588 96697,OpenStreetMap,node/13314575796,18.4742795,73.8545434,2026-10-06T17:34:00+00:00
-Payal Medical,Pharmacy,Pune,"Shop no 1, Krishna Leela, Apartment, NDA Pashan Rd, Sagar Co-Operative Housing Society, Bavdhan, 411021",+91-9595575566,OpenStreetMap,node/14183028504,18.5171306,73.7806494,2026-10-06T17:34:00+00:00
-Metro Health care,Pharmacy,Pune,"Shop no 4, Padmashree Classic building, near pragati hardware, Sagar Co-Operative Housing Society, Bavdhan, 411021",+91-7972445498,OpenStreetMap,node/14183067281,18.5154582,73.7817614,2026-10-06T17:34:00+00:00
-Pavan Medical & General Stores,Pharmacy,Pune,"Shop No. 2, Padmashri Apartment, Sagar Society, NDA Pashan Road, near HDFC Bank, Bavdhan,, 411021",+91-09823116147,OpenStreetMap,node/14212167089,18.5144982,73.7821617,2026-10-06T17:34:00+00:00
-Shree Krishna Medical,Pharmacy,Pune,"Shop No. 2, Shreevihar Soc., NDA. Road, Dr. Homi Bhabha Rd, Ram Nagar, Bavdhan, 411021",+91-02022951327,OpenStreetMap,node/14218983034,18.5238557,73.7802432,2026-10-06T17:34:00+00:00
-Bank of Maharashtra,Bank,Pune,"Shop No 10, Sanjay Ghodawat Institute Building, Plot No 2, Bengaluru - Mumbai Hwy, nearby Odela Housing Society, Vaidehi Enclave, Bavdhan, 411021",18002334526,OpenStreetMap,node/11237872457,18.5116886,73.7722374,2026-10-06T17:34:00+00:00
-Lokmanya Multipurpose Co-Op. Society Ltd.,Bank,Pune,"New DP Road, 411007",+91 915 635 6366,OpenStreetMap,node/11546228216,18.5604701,73.8029297,2026-10-06T17:34:00+00:00
-Union Bank of India,Bank,Pune,"Sagar Co-Operative Housing Society, Bavdhan, 411021",+91-020-22953757,OpenStreetMap,node/14183074598,18.5152385,73.7818472,2026-10-06T17:34:00+00:00
-HDFC Bank,Bank,Pune,"Ground Floor, Sagar CHS, S No 13/2, Plot No 2, NDA Pashan Rd, next to Pizza Hutt, Bavdhan, 411021",18001601,OpenStreetMap,node/14183141055,18.5146482,73.7820674,2026-10-06T17:34:00+00:00
-Canara Bank,Bank,Pune,"SURVEY NO. 339, SARAS CAPITAL, 9/2, DSK Ranwara Rd, near SURYADATTA INSTITUTE, Sunarwadi, Patil Nagar, Bavdhan,, 411021",18001030,OpenStreetMap,node/14211752996,18.5211751,73.7739927,2026-10-06T17:34:00+00:00
-Goodwill Bakery,Bakery,Pune,"Hingane Internal Road, 411051",09850270096,OpenStreetMap,node/10108645145,18.4793405,73.8287017,2026-10-06T17:34:00+00:00
-Tulsi Sweetmart,Bakery,Pune,"Late Narayanrao Kondiba Jagtap Path, 411051",08010387007,OpenStreetMap,node/10108645155,18.4781092,73.8320344,2026-10-06T17:34:00+00:00
-Ribbons & Balloons Cake Shop,Bakery,Pune,"DSK Vishwa Road, 411041",08669696677,OpenStreetMap,node/10115879739,18.4472532,73.8093634,2026-10-06T17:34:00+00:00
-Jhadhav Bakers,Bakery,Pune,"somwar peth, Station Road, 411011",07057292111,OpenStreetMap,node/13380380302,18.5215409,73.8648312,2026-10-06T17:34:00+00:00
-Regal Bakery,Bakery,Pune,"Prabhat Road, 411004",02032510845,OpenStreetMap,node/1534219869,18.5141066,73.8407679,2026-10-06T17:34:00+00:00
-VitaLife Clinic,Clinic,Pune,"111, Mont-Vert Arcade, Above Icici Atm, Pashan-Sus Road",+912066859900,OpenStreetMap,node/1065057907,18.5424692,73.7907426,2026-10-06T17:34:00+00:00
-Dr. Sulakshane Multispeciality Clinic,Clinic,Pune,"201, Ramchandra Gayakwad Path, 411007",+91 20 2088 4157,OpenStreetMap,node/11539934877,18.5601975,73.8054006,2026-10-06T17:34:00+00:00
-Shree Aaiji Clinic & Diagnostic Center,Clinic,Pune,4,+91 85308 00135,OpenStreetMap,node/12860976282,18.568133,73.7819789,2026-10-06T17:34:00+00:00
-Define Aesthetics,Clinic,Pune,"16 & 17, Tain Square, Fatima Nagar, Vitthalrao Shivarkar Marg, 411040",+918888370371,OpenStreetMap,node/4748299855,18.5026729,73.9011164,2026-10-06T17:34:00+00:00
-Define Aesthetics,Clinic,Pune,"503, 5th Floor, Sai Capital, Senapati Bapat Marg, 411016",+918888370371,OpenStreetMap,node/4748328881,18.5319944,73.830273,2026-10-06T17:34:00+00:00
-Dental Hub,Dentist,Pune,"A-2, Gopal Hari Deshmukh Marg, 411045",+91 20 6602 0189,OpenStreetMap,node/11276070949,18.5612656,73.7859937,2026-10-06T17:34:00+00:00
-Atharva Multispeciality Dental Clinic,Dentist,Pune,"Baner-Pashan Link Road, 41102",+91 98231 82771,OpenStreetMap,node/12484002401,18.5488577,73.7913268,2026-10-06T17:34:00+00:00
-Clove Dental Clinic,Dentist,Pune,"Saras Capital, above Canara Bank, near Suryadatta College of Management, Sunarwadi, Patil Nagar, Bavdhan, 411021",+91-04038245728,OpenStreetMap,node/14211816319,18.5211983,73.773993,2026-10-06T17:34:00+00:00
-Advanced Dental Care Center,Dentist,Pune,"Destination Centre, 411013",+919373965004,OpenStreetMap,node/2827467012,18.5100712,73.9281663,2026-10-06T17:34:00+00:00
-Dr. Dixit's Dental Speciality Clinic and Implant Centre,Dentist,Pune,"Shop No 17, Royal Tower, Viman Nagar Road, 411014",+91 20 3240 0120,OpenStreetMap,node/2837524768,18.5655529,73.9180392,2026-10-06T17:34:00+00:00
-Modern Martial Arts Fitness Centre,Gym,Pune,"Office 107A, Someshwar Temple Road",+91 7350854412 / +91 8669828613,OpenStreetMap,node/10261130413,18.548213,73.7934104,2026-10-06T17:34:00+00:00
-Passion Fitness,Gym,Pune,"New DP Road, 411007",+91 776 790 6722,OpenStreetMap,node/11159847782,18.5650613,73.8020965,2026-10-06T17:34:00+00:00
-Kettlebell Gym,Gym,Pune,"Uttamnagar road, 411021",+919765126331,OpenStreetMap,node/11727756196,18.5201001,73.7674981,2026-10-06T17:34:00+00:00
-2N Sports And Fitness,Gym,Pune,"1, MS Kate Chowk,Karmvir Bhaurao Patil Rd, Shivramnagar, Pimple Gurav, 411027",+91-9766-249999,OpenStreetMap,node/12688333385,18.5802366,73.8210425,2026-10-06T17:34:00+00:00
-Fitranger Gym Bavdhan,Gym,Pune,"Paud Road, 411021",+919823096431,OpenStreetMap,node/13020914240,18.5078039,73.7693716,2026-10-06T17:34:00+00:00
-Unicorn,Electronics Store,Pune,"Jangli Maharaj Path, 411005",+91 20 6604 0738,OpenStreetMap,node/11505392603,18.5246461,73.8496226,2026-10-06T17:34:00+00:00
-Poorvika,Electronics Store,Pune,"Sanghvi Kesari Road, 411007",+91 994 027 9855,OpenStreetMap,node/11561501967,18.5604887,73.8109596,2026-10-06T17:34:00+00:00
-Cromā,Electronics Store,Pune,"Gr & Mezzanine Floor, AG Trade Center NDA Pashan Rd, 411021",+9186579 61898,OpenStreetMap,node/13980303224,18.5229986,73.7797334,2026-10-06T17:34:00+00:00
-Cosmic Refrigeration,Electronics Store,Pune,411041,02024690103,OpenStreetMap,node/3506888185,18.4436516,73.8220801,2026-10-06T17:34:00+00:00
-Namrata Electronics,Electronics Store,Pune,"1st Floor, Sinhagad Road, 411041",+91 20 3233 8501,OpenStreetMap,node/4107176016,18.4684906,73.8191451,2026-10-06T17:34:00+00:00
+Blue Bells Residency-Mumbai Airport,Hotel,Mumbai,"B-403,suba zircon apartments, near suba international hotel,sahar road chakala andheri east., 400099",8779477720 / 9920261461,OpenStreetMap,node/10715797457,19.1052359,72.8613339,2026-10-07T05:56:02+00:00
+Alfa Executive,Hotel,Mumbai,Vp Road,+91-9321445588,OpenStreetMap,node/11609355462,19.1189559,72.8416903,2026-10-07T05:56:02+00:00
+Prakash Inn,Hotel,Mumbai,Sakinaka Tele Exchange Lane,7045970972,OpenStreetMap,node/12223944101,19.0988777,72.8812339,2026-10-07T05:56:02+00:00
+ibis Mumbai Vikhroli,Hotel,Mumbai,"17, Lal Bahadur Shastri Marg, 400083",+91 22 6920 9999,OpenStreetMap,node/12397200851,19.1203432,72.9252049,2026-10-07T05:56:02+00:00
+Naaz Executive Hotel,Hotel,Mumbai,"Rani Arcade, Shamsuddin Nagar, Andheri-Kurla Road, Jarimari, Sakinaka, Mumbai - 400 072",+919069100333,OpenStreetMap,node/12475496774,19.0921691,72.8830998,2026-10-07T05:56:02+00:00
+Waterstones Hotel,Hotel,Mumbai,"International Airport Sahar, 400 059",+91 22 40906633,OpenStreetMap,node/3846789769,19.1057985,72.8771149,2026-10-07T05:56:02+00:00
+Shivam Diagnostic Center,Clinic,Mumbai,"8, RK Patkar Marg, 400050",+91 97025 75501;022 6267 9298,OpenStreetMap,node/10608361193,19.0578438,72.8336886,2026-10-07T05:56:02+00:00
+Walk In care,Clinic,Mumbai,"Karimi Building no. 5, Oshiwara Garden Road",+91 77385 05906; +91 92244 12662; +91 97689 02660,OpenStreetMap,node/12290060214,19.1455882,72.8460408,2026-10-07T05:56:02+00:00
+Dr Dharampal Singh,Clinic,Mumbai,"9, Raviraj Oberoi Complex, Inside SAB TV Lane, 400053",+912226361219,OpenStreetMap,node/2363073040,19.1366491,72.828144,2026-10-07T05:56:02+00:00
+Vital Imaging Centre,Clinic,Mumbai,"B 103, New Link Road, Andheri West, 400053",+912226301184,OpenStreetMap,node/2365370916,19.1396186,72.831187,2026-10-07T05:56:02+00:00
+Top Dog Pets Clinic,Clinic,Mumbai,"J.P Road, 7 Bungalows, Andheri West, 400061",+912226348466,OpenStreetMap,node/2370228416,19.1293548,72.8191564,2026-10-07T05:56:02+00:00
+Mahavir Medical Research Centre,Clinic,Mumbai,"Pujya Shri Kanshiram Jain Smarak, Ahimsa Bhavan, Ahimsa Marg, 14th A Road, Khar (West)",2226040676,OpenStreetMap,node/7045255055,19.0739299,72.832831,2026-10-07T05:56:02+00:00
+SevenHills Reliance Foundation Hospital,Hospital,Mumbai,"Marol Maroshi Rd, Mahavir Nagar, Pandit Dindayala Upadhaya Nagar, Andheri East, 400059",02267676767,OpenStreetMap,node/14246457601,19.1177332,72.8779729,2026-10-07T05:56:02+00:00
+gr8 smile dental clinic,Hospital,Mumbai,"krishna alankar, Tejpal Scheme Road 5, 400057",+91 22 2684 2451,OpenStreetMap,node/3403264488,19.1068191,72.8507443,2026-10-07T05:56:02+00:00
+"Nanavati Hospital, Mumbai",Hospital,Mumbai,"S V Road , Vile Parle",2226267500,OpenStreetMap,node/3951526714,19.0959684,72.8400115,2026-10-07T05:56:02+00:00
+Smt S.R.Mehta and Sir K.P.Cardiac Institute,Hospital,Mumbai,"Sion-Matunga Estate, Plot No: 96, Road No.31, Near Gandhi Market, King Circle-Sion (East)",2224035459,OpenStreetMap,node/4423695890,19.0323408,72.8595512,2026-10-07T05:56:02+00:00
+Bharatiya Arogya Nidhi Sheth Kantilal C. Parikh General Hospital,Hospital,Mumbai,"N. S. Road No. 13, Juhu Scheme, Vile Parle (W), Nxt To Utpal Sanghvi School",02226206021,OpenStreetMap,node/4998848423,19.1117839,72.8283425,2026-10-07T05:56:02+00:00
+Gleneagles Hospital Super Speciality and Transplant Center,Hospital,Mumbai,"35 Dr E Borges Road, Hospital Avenue, Opposite Shirodkar High School, Parel",+91-22-67670101,OpenStreetMap,node/5099872961,18.9994432,72.8405011,2026-10-07T05:56:02+00:00
+Veronica‘s,Cafe,Mumbai,"Veronica Street, 400050",+91 93729 81697,OpenStreetMap,node/11301585072,19.0540462,72.8268024,2026-10-07T05:56:02+00:00
+Cat Café Studio,Cafe,Mumbai,"63, Harminder Singh Road, Aram Nagar Part 1, Versova, Andheri West, Mumbai, Maharashtra - 400061",+91-82914-90907,OpenStreetMap,node/11400928627,19.1304992,72.8162025,2026-10-07T05:56:02+00:00
+cafe coffee,Cafe,Mumbai,"12, Popco Colony Road, 400061",0987654321,OpenStreetMap,node/11465355918,19.1343491,72.8139673,2026-10-07T05:56:02+00:00
+Third Wave Coffee,Cafe,Mumbai,"27, Juhu Church Rd",+91-9620951522,OpenStreetMap,node/11609368066,19.1059439,72.8260163,2026-10-07T05:56:02+00:00
+Starbucks,Cafe,Mumbai,"High Street, 400076",1860 266 0010,OpenStreetMap,node/11617857998,19.1185484,72.911426,2026-10-07T05:56:02+00:00
+DORANGOS (Instagram:-dorangos_comedy_events) Best Entertainment Mumbai,Cafe,Mumbai,"5AA, St. Andrews Road Extension, 400050",+919920275894,OpenStreetMap,node/11846246267,19.0611919,72.826748,2026-10-07T05:56:02+00:00
+Paras Medical and General Store,Pharmacy,Mumbai,"35/D-2, Vaibhav CHS, SVP Nagar, MHADA, Versova, Andheri (W), Mumbai - 400053",+91-2633-8948,OpenStreetMap,node/12317765975,19.1363999,72.8232737,2026-10-07T05:56:02+00:00
+Guruprasad,Pharmacy,Mumbai,400053,+91 86938 08111; +91 97695 60515,OpenStreetMap,node/12329881103,19.1435304,72.8242287,2026-10-07T05:56:02+00:00
+Om sai medical,Pharmacy,Mumbai,"1, Pipeline Road, 400072",9096588976,OpenStreetMap,node/13685574901,19.0908959,72.8877136,2026-10-07T05:56:02+00:00
+Lifeline,Pharmacy,Mumbai,"1, Off Yari Road, 400061",+912226378686,OpenStreetMap,node/4152604762,19.1386001,72.8147987,2026-10-07T05:56:02+00:00
+Wellness Forever,Pharmacy,Mumbai,"7, Central Avenue, 400076",022 6162 0659,OpenStreetMap,node/4577067890,19.1166725,72.9097223,2026-10-07T05:56:02+00:00
+Mamta Medical and General Store,Pharmacy,Mumbai,"Chapel Road, 400050",02269940010,OpenStreetMap,node/5245907849,19.0515512,72.8283501,2026-10-07T05:56:02+00:00
+Banana Leaf,Restaurant,Mumbai,"7B, Revdandkar Road, 400049",+918828848884,OpenStreetMap,node/10221860821,19.0853517,72.8298349,2026-10-07T05:56:02+00:00
+Yoko Sizzlers,Restaurant,Mumbai,"Hill Road, 400050",+91 22 2640 1746,OpenStreetMap,node/10678500279,19.0562679,72.83473,2026-10-07T05:56:02+00:00
+amar juice center,Restaurant,Mumbai,"j b nagar andheri east, 400059",1234335,OpenStreetMap,node/11182699704,19.1067492,72.8635393,2026-10-07T05:56:02+00:00
+Modern Aaji,Restaurant,Mumbai,"A4 Vashveen CHSL, Seven Bungalows Andheri west, 400061",+918605171819,OpenStreetMap,node/11341347607,19.1300624,72.8178585,2026-10-07T05:56:02+00:00
+Aharveda,Restaurant,Mumbai,"Viral Apartments, Behind Hotel Radhakrishna, Next to Hotel Golden Chariot, Swami Vivekananda Rd, Opp. Shoppers Stop, Andheri West, 400058",02240722211,OpenStreetMap,node/11348865438,19.1147115,72.84361,2026-10-07T05:56:02+00:00
+The Bodhi Cafe,Restaurant,Mumbai,"Ground Floor, Parvati Niwas, Paranjape B Scheme, Road 2, Besides Datta Mandir, Vile Parle East, 400057",09550286477,OpenStreetMap,node/11348917628,19.104092,72.8525816,2026-10-07T05:56:02+00:00
+Hangout Cakes,Bakery,Mumbai,"Jheel Darshan, Rambaug, MHADA Colony 20, Powai, 400076",+917208786152,OpenStreetMap,node/14039310227,19.119625,72.901253,2026-10-07T05:56:02+00:00
+Heavenly Delight Bakery and Store,Bakery,Mumbai,"Shop No 2, Church Road, 400059",+919930603303,OpenStreetMap,node/14209793101,19.1128537,72.8769021,2026-10-07T05:56:02+00:00
+Mad Over Donuts,Bakery,Mumbai,Juhu Versova Link Road,+912232230301,OpenStreetMap,node/2116516246,19.1254948,72.8221529,2026-10-07T05:56:02+00:00
+J Hearsch and Co,Bakery,Mumbai,"Hill Road, 400050",022 2643 5361,OpenStreetMap,node/347146089,19.0551689,72.8269905,2026-10-07T05:56:02+00:00
+Birdy's Bakery and Patisserie,Bakery,Mumbai,"Appasaheb Marathe Marg, 400025","+91 22 24331641 , +91 22 24301074",OpenStreetMap,node/7142975162,19.013337,72.8283829,2026-10-07T05:56:02+00:00
+National Bakery,Bakery,Mumbai,"118, Bazar Road, 400050",,OpenStreetMap,node/11364283702,19.0539757,72.8311835,2026-10-07T05:56:02+00:00
+Bank of India,Bank,Mumbai,"Juhu Tara Road, 400054",+91 8097060040,OpenStreetMap,node/13231510820,19.0845023,72.8355683,2026-10-07T05:56:02+00:00
+IDBI Bank,Bank,Mumbai,"Jheel Darshan MHADA Complex A. S. Marg, Powai",+912265244853,OpenStreetMap,node/14039486566,19.1196807,72.9010526,2026-10-07T05:56:02+00:00
+State Bank of India,Bank,Mumbai,"Vihar Lake Marg, 400087",022-28575099,OpenStreetMap,node/2313088123,19.1352428,72.9005482,2026-10-07T05:56:02+00:00
+State Bank of India Specialised NRI Branch,Bank,Mumbai,"Plot No 1, Hotel Bahri Residency, V N Purav Marg, 400071",+91 22 25214446,OpenStreetMap,node/3214396698,19.0518251,72.9011295,2026-10-07T05:56:02+00:00
+Indian Overseas Bank,Bank,Mumbai,400089,+91 22 25258093,OpenStreetMap,node/3215227340,19.068094,72.9062425,2026-10-07T05:56:02+00:00
+State Bank of India,Bank,Mumbai,"Sion Trombay Road, Deonar, 400088",+912225580005,OpenStreetMap,node/3529548084,19.0460083,72.9098852,2026-10-07T05:56:02+00:00
+Bellissimo Nail Studio,Salon,Mumbai,"Rham Bhavan 1, Ahinsa Marg, 400052",090824 21512,OpenStreetMap,node/12249892501,19.0732805,72.8326678,2026-10-07T05:56:02+00:00
+The SoBo Nail Salon,Salon,Mumbai,"Appasaheb Marathe Marg, 400025",+9177158251,OpenStreetMap,node/12495531801,19.0129196,72.8244766,2026-10-07T05:56:02+00:00
+Kak's Salon,Salon,Mumbai,400053,+91-22-4450-8475,OpenStreetMap,node/13252683689,19.1446464,72.8239736,2026-10-07T05:56:02+00:00
+Urban Thai Spa,Salon,Mumbai,"Dr Ambedkar Road, Bandra West, 400050",+91 98703 64444,OpenStreetMap,node/2171375797,19.061938,72.82943,2026-10-07T05:56:02+00:00
+21 Beauty Clinic,Salon,Mumbai,"St Sebastian Road, 400050",02226554445,OpenStreetMap,node/5238415221,19.0505191,72.826571,2026-10-07T05:56:02+00:00
+Avon Hair Dressers,Salon,Mumbai,"Bandra West, 400050",+91 96197 83141,OpenStreetMap,node/5277430241,19.0630587,72.8247466,2026-10-07T05:56:02+00:00
+Cromā,Electronics Store,Mumbai,"Croma, Centre Point Junction, Juhu Tara Road Santacruz West Mumbai - 400054",+91 8655730448,OpenStreetMap,node/13231638241,19.0842971,72.8377739,2026-10-07T05:56:02+00:00
+Micromax Service Center,Electronics Store,Mumbai,400070,097 02 540638,OpenStreetMap,node/2933164683,19.076787,72.8834956,2026-10-07T05:56:02+00:00
+Satyam Electronics,Electronics Store,Mumbai,27,+91-22-2639-4983;+91-22-2639-4984;+91-22-2639-4985;,OpenStreetMap,node/9134182477,19.1270432,72.8253448,2026-10-07T05:56:02+00:00
+Apple Store,Electronics Store,Mumbai,BKC,,OpenStreetMap,node/10793001025,19.0531701,72.8495722,2026-10-07T05:56:02+00:00
+Izone,Electronics Store,Mumbai,400053,,OpenStreetMap,node/13968027779,19.1278845,72.8312546,2026-10-07T05:56:02+00:00
+Asif Electronics,Electronics Store,Mumbai,"plot np 19/O1, Road Number 3, 400043",,OpenStreetMap,node/3215539913,19.0654081,72.9226293,2026-10-07T05:56:02+00:00
+thethar,Supermarket,Mumbai,"jarimari, 90 Feet Road, 400072",8591199151,OpenStreetMap,node/11217402649,19.0936354,72.8838547,2026-10-07T05:56:02+00:00
+Kohinoor Enterprises,Supermarket,Mumbai,"250, MEHBOOB E SUBHANI MASJID, 250 BHALEKAR WADI, New Mill Rd, beside MADINA HOTEL, Kurla West,, 400070",07860404303,OpenStreetMap,node/11962654785,19.0765454,72.8802586,2026-10-07T05:56:02+00:00
+Reliance Smart Superstore,Supermarket,Mumbai,"Raobahadur S.K. Bole Marg, 400028",18008910001,OpenStreetMap,node/13122745701,19.0185516,72.8306911,2026-10-07T05:56:02+00:00
+SMART Sahakari Bhandar,Supermarket,Mumbai,400093,02261362800,OpenStreetMap,node/13638004709,19.1361616,72.8683484,2026-10-07T05:56:02+00:00
+Food Arcade,Supermarket,Mumbai,"591, jame jamshed rd, 400019",54789754754238,OpenStreetMap,node/14144168429,19.0235916,72.8536431,2026-10-07T05:56:02+00:00
+Satjeevan,Supermarket,Mumbai,"76, Road No.2, 400021",9976547609,OpenStreetMap,node/14144168872,19.0418376,72.8872073,2026-10-07T05:56:02+00:00
+Dr. Umesh Trivedi,Dentist,Mumbai,"14th Road, 400050",+91 22 26005738,OpenStreetMap,node/5346728494,19.0636864,72.8324768,2026-10-07T05:56:02+00:00
+Ganatra's Dental Care,Dentist,Mumbai,"19, Hill Road, 400050",,OpenStreetMap,node/11342048111,19.0527576,72.824478,2026-10-07T05:56:02+00:00
+Dr. Khanna's Dental Care,Dentist,Mumbai,"103, Juhu Tara Road, 400049",,OpenStreetMap,node/11372185928,19.0992401,72.8278147,2026-10-07T05:56:02+00:00
+Dentifi Dental Clinic - Implants & Cosmetic Dentistry,Dentist,Mumbai,"Business Suites 9, above Telon Showroom, Saraswat Nagar, Willingdon, Santacruz (West), 400054",,OpenStreetMap,node/13206771516,19.0786936,72.83805,2026-10-07T05:56:02+00:00
+Citadel Dental clinic-an oral cancer & maxillofacial surgery,Dentist,Mumbai,"shop-20, ground floor, Godrej Urban Park, Powai, chandivali farm road, 400072",,OpenStreetMap,node/13926786187,19.1061297,72.9009182,2026-10-07T05:56:02+00:00
+Shroff's Dental Clinic,Dentist,Mumbai,"N Dutta Road, Four Bungalows, Andheri West, 400053",,OpenStreetMap,node/3192928531,19.1241574,72.8257719,2026-10-07T05:56:02+00:00
+Fitencity Gym,Gym,Mumbai,"Custom colony, Rambaug, MHADA Colony 20, Powai,",+919702267701,OpenStreetMap,node/11697989558,19.118582,72.9011117,2026-10-07T05:56:02+00:00
+Cloud 9 Fitness Club - Dadar,Gym,Mumbai,"Dr Babasaheb Ambedkar Marg (Vincent Road), 400014",02224137945,OpenStreetMap,node/14101220341,19.0115821,72.8436733,2026-10-07T05:56:02+00:00
+Rajshree Yoga - Weight & Health Centre,Gym,Mumbai,"5, Dhun Building, 1st Floor, Dadasaheb Phalke Marg, 400014",+919699966266,OpenStreetMap,node/8494348695,19.0141926,72.8414903,2026-10-07T05:56:02+00:00
+Yog Love,Gym,Mumbai,"601 + 602, Jai Prakash Road, 400061",+919920996069,OpenStreetMap,node/9398624364,19.1334656,72.8114154,2026-10-07T05:56:02+00:00
+Chereshwar GYM,Gym,Mumbai,"V.N.PURAV MARG, 400088",,OpenStreetMap,node/10048587859,19.0311883,72.9470608,2026-10-07T05:56:02+00:00
+Rebirth Fitness School,Gym,Mumbai,"1st Floor, Morya Landmark I, Off New Link Road, Andheri, 400053",,OpenStreetMap,node/11530307154,19.1407853,72.8334099,2026-10-07T05:56:02+00:00
+State Bank of India,Bank,Delhi,110091,1800 11 2211,OpenStreetMap,node/13537064601,28.6122949,77.3114053,2026-10-07T05:56:02+00:00
+State Bank of India ATM,Bank,Delhi,110091,1800 1234,OpenStreetMap,node/13537066101,28.6123474,77.3113827,2026-10-07T05:56:02+00:00
+Union bank of India,Bank,Delhi,"Chandni Chowk, 110006",+91 96531 30770,OpenStreetMap,node/9941147019,28.6564863,77.224811,2026-10-07T05:56:02+00:00
+Central Bank of India,Bank,Delhi,Nehru Place,,OpenStreetMap,node/10933922036,28.5488466,77.2528032,2026-10-07T05:56:02+00:00
+Kotak Mahindra Bank,Bank,Delhi,Nehru Place,,OpenStreetMap,node/10933923063,28.5496897,77.2507372,2026-10-07T05:56:02+00:00
+South Indian Bank,Bank,Delhi,110006,,OpenStreetMap,node/10969162383,28.6563989,77.2265968,2026-10-07T05:56:02+00:00
+Hotel The Oak Plaza New Delhi,Hotel,Delhi,"Plot 5/3, Deshbandhu Gupta Road, 110055",+919711611704,OpenStreetMap,node/11256638237,28.6455507,77.2114121,2026-10-07T05:56:02+00:00
+Hotel Siddharth,Hotel,Delhi,"4830, Laddu Ghati",+91 98733 11076,OpenStreetMap,node/11394411631,28.640227,77.2138774,2026-10-07T05:56:02+00:00
+Star Palace,Hotel,Delhi,"15A/17, Saraswati Marg",011-45711548; 04571 339,OpenStreetMap,node/12135560709,28.6463905,77.1878717,2026-10-07T05:56:02+00:00
+Nand Kartar Orchid Suites,Hotel,Delhi,"15A/18, Saraswati Marg",011-25756134; 01125756135; +91 98701 06981,OpenStreetMap,node/12135560710,28.64638,77.1878917,2026-10-07T05:56:02+00:00
+Orania BnB,Hotel,Delhi,"A20, Aurobindo Marg, Green Park, 110016",9654333321,OpenStreetMap,node/12466980691,28.5531829,77.2047049,2026-10-07T05:56:02+00:00
+Bloomrooms Hotel,Hotel,Delhi,"7, Link road, Block M, Jangpura extension, 110014",+91 11-41225666,OpenStreetMap,node/12791943401,28.5814867,77.2395873,2026-10-07T05:56:02+00:00
+Veg Gulati,Restaurant,Delhi,"8, Pandara Road Market",+91 11 2338 8830;+91 112338862,OpenStreetMap,node/10250886679,28.6077855,77.2299247,2026-10-07T05:56:02+00:00
+Gonzo,Restaurant,Delhi,"14C, First Floor, Munrika Marg, 110057",98119 26307,OpenStreetMap,node/10770258937,28.5586071,77.1640872,2026-10-07T05:56:02+00:00
+Andhra Canteen,Restaurant,Delhi,"M-58/59, Middle Circle, Connaught Place, 110001",+91 11 4558 4136,OpenStreetMap,node/10910516588,28.6336017,77.2221648,2026-10-07T05:56:02+00:00
+Punjabi Khana,Restaurant,Delhi,110019,9811153620,OpenStreetMap,node/10933890872,28.5491128,77.2508918,2026-10-07T05:56:02+00:00
+Hotel Adarsh Vegetarian,Restaurant,Delhi,110006,+91-11-4151-6429;+91-11-4151-6731;+91-95998-73690,OpenStreetMap,node/10969186086,28.6563053,77.224223,2026-10-07T05:56:02+00:00
+The Salt Cafe Kitchen & Bar,Restaurant,Delhi,Complex 19 & 20,08130828293,OpenStreetMap,node/11146533148,28.6341173,77.2900948,2026-10-07T05:56:02+00:00
+Luthra Chemist,Pharmacy,Delhi,110013,+91-11-4182-5113,OpenStreetMap,node/10299807155,28.5896915,77.2525296,2026-10-07T05:56:02+00:00
+NK Pharmacy,Pharmacy,Delhi,Shop 3 House 1,971529571,OpenStreetMap,node/11409067269,28.5381057,77.2078468,2026-10-07T05:56:02+00:00
+Singh Medicos,Pharmacy,Delhi,"8, Greater Kailash, 110048",+91-11-4905-7018;+91-11-2923-2344,OpenStreetMap,node/11594245904,28.5498211,77.2340326,2026-10-07T05:56:02+00:00
+Medicine House,Pharmacy,Delhi,110021,+917827856055,OpenStreetMap,node/11818675681,28.5875719,77.1689867,2026-10-07T05:56:02+00:00
+All India Pharmacy,Pharmacy,Delhi,"Lajpat Nagar 4, 110024",011-41038494,OpenStreetMap,node/13546472887,28.5628874,77.2378129,2026-10-07T05:56:02+00:00
+Kinshuk Medicos,Pharmacy,Delhi,"4/167, Khudiram Bose Marg",+919810223725,OpenStreetMap,node/13621275515,28.604306,77.2930368,2026-10-07T05:56:02+00:00
+Sandisk,Electronics Store,Delhi,mahan expotex it solutions,9999052846,OpenStreetMap,node/11917695056,28.5481685,77.2517813,2026-10-07T05:56:02+00:00
+Voltas,Electronics Store,Delhi,K-81B,+91 11 4759 3737,OpenStreetMap,node/12208824293,28.5671056,77.2451184,2026-10-07T05:56:02+00:00
+MW ENTERPRIISES,Electronics Store,Delhi,"H33, Bali Nagar, 110015",+91-11-25437540,OpenStreetMap,node/1510558207,28.6537296,77.132445,2026-10-07T05:56:02+00:00
+MW INTERNATIONAL,Electronics Store,Delhi,"H33, Bali Nagar, 110015",+91-11-25437540,OpenStreetMap,node/1510558220,28.6537988,77.1324402,2026-10-07T05:56:02+00:00
+Apple Store,Electronics Store,Delhi,Saket,,OpenStreetMap,node/10824795261,28.5284643,77.2185271,2026-10-07T05:56:02+00:00
+GPS Trackers,Electronics Store,Delhi,512,,OpenStreetMap,node/11914860090,28.6290778,77.2759395,2026-10-07T05:56:02+00:00
+Ram Lal Kundan Lal Orthopaedic Hospital,Hospital,Delhi,"Bunglow Plot no. 8, Pandav Nagar, Mayur Vihar, Patparganj",+91 11 4318 9000;+91 11 4318 9099,OpenStreetMap,node/1305481210,28.6179569,77.2866841,2026-10-07T05:56:02+00:00
+Nulife Multi Specialty Hospital,Hospital,Delhi,"1616, Outram Lines, GTB Nagar, Delhi, 110033, India",+911147005555,OpenStreetMap,node/13950434366,28.7008293,77.2086357,2026-10-07T05:56:02+00:00
+Goyal MRI & Diagnostic Centre,Hospital,Delhi,"B-1/12, Safdarjung Enclave, 110029",+91-11-40771234,OpenStreetMap,node/2318172256,28.5647144,77.1893283,2026-10-07T05:56:02+00:00
+Sir Ganga Ram Kolmet Hospital,Hospital,Delhi,"7-B, Pusa Road, Karol Bagh",1145099999,OpenStreetMap,node/5246751221,28.643492,77.187296,2026-10-07T05:56:02+00:00
+National Institute of TB and Respiratory Diseases,Hospital,Delhi,"NITRD, Sri Aurobindo Marg, Near Qutub minar",1.13E+42,OpenStreetMap,node/6257609191,28.529118,77.1900425,2026-10-07T05:56:02+00:00
+Sushruta Trauma Centre,Hospital,Delhi,"Mahatma Gandhi Road, Railway Colony,Civil Lines, North Delhi",1123983011,OpenStreetMap,node/7138493140,28.6797783,77.2283852,2026-10-07T05:56:02+00:00
+Blue Tokai Coffee Roasters,Cafe,Delhi,"Khan Market, Rabindra Nagar, 110003",+91 98219 84555,OpenStreetMap,node/10982332457,28.5997174,77.2261777,2026-10-07T05:56:02+00:00
+Empire Cafe House,Cafe,Delhi,"Shop 1, Vijay Nagar Marg, 110007",+91 8107315234,OpenStreetMap,node/13127356568,28.6918315,77.2078104,2026-10-07T05:56:02+00:00
+India Coffee House,Cafe,Delhi,"JNU Ring Road, 110067",+919013828749,OpenStreetMap,node/13620213101,28.5457335,77.16926,2026-10-07T05:56:02+00:00
+Shake's Brew,Cafe,Delhi,"27UB, Block UB, 110007",+91 99533 67189,OpenStreetMap,node/13644931666,28.6814205,77.2067885,2026-10-07T05:56:02+00:00
+4th Street Cafe,Cafe,Delhi,"Shop no.14, 1st, DDA Market Rd, near mother global school, G Block, Preet Vihar, Delhi, 110092, 110092",09990243628,OpenStreetMap,node/14124576545,28.6423002,77.297967,2026-10-07T05:56:02+00:00
+Cafe Turtle,Cafe,Delhi,Khan Market,+911124655641,OpenStreetMap,node/2421934883,28.6002007,77.2273465,2026-10-07T05:56:02+00:00
+Mursalin Dental Clinic,Dentist,Delhi,195/5,+919212181833,OpenStreetMap,node/11216041986,28.6296466,77.2735655,2026-10-07T05:56:02+00:00
+Jain Dental Centre,Dentist,Delhi,"9, Mandir Marg, 110051",+91-98109-24515,OpenStreetMap,node/11982456704,28.6598841,77.2828387,2026-10-07T05:56:02+00:00
+Doctor Sanjay Kumar's Dental Clinic and Dental Studio,Dentist,Delhi,110019,+91 98100 83705,OpenStreetMap,node/12995760872,28.5407775,77.24325,2026-10-07T05:56:02+00:00
+Good Dental Clinic,Dentist,Delhi,G-14,+91 83682 76099;+91 93105 61300,OpenStreetMap,node/13969467569,28.5737547,77.2176393,2026-10-07T05:56:02+00:00
+Sai Dental Centre,Dentist,Delhi,"N-124, Greater Kailash - I",+91 98113 55058;+91 70423 98212,OpenStreetMap,node/13982741918,28.5570147,77.2332887,2026-10-07T05:56:02+00:00
+Doctor Archna Dental and Orthodontal Clinic,Dentist,Delhi,"1, Patparpanj, 110092",+91-11-6597-3704;+91-93508-19329,OpenStreetMap,node/4437543449,28.6362984,77.3055299,2026-10-07T05:56:02+00:00
+Nails Mantra,Salon,Delhi,M-70,+91-97176-74888,OpenStreetMap,node/10804021823,28.5508785,77.2342219,2026-10-07T05:56:02+00:00
+Looks Beauty Parlour,Salon,Delhi,"B-89/B-293, Ram Marg;Gali #1, Mandawali Fazalpur, 110092",+91-98683-41751;+91-84478-70454,OpenStreetMap,node/10911422985,28.6227978,77.2903006,2026-10-07T05:56:02+00:00
+Forest Essentials,Salon,Delhi,"60A, Greater Kailash 1, 110048",+91-11-4181-1347,OpenStreetMap,node/11101285434,28.5506871,77.2347498,2026-10-07T05:56:02+00:00
+Elcor Spa,Salon,Delhi,"M-53, 2nd floor, GK-1, M-Block Market, New Delhi - 110048",+91-11-4178-7050,OpenStreetMap,node/11118587155,28.5503967,77.2352693,2026-10-07T05:56:02+00:00
+Madonna Beauty Salon,Salon,Delhi,"37, Kailash Colony Market, 110048",+91-11-4163-1128,OpenStreetMap,node/11131967571,28.5539739,77.2412272,2026-10-07T05:56:02+00:00
+Sameerscissor.com,Salon,Delhi,"3/127, Laxmi Nagar, 110092",+91-79824-74288,OpenStreetMap,node/11236425297,28.6294239,77.2737648,2026-10-07T05:56:02+00:00
+Nun Kun by Greenr Cafe,Bakery,Delhi,"Shop No. 56, Fifth Avenue Road, 110003",96432 41004,OpenStreetMap,node/13333191361,28.5847449,77.2266409,2026-10-07T05:56:02+00:00
+Whipped,Bakery,Delhi,"Greater Kailash 2, 110048",011 41037878,OpenStreetMap,node/4236920089,28.5388421,77.2402041,2026-10-07T05:56:02+00:00
+Fingerlicious,Bakery,Delhi,"A-142, Madhu Vihar Main Road, Near Hasanpur Depot, 110092",+91-11-4972-5555,OpenStreetMap,node/4437543451,28.636205,77.3056906,2026-10-07T05:56:02+00:00
+defense Bakery,Bakery,Delhi,",34, Defence Colony Market, 110024",+91 011 24333178,OpenStreetMap,node/4709852089,28.5734067,77.2307127,2026-10-07T05:56:02+00:00
+Wenger's,Bakery,Delhi,"Inner Circle, 110001",+91-11-2332-8589,OpenStreetMap,node/4709852091,28.6333804,77.21807,2026-10-07T05:56:02+00:00
+Angel's Basket,Bakery,Delhi,"C-152, 110024",+91-11-4172-1500;+91-11-4172-0801,OpenStreetMap,node/5950266471,28.5715091,77.2403857,2026-10-07T05:56:02+00:00
+Modern Bazaar,Supermarket,Delhi,"18-B, Basant Lok Complex, 110057",01141669775,OpenStreetMap,node/13282257301,28.5590088,77.1640353,2026-10-07T05:56:02+00:00
+Home Needs Supermarket,Supermarket,Delhi,"P-37/38, Shashi Park Road, Pandav Nagar, 110091",+91 11 4015 8299;+91 99994 74862,OpenStreetMap,node/13453273196,28.6081463,77.2926298,2026-10-07T05:56:02+00:00
+Reliance Fresh,Supermarket,Delhi,"9008, Deshbandhu Gupta Road, 110055",02261220220,OpenStreetMap,node/4415219190,28.645693,77.2108527,2026-10-07T05:56:02+00:00
+19 Dal Chawal Masale,Supermarket,Delhi,"375/19, Khari Baoli Road, 110006",+919811572962,OpenStreetMap,way/1194095930,28.6572395,77.2201965,2026-10-07T05:56:02+00:00
+Markketo Supermarket,Supermarket,Delhi,"T-540,, Maharishi Dayanand Marg, 110017",70421 55050,OpenStreetMap,way/352541137,28.539378,77.2137577,2026-10-07T05:56:02+00:00
+nitin,Supermarket,Delhi,"007, sant kabir daas, 420420",,OpenStreetMap,node/2211056599,28.6845937,77.2558724,2026-10-07T05:56:02+00:00
+Choudhary Healthcare Clinic,Clinic,Delhi,"B-72A, 16",+91-98999-58816,OpenStreetMap,node/10262806206,28.6241393,77.2924633,2026-10-07T05:56:02+00:00
+R D Jindal Charitable Clinic,Clinic,Delhi,"1/8B, Asaf Ali Road, 110002",+91 11 3218206,OpenStreetMap,node/3093873338,28.6454365,77.2251207,2026-10-07T05:56:02+00:00
+"Maternal And Child Welfare Centre (MCD), Nangal Raya",Clinic,Delhi,"MCD, Nangal Raya, Janakpuri",011-28525536,OpenStreetMap,node/7138493126,28.6105214,77.1082645,2026-10-07T05:56:02+00:00
+President Estate Clinic,Clinic,Delhi,"No. 27, North Avenue Area, Near R M L Hospital",011-23092781,OpenStreetMap,node/7138493129,28.6208562,77.2004083,2026-10-07T05:56:02+00:00
+"Maternity Home And Child Care Dispensary, Naraiana",Clinic,Delhi,"WZ 752N, Behind Naraina Club",011-25770557,OpenStreetMap,node/7138493130,28.623212,77.138335,2026-10-07T05:56:02+00:00
+NIHFW Munirka,Clinic,Delhi,"Baba, Gang, Munirka, Nath Marg",011-2616 5959,OpenStreetMap,node/7138493133,28.5512217,77.1757347,2026-10-07T05:56:02+00:00
+Shapes Of You Fitness Club,Gym,Delhi,"161, Street No 1, Jogabai Extenshion, 110025",+918826222848,OpenStreetMap,node/10960475397,28.5659578,77.282348,2026-10-07T05:56:02+00:00
+MA Unisex Gym,Gym,Delhi,"D-151A, 1st and 2nd Floor, Vikas Marg",+91 82877 48167,OpenStreetMap,node/11914850901,28.6310159,77.2777956,2026-10-07T05:56:02+00:00
+Occult MMA,Gym,Delhi,"D-111, D Block Road Opposite Metro Hospital & Cancer Institute, 110092",08130420037,OpenStreetMap,node/13945108456,28.6380713,77.2951744,2026-10-07T05:56:02+00:00
+cult.fit,Gym,Delhi,"C-52, Vikas Marg, 110092",+91-7406784845,OpenStreetMap,node/14252964773,28.6392242,77.2925723,2026-10-07T05:56:02+00:00
+Anytime Fitness,Gym,Delhi,"C-53, Vikas Marg, 110092",+91-9870488618,OpenStreetMap,node/14252964778,28.639189,77.2924707,2026-10-07T05:56:02+00:00
+Odin Fitness Club,Gym,Delhi,"C-222, 110024",+91 99997 99420;+91 99999 95285,OpenStreetMap,node/6968892432,28.5785332,77.2412459,2026-10-07T05:56:02+00:00
+Karnataka Bank,Bank,Bengaluru,"9th Cross Road, 560040",+91 80 22955814,OpenStreetMap,node/2486099277,12.9606617,77.5271701,2026-10-07T05:56:02+00:00
+Can Fin Homes Limited,Bank,Bengaluru,"30, Survey No.41, 1st Floor, 2nd Main, Iblur, Marathahalli-Sarjapur Outer Ring Road, HSR Layout, Next to HSR Police station, Sarjapur Main Road, Iblur-Sarjapur Road",080 2574 0089,OpenStreetMap,node/4445373073,12.9219138,77.6617062,2026-10-07T05:56:02+00:00
+State Bank of India,Bank,Bengaluru,"LG-34, Sampige Road, 560003",+919901998324,OpenStreetMap,node/4446527432,12.9917126,77.5708843,2026-10-07T05:56:02+00:00
+Bank of Baroda,Bank,Bengaluru,"12, 1st Main Road, 560086",+91 80 25584066,OpenStreetMap,node/4448781935,12.998169,77.5496373,2026-10-07T05:56:02+00:00
+Allahabad Bank,Bank,Bengaluru,"2, Kempegowda Road, 560009",080-22262064,OpenStreetMap,node/4655054151,12.9733363,77.5799372,2026-10-07T05:56:02+00:00
+Allahabad Bank,Bank,Bengaluru,"121, D V Gundappa Road, 560004",080-26679442,OpenStreetMap,node/4655064781,12.9427251,77.5712748,2026-10-07T05:56:02+00:00
+Kamat Vegetarian Restaurant,Restaurant,Bengaluru,"495/496, Jumma Masjid Road",+91 93533 46114,OpenStreetMap,node/10009232548,12.9819129,77.6057536,2026-10-07T05:56:02+00:00
+To Be Continued,Restaurant,Bengaluru,"2795, 27th Main Road",+91 80 3069 5255,OpenStreetMap,node/10049251547,12.9229003,77.6514302,2026-10-07T05:56:02+00:00
+Paratha Plaza,Restaurant,Bengaluru,5th Main Road,9740258348,OpenStreetMap,node/10197286017,12.9801188,77.6404801,2026-10-07T05:56:02+00:00
+Alt Pizza,Restaurant,Bengaluru,"974, 80 Feet Road, Koramangala, 560034",+91 8123892268,OpenStreetMap,node/10219532237,12.9351115,77.6292155,2026-10-07T05:56:02+00:00
+Dhaba - Estd 1986 Delhi,Restaurant,Bengaluru,"202, Brigade Road, Ashok Nagar, 560001",+919555805296,OpenStreetMap,node/10265825052,12.9726603,77.6070088,2026-10-07T05:56:02+00:00
+Foo,Restaurant,Bengaluru,"202, Brigade Road, Ashok Nagar, 560001",+91 93217 07545,OpenStreetMap,node/10265825055,12.9729385,77.6064043,2026-10-07T05:56:02+00:00
+German BrezelHaus,Cafe,Bengaluru,"Koramangala, 560095",+91 63637 85582,OpenStreetMap,node/10075729572,12.9824601,77.6384512,2026-10-07T05:56:02+00:00
+Now Boarding Cafe,Cafe,Bengaluru,"68/150/4, 9th Main Road, Jayanagar, 560011",9663568855,OpenStreetMap,node/10244979164,12.9338482,77.5837728,2026-10-07T05:56:02+00:00
+T'ART Cafe,Cafe,Bengaluru,"202, Brigade Road, Ashok Nagar, 560001",9380357634,OpenStreetMap,node/10265825073,12.9727906,77.6066668,2026-10-07T05:56:02+00:00
+Nuage Pâtisserie & Café,Cafe,Bengaluru,"787, 1st Cross Road, Indiranagar, 560008",+08048520831,OpenStreetMap,node/10296978082,12.9699596,77.6408261,2026-10-07T05:56:02+00:00
+Magnolia Bakery,Cafe,Bengaluru,"Kanakapura Road, Konanakunte",+91 99026 42266,OpenStreetMap,node/10763481597,12.8886906,77.5634793,2026-10-07T05:56:02+00:00
+The Belstreet,Cafe,Bengaluru,"205, New BEL Rd, KGE Layout, Devasandra Layout, New BEL Road, 560054",08041678314,OpenStreetMap,node/11770974408,13.0300772,77.5705291,2026-10-07T05:56:02+00:00
+The Infantry Hotel,Hotel,Bengaluru,"66, Infantry Road, 560001",+918025591800,OpenStreetMap,node/1005525039,12.980445,77.604525,2026-10-07T05:56:02+00:00
+Hotel Maurya,Hotel,Bengaluru,"22/4, Race Course Road, 560009",+91-80-22254111,OpenStreetMap,node/1006462322,12.980921,77.576491,2026-10-07T05:56:02+00:00
+Hotel Swathi,Hotel,Bengaluru,"1, Railway Platform Road, 560020",+91-80-23561123,OpenStreetMap,node/1006492448,12.989096,77.572253,2026-10-07T05:56:02+00:00
+Sudha Lodge,Hotel,Bengaluru,"6, Cottonpet Main Road, 560053",+91-80-26705420,OpenStreetMap,node/1044323510,12.9727609,77.5701982,2026-10-07T05:56:02+00:00
+Hotel Ganga Sagar,Hotel,Bengaluru,"3, 560095",+91-80-25704880,OpenStreetMap,node/1087884426,12.944337,77.620028,2026-10-07T05:56:02+00:00
+Attide biz,Hotel,Bengaluru,"31, 32, 33, E Block Extension,, 14th Main Rd, Sahakar Nagar, Byatarayanapura, 560092",+919902000200,OpenStreetMap,node/11209916093,13.0586077,77.5927247,2026-10-07T05:56:02+00:00
+Nano Technology,Electronics Store,Bengaluru,"48, Chamrajpet 5th Main Road",+91 86606 80577,OpenStreetMap,node/11178079809,12.9570351,77.566046,2026-10-07T05:56:02+00:00
+Fab.to.lab,Electronics Store,Bengaluru,"525, 2nd A Main Road, HSR Layout, 560102",+91 6361942383,OpenStreetMap,node/11259449032,12.9134504,77.6286677,2026-10-07T05:56:02+00:00
+Apple Store,Electronics Store,Bengaluru,Hosur Road,+9108046999888,OpenStreetMap,node/11396038128,12.9342242,77.6109653,2026-10-07T05:56:02+00:00
+Imagine Store,Electronics Store,Bengaluru,"6, Swamy Vivekananda Road, 560016",+91 80 67142201,OpenStreetMap,node/2480865069,12.9930746,77.6617576,2026-10-07T05:56:02+00:00
+Asus / Dell Service Center,Electronics Store,Bengaluru,"53-58, 3rd Floor, Chakravarthi Complex, Sajjan Rao Circle, 560004",00918041205444,OpenStreetMap,node/3602709124,12.9524597,77.5773297,2026-10-07T05:56:02+00:00
+Adishwar India Limited,Electronics Store,Bengaluru,"No 14, 10th, Vidhya Vardhaka Sangha Road",080-41610910,OpenStreetMap,node/4194066092,13.0042893,77.5513853,2026-10-07T05:56:02+00:00
+Mallya Audikesh Diagnostics Center,Hospital,Bengaluru,"55, Infantry Road, 560001",+918022868423,OpenStreetMap,node/1005544881,12.9815051,77.6011944,2026-10-07T05:56:02+00:00
+Mallige Medical Centre,Hospital,Bengaluru,"31/32, Crescent Rd,Nehru Nagar,Gandhi Nagar, 560001",080 2220 3333,OpenStreetMap,node/1006462338,12.985247,77.5803846,2026-10-07T05:56:02+00:00
+Janani Clinics,Hospital,Bengaluru,"629, 8th B Main Road, 3rd Stage, 2nd Block, Basaveshwaranagara, 560079",9036817877,OpenStreetMap,node/11031908387,12.9918503,77.5437825,2026-10-07T05:56:02+00:00
+St Philomenas Hospital OPD Building,Hospital,Bengaluru,"4, Mother Teresa Road, 560047",08040164346;08040164300,OpenStreetMap,node/12389587601,12.9658506,77.6109015,2026-10-07T05:56:02+00:00
+Hosmat Hospitals,Hospital,Bengaluru,"13, Palmgrove Road, Stage 2, Xavier Layout, Victoria Layout, 560047",+918025593796,OpenStreetMap,node/12737013801,12.9644726,77.6143018,2026-10-07T05:56:02+00:00
+Citi Hospital,Hospital,Bengaluru,"25/91, Chord Road, Iind Block, Rajajinagar",+(91)-80-23131778,OpenStreetMap,node/1474819896,12.9956506,77.5510696,2026-10-07T05:56:02+00:00
+Xpress Home Needs,Supermarket,Bengaluru,"7th, Thavarekere Main Road, 560029",+919986113612;080-2521782,OpenStreetMap,node/13765559801,12.9255977,77.6086431,2026-10-07T05:56:02+00:00
+Homeneeds,Supermarket,Bengaluru,"107, 7th Main Road, 560076",80-33618025,OpenStreetMap,node/1388103622,12.9106552,77.6063086,2026-10-07T05:56:02+00:00
+Kolla Crispy Point,Supermarket,Bengaluru,"36, 7th Cross Road, 560003",+919980919198,OpenStreetMap,node/14222011001,12.9982578,77.5697508,2026-10-07T05:56:02+00:00
+Ashirwad Super Market,Supermarket,Bengaluru,"284, 7th Main Road, 560076",(91)-80-65333340,OpenStreetMap,node/1474819351,12.9151822,77.6059587,2026-10-07T05:56:02+00:00
+Health and Glow,Supermarket,Bengaluru,"156, 19th Main (Goorur Ramaswamy Iyengar Road), 560010",+(91)-80-32466651,OpenStreetMap,node/1474819894,12.9963776,77.5514093,2026-10-07T05:56:02+00:00
+Z Shoppe,Supermarket,Bengaluru,"579, 6th Cross",+91 80 252171841,OpenStreetMap,node/1760015500,12.9662704,77.6497422,2026-10-07T05:56:02+00:00
+Radhakrishna Pharma,Pharmacy,Bengaluru,"55, 4th Main Road, 560076",+91 9886261869,OpenStreetMap,node/14247386952,12.9062916,77.6039191,2026-10-07T05:56:02+00:00
+The Cash Pharmacy,Pharmacy,Bengaluru,"St. Marks Road, Opp Bishop Cotton Boys School, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",080 3361 8456,OpenStreetMap,node/1446122916,12.9683152,77.6004368,2026-10-07T05:56:02+00:00
+Mohan Medicals,Pharmacy,Bengaluru,4th Main Road,953555104,OpenStreetMap,node/2514705829,12.9609849,77.5269939,2026-10-07T05:56:02+00:00
+Trust Chemists & Druggists Ltd,Pharmacy,Bengaluru,"Hosur Rd, Zuzuvadi, Madiwala, 1st Stage, BTM Layout, 560068",+91-80 2563 0022,OpenStreetMap,node/4441888253,12.9263384,77.6168571,2026-10-07T05:56:02+00:00
+Dr. Suresh's Dia Care,Pharmacy,Bengaluru,"723/B, 11th Main Rd, 3rd Block, Rajaji Nagar, 560010",080 2338 2867,OpenStreetMap,node/4443484964,12.9898377,77.5550568,2026-10-07T05:56:02+00:00
+Amrutha Medicals,Pharmacy,Bengaluru,"403, Dr. Rajkumar Road, 6th Block, 80 Feet Rd, 4th Block, Ramchandrapuram, Rajaji Nagar, 560010",080 2311 7929,OpenStreetMap,node/4443494165,12.9861471,77.5598537,2026-10-07T05:56:02+00:00
+Breadtime Stories,Bakery,Bengaluru,"51, MM Road, Cox Town, 560005",+91-8867703731,OpenStreetMap,node/11129099866,12.9953074,77.6216752,2026-10-07T05:56:02+00:00
+Chitra Bakery,Bakery,Bengaluru,80 Feet Road,,OpenStreetMap,node/10302909511,12.9811088,77.6459915,2026-10-07T05:56:02+00:00
+Preethi Bakery,Bakery,Bengaluru,"787, 16th Main Road",,OpenStreetMap,node/11464753886,12.9155231,77.6099553,2026-10-07T05:56:02+00:00
+"4 Senses Advanced Skin, Hair & ENT Clinic",Bakery,Bengaluru,"2444, 13th Main Road, 560092",,OpenStreetMap,node/11949185950,13.060184,77.5888665,2026-10-07T05:56:02+00:00
+Bangalore Bakery And Sweets,Bakery,Bengaluru,"268, 8th Cross Road, 560076",,OpenStreetMap,node/11957620950,12.8917479,77.6064234,2026-10-07T05:56:02+00:00
+BreadCrumbs Bakery,Bakery,Bengaluru,989,,OpenStreetMap,node/11958491418,12.8924494,77.6111256,2026-10-07T05:56:02+00:00
+Heaven's Saloon,Salon,Bengaluru,"Thanisandra Main Road, 560077",09019830117,OpenStreetMap,node/11578192469,13.0481669,77.6288875,2026-10-07T05:56:02+00:00
+Cut And Sttyle Salon,Salon,Bengaluru,1000,07090220099,OpenStreetMap,node/11958462470,12.8926931,77.6112416,2026-10-07T05:56:02+00:00
+Govardhan Men's Parlour,Salon,Bengaluru,"1st Cross Road, 560024",+91 95306 23112,OpenStreetMap,node/12101126903,13.058349,77.6032027,2026-10-07T05:56:02+00:00
+Aloe Spa,Salon,Bengaluru,"Hotel Davanam Sarovar Portico Suites, 7th floor, Hosur road Besides Total Mall, Madiwala, Koramangala 2nd Block, Koramangala",09986511272,OpenStreetMap,node/12553261624,12.9218259,77.6205566,2026-10-07T05:56:02+00:00
+Nirmaya Spa in Madiwala,Salon,Bengaluru,"1st floor Hosur main road, 1stage, next to bajaj showroom, near ayyappa temple, Madiwala, BTM Layout",082175 90197,OpenStreetMap,node/12553304870,12.9258553,77.6170186,2026-10-07T05:56:02+00:00
+Southern Spa Madiwala,Salon,Bengaluru,"2nd floor, Market Square Mall, Hosur Rd, opp. Madiwala Traffic Police Station, Sidharata Colony, Madiwala, Koramangala 2nd Block, Koramangala",09108612001,OpenStreetMap,node/12553319439,12.9217289,77.6202688,2026-10-07T05:56:02+00:00
+Sri Bhagavan Mahaveer Jain Dental Care,Dentist,Bengaluru,"66, Chamrajpet 5th Main Road",+91 78920 49865,OpenStreetMap,node/11178147827,12.9569814,77.5636441,2026-10-07T05:56:02+00:00
+The Dentist,Dentist,Bengaluru,"941, 24th Main Road",+91 99866 89888,OpenStreetMap,node/11533128576,12.9188768,77.6493774,2026-10-07T05:56:02+00:00
+Roots and Grins Dental Clinic,Dentist,Bengaluru,"3037, 8th Main Road, 560008",063660 40123,OpenStreetMap,node/13183413401,12.9729735,77.6467027,2026-10-07T05:56:02+00:00
+KDC Dental Clinic,Dentist,Bengaluru,"BR plaza, SR Layout Main Road, 560017",+918296879540,OpenStreetMap,node/4127160595,12.9551584,77.6512286,2026-10-07T05:56:02+00:00
+32Smiles Multispecialty Dental clinic,Dentist,Bengaluru,"No. 5, 1st Floor,, Bellandur Gate, Sarjapura Road, 560103",+91-93434 33222,OpenStreetMap,node/4441796157,12.919686,77.6670282,2026-10-07T05:56:02+00:00
+Aditi Dental Care,Dentist,Bengaluru,"955, Ambalipura, Sarjapura Road, 560102",+91-96119 80263,OpenStreetMap,node/4441825260,12.9192616,77.668534,2026-10-07T05:56:02+00:00
+National Academy Of Naturopathy And Yoga,Gym,Bengaluru,"857, 3rd Cross, 5th Main, 560076",080 8834 7855,OpenStreetMap,node/11957774855,12.8906991,77.6090805,2026-10-07T05:56:02+00:00
+Dr. Pilates,Gym,Bengaluru,"3rd Floor, Y4 Heights Building, 6th Main Rd, above Starbucks Coffee, HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, 7th Main Road",+91 88922 36442,OpenStreetMap,node/12162210544,13.0193779,77.6430195,2026-10-07T05:56:02+00:00
+Kineto Calisthenics Park,Gym,Bengaluru,"91, 2nd Main Road, Arehalli, 560061",082176 32136,OpenStreetMap,node/13128318401,12.9134483,77.5419934,2026-10-07T05:56:02+00:00
+Jaguar Fitness,Gym,Bengaluru,"9-8, 19th Cross Road, 560076",9986777944,OpenStreetMap,node/13130546131,12.9072691,77.6059652,2026-10-07T05:56:02+00:00
+the Studio by Copper + Cloves,Gym,Bengaluru,"2nd Cross Road, 560071",+91 90084 26703,OpenStreetMap,node/14026889501,12.9639004,77.6383564,2026-10-07T05:56:02+00:00
+Game Theory - HSR layout sector 7,Gym,Bengaluru,"2nd Main Road, 560102",+919513253359,OpenStreetMap,node/14138646901,12.9024435,77.6429063,2026-10-07T05:56:02+00:00
+Aposs Diagnostics Health Care Pvt Ltd,Clinic,Bengaluru,133,080 2648 3828,OpenStreetMap,node/11957600380,12.8908863,77.606061,2026-10-07T05:56:02+00:00
+Bangalore Endocrinology & Diabetes Research Center (BEDRC),Clinic,Bengaluru,"35, 5th Cross Road, 560003",+918041281998,OpenStreetMap,node/12834564801,12.9966783,77.5728746,2026-10-07T05:56:02+00:00
+"The Apollo Clinic, Bengaluru Urban",Clinic,Bengaluru,"No.51, Jyothi Nivas Colleges, 5Th Block, Kormangala",+91860 500 2244,OpenStreetMap,node/1375978269,12.9339266,77.6161393,2026-10-07T05:56:02+00:00
+Varchas Clinic,Clinic,Bengaluru,"20, 21, 1st floor, Uttarahalli road, KSRTC layout,, 560061",080-48909059,OpenStreetMap,node/14082277964,12.9102407,77.5506789,2026-10-07T05:56:02+00:00
+Nationwide,Clinic,Bengaluru,"#723, 1st Floor, Chinmaya Mission Hospital Road, 1st Stage, Indira Nagar, Above Siemens Showroom, 560038",080 4121 5150,OpenStreetMap,node/3370084884,12.9783475,77.6452371,2026-10-07T05:56:02+00:00
+Bhargavi Clinic,Clinic,Bengaluru,"4th Cross Road, 560038",+91 80 2528 9292,OpenStreetMap,node/3514613490,12.9777681,77.6388155,2026-10-07T05:56:02+00:00
+Women And Children Foundation Hospital,Hospital,Chennai,"1279 B, Poompuhar Nagar 1st Main Road, 600099","04425508210, 8939957777, 8939917777",OpenStreetMap,node/10261422409,13.1180276,80.2126037,2026-10-07T05:56:02+00:00
+Frame of Mind - SCARF Psychiatric Hospital,Hospital,Chennai,"R/7a, N Main Rd, Kailash Colony, Sector A, Anna Nagar West Extension, Chennai, Tamil Nadu 600101",+919150587361;04426151073; 04426153971,OpenStreetMap,node/10271805421,13.0972767,80.1982422,2026-10-07T05:56:02+00:00
+Vasantha Memorial Cancer Centre,Hospital,Chennai,"No. 33, 35th Street, Opp JFA Showroom, Ashok Nagar, 600083",+91 9791048379,OpenStreetMap,node/10294576078,13.040756,80.2146876,2026-10-07T05:56:02+00:00
+Rajan Eye Care Hospital,Hospital,Chennai,"5,Vidyodaya East Second Street, Behind Vidyodaya School",2834 0500/0300,OpenStreetMap,node/1152858038,13.0508335,80.2434416,2026-10-07T05:56:02+00:00
+Ayanavaram 24 hours hospital,Hospital,Chennai,"304 B, Konnur High Road, 600023",+9198843 09028,OpenStreetMap,node/14059898301,13.0986843,80.2336168,2026-10-07T05:56:02+00:00
+Helios Advanced Skin Hair & Laser Clinic Pvt Ltd,Hospital,Chennai,"Alayam Space 4, Ananda Street, 600018",099400 58215,OpenStreetMap,node/14105458201,13.0347504,80.2547353,2026-10-07T05:56:02+00:00
+Sudar Medical Centre,Clinic,Chennai,"Ramasamy Salai, 600078",044 23774143,OpenStreetMap,node/14007810701,13.0414947,80.1951197,2026-10-07T05:56:02+00:00
+Bahola Labs,Clinic,Chennai,"H108 TNHB Flats, Mahatma Gandhi Road, 600090",9791038585,OpenStreetMap,node/14196861801,12.9957516,80.2643301,2026-10-07T05:56:02+00:00
+"Sri Meenakshi Nursing Home, Chennai",Clinic,Chennai,"No. 3A, Baroda Street, West Mambalam, T Nagar",044 2345 5290,OpenStreetMap,node/3680482049,13.041711,80.2285827,2026-10-07T05:56:02+00:00
+Neuro Clinic,Clinic,Chennai,H Block 5th street,04426164055,OpenStreetMap,node/5306596304,13.0862108,80.2048268,2026-10-07T05:56:02+00:00
+Dr. Ram's Diabetes & Endocrine Clinic,Clinic,Chennai,"18, J.J. Complex, Jawaharlal Nehru Road, Thirumangalam",9333193331,OpenStreetMap,node/5318562365,13.0860731,80.1983714,2026-10-07T05:56:02+00:00
+BK ENT care,Clinic,Chennai,"Mahalingapuram Main Road, 600034",+91 44 2817 1314,OpenStreetMap,node/6167503411,13.057865,80.2362823,2026-10-07T05:56:02+00:00
+The Park Avenue Hotel,Hotel,Chennai,"4/8, Nabikhan Street, 600003",07305010423,OpenStreetMap,node/10867759021,13.0839868,80.2702476,2026-10-07T05:56:02+00:00
+Greens Suite,Hotel,Chennai,"14, 15, Varasidhi Vinayakar Koil Street",+91 44 4262 9405,OpenStreetMap,node/11159466936,13.0814738,80.2703442,2026-10-07T05:56:02+00:00
+SPOT ON OYO RKH Inn,Hotel,Chennai,"7,8, MUNIYAPPA STREET, 600005",9884063303,OpenStreetMap,node/11204047131,13.0570203,80.2734588,2026-10-07T05:56:02+00:00
+Star City Hotels,Hotel,Chennai,"39, Bazullah Road, 600017",+91 9840055922,OpenStreetMap,node/14000867401,13.0469006,80.2349522,2026-10-07T05:56:02+00:00
+Green Park - Chennai,Hotel,Chennai,"Arcot Road, 600026",+91 44 66515151,OpenStreetMap,node/304956888,13.051048,80.2081917,2026-10-07T05:56:02+00:00
+Courtyard Marriott,Hotel,Chennai,"564, Anna Salai (Mount Road), 600017",66764000,OpenStreetMap,node/308300964,13.0459725,80.2477447,2026-10-07T05:56:02+00:00
+Sangamam Chettinad Hotel,Restaurant,Chennai,"Door number 1, 7th Avenue, 600083",044 2489 1225,OpenStreetMap,node/1024554835,13.0349987,80.2163485,2026-10-07T05:56:02+00:00
+BBQ Bro's,Restaurant,Chennai,"#20/A, Sivaraman street, Triplicane",+91 81484 68861; +91 98405 78834,OpenStreetMap,node/12568401589,13.0564212,80.2741982,2026-10-07T05:56:02+00:00
+Adyar Ananda Bhavan,Restaurant,Chennai,"Thiyagaraya Road, 600017",+91 44 2345 3041,OpenStreetMap,node/13743048380,13.0409378,80.2376226,2026-10-07T05:56:02+00:00
+Adyar Ananda Bhavan,Restaurant,Chennai,"Arcot Road, 600026",+91 44 4201 3008,OpenStreetMap,node/1446844312,13.0483451,80.2061063,2026-10-07T05:56:02+00:00
+Texas Fiesta,Restaurant,Chennai,"#17/2, Shaffee Mohammed Road, Off Greams & Khader Nawaz Khan Road, 600006",+91 44 43087882,OpenStreetMap,node/1928542139,13.06004,80.253221,2026-10-07T05:56:02+00:00
+Mash,Restaurant,Chennai,"3, Haddows 2nd Street, Nungambakkam",+9 44 28211555,OpenStreetMap,node/1992398105,13.061691,80.248271,2026-10-07T05:56:02+00:00
+TecEx India Private Limited,Supermarket,Chennai,"2669+M7G, Little Mount, Kotturpuram, 600032",(02) 9056 4057,OpenStreetMap,node/10973840859,13.0077889,80.2210455,2026-10-07T05:56:02+00:00
+Annachi Supermarket,Supermarket,Chennai,"Bazaar Rd, Thirumangalam, Collector Nagar, J J Nagar, Mogappair East, Chennai, Tamil Nadu 600101",+9195662 52790,OpenStreetMap,node/4948927697,13.0871698,80.1881554,2026-10-07T05:56:02+00:00
+Ray Mart Supermarket,Supermarket,Chennai,"No 1, Gangai Amman Koil St, Barathi Block, VSM Garden, West Jafferkhanpet, Chennai, Tamil Nadu 600083",044 2489 1942,OpenStreetMap,node/8108595516,13.0284745,80.2123238,2026-10-07T05:56:02+00:00
+Visalam Supermarket,Supermarket,Chennai,"97/98, 1, Jawaharlal Nehru Road, Ashok Nagar, Chennai, Tamil Nadu 600083",044 2489 0527,OpenStreetMap,node/8108621717,13.0299976,80.2088159,2026-10-07T05:56:02+00:00
+Bharath Gem Testing Lab,Supermarket,Chennai,"42, Mothilol street, 600017",+914424338725,OpenStreetMap,node/8228218791,13.0365972,80.2323815,2026-10-07T05:56:02+00:00
+C.S.Rajasundaram Chetty & Sons.,Supermarket,Chennai,"Rattan Bazaar Road, Park Town,, 600003",044 25353104,OpenStreetMap,node/8445003084,13.0859974,80.2807246,2026-10-07T05:56:02+00:00
+Bank of Baroda,Bank,Chennai,"Dr Natesan Salai, Raghavareddy Colony, Sector 10, Ashok Nagar, Chennai, Tamil Nadu 600083",044 2345 4272,OpenStreetMap,node/8094517285,13.0370302,80.2111489,2026-10-07T05:56:02+00:00
+Indian Overseas Bank,Bank,Chennai,"Dr Natesan Salai, Raghavareddy Colony, Sector 10, Sivalingapuram, Ashok Nagar, Chennai, Tamil Nadu 600083",044 2489 2696,OpenStreetMap,node/8094553409,13.0370699,80.2110613,2026-10-07T05:56:02+00:00
+Union Bank of India,Bank,Chennai,"Jawaharlal Nehru Rd, Raghavareddy Colony, Zaffarkhanpet, Sivalingapuram, Ashok Nagar, Chennai, Tamil Nadu 600083",1800 22 2244,OpenStreetMap,node/8094561286,13.0369499,80.2121346,2026-10-07T05:56:02+00:00
+Indian Bank,Bank,Chennai,"Zenofer Tower, No 119/1, Jawaharlal Nehru Rd, Ashok Nagar, West Jafferkhanpet, Chennai, Tamil Nadu 600083",044 2489 5862,OpenStreetMap,node/8094668724,13.0279346,80.2087319,2026-10-07T05:56:02+00:00
+State Bank of India,Bank,Chennai,"55, 2nd St, Kasi Estate, West Jafferkhanpet, Chennai, Tamil Nadu 600083",1800 425 3800,OpenStreetMap,node/8096471071,13.0292606,80.2083687,2026-10-07T05:56:02+00:00
+Indian Overseas Bank,Bank,Chennai,"59/39, 11th Ave, Mettuppalayam, Ashok Nagar, Chennai, Tamil Nadu 600083",044 2474 4892,OpenStreetMap,node/8108739020,13.0320089,80.2097763,2026-10-07T05:56:02+00:00
+Chai Kings - Thirumangalam Metro,Cafe,Chennai,"2nd Avenue, Anna Nagar West, 600040",08939387667,OpenStreetMap,node/12841106601,13.085677,80.2013868,2026-10-07T05:56:02+00:00
+Beachville,Cafe,Chennai,"94/189, St Marys Road SBI Colony, RA Puram Chennai, 600028 Tamil Nadu India",+91 98416 18185,OpenStreetMap,node/12864010782,13.0290981,80.2553915,2026-10-07T05:56:02+00:00
+Third Wave Coffee,Cafe,Chennai,"70/44, 4th Avenue, 600083",8951820415,OpenStreetMap,node/13893321402,13.0406279,80.2154189,2026-10-07T05:56:02+00:00
+Candose Ice Cream Palour,Cafe,Chennai,"28, Rameswaram Street, 600 017",+914442178384,OpenStreetMap,node/4681455945,13.039421,80.2288253,2026-10-07T05:56:02+00:00
+Cafeteria,Cafe,Chennai,"453, Govindu Street, 600017",+9133578,OpenStreetMap,node/4711359172,13.042971,80.2333968,2026-10-07T05:56:02+00:00
+Starbucks,Cafe,Chennai,"No: 221, TBR Tower, Near Ayyappa Temple, 2nd Avenue, Block Y, Anna Nagar, Y Block, Anna Nagar, Chennai, Tamil Nadu 600040",+918939867915,OpenStreetMap,node/4948911363,13.0850924,80.2124356,2026-10-07T05:56:02+00:00
+Chennai Bakes,Bakery,Chennai,Govinda Street,+91 9444288556,OpenStreetMap,node/13909468895,13.0724785,80.2197997,2026-10-07T05:56:02+00:00
+Old Madras,Bakery,Chennai,"279, TTK Road, 600018",044-42084422,OpenStreetMap,node/3376332562,13.0328585,80.2528799,2026-10-07T05:56:02+00:00
+Cake walk,Bakery,Chennai,"1, Kothari Road",044-30853567,OpenStreetMap,node/4140037192,13.0648694,80.2391738,2026-10-07T05:56:02+00:00
+Namma Kudumbham,Bakery,Chennai,"29/42, Thiru Vi Ka Road, 600014",9841393867,OpenStreetMap,node/4405570394,13.0567813,80.2578968,2026-10-07T05:56:02+00:00
+Sri Ragavendra Bakery,Bakery,Chennai,"10, Gangai Amman Koil St, Jawahar Nagar, West Jafferkhanpet, Chennai, Tamil Nadu 600083",95516 33999,OpenStreetMap,node/8108612633,13.026844,80.2117188,2026-10-07T05:56:02+00:00
+Fresh Baked Goodness,Bakery,Chennai,"New No. 22, Old No. 40, 3rd Street, East Abhiramapuram, Mylapore",+919962104626,OpenStreetMap,node/8425034938,13.0338116,80.2625203,2026-10-07T05:56:02+00:00
+Shree Shankara Medical,Pharmacy,Chennai,"18, Nageswara Road, 600034",+918825648469,OpenStreetMap,node/14053803197,13.0582901,80.2455435,2026-10-07T05:56:02+00:00
+Shree Devi Medicals,Pharmacy,Chennai,"# 6, Parthasarathy Street, 600005",7200935169,OpenStreetMap,node/4269972191,13.0610433,80.2765499,2026-10-07T05:56:02+00:00
+Apollo Pharmacy,Pharmacy,Chennai,"69/2, 53rd Street, 600083",04424745946,OpenStreetMap,node/4417312196,13.0339283,80.2142544,2026-10-07T05:56:02+00:00
+S.R. Medicals,Pharmacy,Chennai,167/1,04426180992,OpenStreetMap,node/5336394298,13.1026223,80.2090829,2026-10-07T05:56:02+00:00
+A.R.R. Pharmacy,Pharmacy,Chennai,"5/2, Padikuppam Road, Anna Nagar West",9444629833,OpenStreetMap,node/5370532387,13.0857391,80.1925899,2026-10-07T05:56:02+00:00
+Madha Medicals,Pharmacy,Chennai,"100, Padikuppam Road, Kamarajar Nagar, Anna Nagar West, Chennai",9176154429,OpenStreetMap,node/5370537739,13.0847424,80.1924194,2026-10-07T05:56:02+00:00
+Icon Office Equipments,Electronics Store,Chennai,"No. 71, 22, Cheran St, Pari Nagar, West Jafferkhanpet, Chennai, Tamil Nadu 600083",044 4558 8866,OpenStreetMap,node/8108579750,13.0279423,80.2097497,2026-10-07T05:56:02+00:00
+Sterling Music,Electronics Store,Chennai,Sivaganga Road,,OpenStreetMap,node/4140095589,13.0650994,80.2411573,2026-10-07T05:56:02+00:00
+Vasanth & Co.,Electronics Store,Chennai,"North Usman Road, 600017",,OpenStreetMap,node/4297811669,13.0473139,80.2326225,2026-10-07T05:56:02+00:00
+Electrical Shop,Electronics Store,Chennai,West Jones Road,,OpenStreetMap,node/4308319496,13.0242142,80.2141731,2026-10-07T05:56:02+00:00
+Electrical Shop,Electronics Store,Chennai,West Jones Road,,OpenStreetMap,node/4308320095,13.0241933,80.2139135,2026-10-07T05:56:02+00:00
+Shopnova,Electronics Store,Chennai,Postal Colony 2nd Street,,OpenStreetMap,node/6010166736,13.0364069,80.2203874,2026-10-07T05:56:02+00:00
+New Avalon,Salon,Chennai,"New No 35, 12th Ave, Ashok Nagar, Chennai, Tamil Nadu 600083",96005 33162,OpenStreetMap,node/8111874455,13.030828,80.2118438,2026-10-07T05:56:02+00:00
+VLCC,Salon,Chennai,EVR Periyar Salai,,OpenStreetMap,node/13995176201,13.0749521,80.2317371,2026-10-07T05:56:02+00:00
+Raja Saloon,Salon,Chennai,,+919003968704,OpenStreetMap,node/13142131702,13.0142355,80.2313276,2026-10-07T05:56:02+00:00
+oberoi,Salon,Chennai,,,OpenStreetMap,node/10013621144,13.12424,80.2015746,2026-10-07T05:56:02+00:00
+Eva beauty lounge,Salon,Chennai,,,OpenStreetMap,node/10013621153,13.123541,80.2014695,2026-10-07T05:56:02+00:00
+Style,Salon,Chennai,,,OpenStreetMap,node/10107995487,13.0959564,80.2913961,2026-10-07T05:56:02+00:00
+MaxHealth Dental Clinic,Dentist,Chennai,"555, 600037",9884838148,OpenStreetMap,node/12968985301,13.0832326,80.1802216,2026-10-07T05:56:02+00:00
+White Dental Clinic,Dentist,Chennai,"100, Kamarajar Nagar, Padi kuppam road, Anna Nagar West, Chennai",9840093689,OpenStreetMap,node/5372753056,13.0847871,80.1924469,2026-10-07T05:56:02+00:00
+Smile Care,Dentist,Chennai,"Jones Road, 600015",,OpenStreetMap,node/3470862095,13.0252375,80.2228534,2026-10-07T05:56:02+00:00
+Tooth Craft,Dentist,Chennai,"Karaneeswar Koil Street, 600015",,OpenStreetMap,node/3471088863,13.0242232,80.2231722,2026-10-07T05:56:02+00:00
+Bohra Tooth Palace,Dentist,Chennai,General Muthiah Street,,OpenStreetMap,node/3494254196,13.0923775,80.2777601,2026-10-07T05:56:02+00:00
+"Krishna Dental Clinic, Chennai",Dentist,Chennai,"Krishna Dental Clinic W-120,Anna Nagar",,OpenStreetMap,node/6929910241,13.0874336,80.2177075,2026-10-07T05:56:02+00:00
+Slam Fitness,Gym,Chennai,"64/202, Ramasamy Salai, 600078",09344255502,OpenStreetMap,node/13906419901,13.0408978,80.1982295,2026-10-07T05:56:02+00:00
+G Force Gym & Fitness,Gym,Chennai,"15, Padikuppam Main Road, Anna Nagar West, Chennai",9551501122,OpenStreetMap,node/5370525029,13.0868107,80.1926515,2026-10-07T05:56:02+00:00
+HARI GYM & FITNESS,Gym,Chennai,"No229A P Achalendra Apartment, Redhills High Road, Madavaram Red Hills Rd, Madhavaram, 600060",+919600131392,OpenStreetMap,node/8006895346,13.1545663,80.2272066,2026-10-07T05:56:02+00:00
+Heat Fitness Studio,Gym,Chennai,"11/1 S.V Chidambaram Salai, West Jafferkhanpet, Chennai, Tamil Nadu 600083",63817 14865,OpenStreetMap,node/8096937848,13.0267704,80.2111729,2026-10-07T05:56:02+00:00
+Ultimate Fitness Centre - Adyar,Gym,Chennai,"1st Floor, 69 1st Cross St, Venkata Rathnam Nagar Extension, Teachers Colony, 600020",72997 87411,OpenStreetMap,way/356163999,13.0006804,80.2518604,2026-10-07T05:56:02+00:00
+Muscle Factory,Gym,Chennai,"Kodambakkam Rd, 600015",,OpenStreetMap,node/5631872270,13.0279767,80.2200456,2026-10-07T05:56:02+00:00
+Tower Bavarchi Multi Cuisine Restaurant,Restaurant,Hyderabad,"9G97+VX Hyderabad, Telangana, 16-2-741/C/4, NH65, Asmangarh, Bank Colony, New Malakpet, Hyderabad, Telangana 500036",090520 69735,OpenStreetMap,node/10012888587,17.369688,78.5149384,2026-10-07T05:56:02+00:00
+Banjara 9,Restaurant,Hyderabad,"banjara hills, Road Number 1, 500034",7674052917,OpenStreetMap,node/10300324812,17.4070548,78.4516599,2026-10-07T05:56:02+00:00
+SVR Grand Family Restaurant,Restaurant,Hyderabad,"Indira park road, Domalguda, 500029",+919550165172,OpenStreetMap,node/11414945481,17.409772,78.4872348,2026-10-07T05:56:02+00:00
+SO - The Sky Kitchen,Restaurant,Hyderabad,Rd 92,+91-40-23558004,OpenStreetMap,node/11597256218,17.4161279,78.416848,2026-10-07T05:56:02+00:00
+Stellar Reserve,Restaurant,Hyderabad,"303, Road No. 1, Nandagiri Hills, Jubilee Hills, 500033",+919030187773,OpenStreetMap,node/12695800228,17.4226437,78.4109735,2026-10-07T05:56:02+00:00
+Vibrant Living,Restaurant,Hyderabad,"82, Film Nagar, Jubilee Hills, 500096",09000994458,OpenStreetMap,node/12839760927,17.4141814,78.4051098,2026-10-07T05:56:02+00:00
+State Bank of India,Bank,Hyderabad,"D.No:3-5-784/A/2, Opp Parda Gate King Koti Road, 500029",040 2323 4848,OpenStreetMap,node/3244256004,17.3937267,78.4812179,2026-10-07T05:56:02+00:00
+Union Bank,Bank,Hyderabad,Sayeedabad Road,9 40 2346 8560; 91 40 2346 8563,OpenStreetMap,node/8065109152,17.3622554,78.5042614,2026-10-07T05:56:02+00:00
+"اسٹیٹ بینک آف انڈیا, ملاکیپٹ",Bank,Hyderabad,500024,+91 40 24412022,OpenStreetMap,node/8065540528,17.376452,78.4920486,2026-10-07T05:56:02+00:00
+اسٹیٹ بینک آف انڈیا,Bank,Hyderabad,500 064,91 40 2447 3450,OpenStreetMap,node/8065642920,17.3521271,78.4532015,2026-10-07T05:56:02+00:00
+اسٹیٹ بنک آف انڈیا,Bank,Hyderabad,ALKAPURI 'X' ROAD,+91 40 2403 2185,OpenStreetMap,node/8099845254,17.3658713,78.5567891,2026-10-07T05:56:02+00:00
+ICICI Bank,Bank,Hyderabad,Sanjeeva Reddy Nagar Main Road,,OpenStreetMap,node/10279582817,17.4393701,78.4430867,2026-10-07T05:56:02+00:00
+Appollo Pharmacy,Pharmacy,Hyderabad,Panjagutta Main Road,,OpenStreetMap,node/10279842274,17.4239877,78.4542857,2026-10-07T05:56:02+00:00
+Arogya Medicals,Pharmacy,Hyderabad,Panjagutta Main Road,,OpenStreetMap,node/10279842275,17.4238251,78.4542871,2026-10-07T05:56:02+00:00
+Bhargav Medicals,Pharmacy,Hyderabad,Panjagutta Main Road,,OpenStreetMap,node/10279842276,17.4237644,78.4543324,2026-10-07T05:56:02+00:00
+Vishu Medical Hall,Pharmacy,Hyderabad,"Sai Nagar, Malkajgiri, 500047",,OpenStreetMap,node/1435322781,17.4508429,78.5319111,2026-10-07T05:56:02+00:00
+Gokul Medical Hall,Pharmacy,Hyderabad,"Malkajgiri, 500047",,OpenStreetMap,node/1438259298,17.4499816,78.5353596,2026-10-07T05:56:02+00:00
+Srinivasa medical & general,Pharmacy,Hyderabad,"vijaynagar colony road, 500057",,OpenStreetMap,node/5386342322,17.3954892,78.4539959,2026-10-07T05:56:02+00:00
+Maven Suites,Hotel,Hyderabad,"Plot No 405a,Road No 22a, Jubilee Hills, 500033",+91-4023-541427,OpenStreetMap,node/4487962083,17.4335769,78.4121133,2026-10-07T05:56:02+00:00
+Taj Krishna,Hotel,Hyderabad,"1, Road Number 1, 500034",+91 040-6666 2323,OpenStreetMap,way/117565909,17.4161741,78.4502069,2026-10-07T05:56:02+00:00
+Taj Deccan,Hotel,Hyderabad,"road no 1, Banjara Hills,, 500034",+91-40-66669999,OpenStreetMap,way/117566235,17.4183841,78.4506241,2026-10-07T05:56:02+00:00
+Marigold Hotel,Hotel,Hyderabad,Greenlands,+91 40 6736 3636,OpenStreetMap,way/357444190,17.437494,78.4546548,2026-10-07T05:56:02+00:00
+Hotel Madhura Tiffins,Hotel,Hyderabad,Yashoda hospital Road,,OpenStreetMap,node/10279582824,17.424558,78.4548908,2026-10-07T05:56:02+00:00
+Hotel A-1 Biryani,Hotel,Hyderabad,Yashoda Hospital Road,,OpenStreetMap,node/10279582841,17.4245763,78.4542203,2026-10-07T05:56:02+00:00
+Baker's Den,Bakery,Hyderabad,"9-1-95/5, Sarojini Devi Road, 500003",040 2770 2601,OpenStreetMap,node/4225056389,17.4408372,78.5041362,2026-10-07T05:56:02+00:00
+KS Bakers,Bakery,Hyderabad,"Venkateswara Colony, 500039",079979 80009,OpenStreetMap,node/7473077625,17.3984063,78.5605589,2026-10-07T05:56:02+00:00
+Tip Max Bakers,Bakery,Hyderabad,Adikmet Main Road,,OpenStreetMap,node/12404635101,17.4047672,78.5103262,2026-10-07T05:56:02+00:00
+Brown Bear Bakery,Bakery,Hyderabad,500091,,OpenStreetMap,node/13436947534,17.3648949,78.3954132,2026-10-07T05:56:02+00:00
+Cake Exotica,Bakery,Hyderabad,Vengal Rao Nagar Main Road,,OpenStreetMap,node/2388310549,17.4419934,78.4406006,2026-10-07T05:56:02+00:00
+Karachi Bakery,Bakery,Hyderabad,S.R.Nagar,,OpenStreetMap,node/3159027235,17.4387547,78.4427872,2026-10-07T05:56:02+00:00
+House of Happiiness,Supermarket,Hyderabad,"10-2-510/1/7, Asif Nagar Main Road, 500057",+917330797070,OpenStreetMap,node/9496252336,17.3930517,78.4488416,2026-10-07T05:56:02+00:00
+Spar,Supermarket,Hyderabad,"Nacharam road, 500076",,OpenStreetMap,node/10244211021,17.425566,78.5496479,2026-10-07T05:56:02+00:00
+Ratnadeep,Supermarket,Hyderabad,Darus Salm Road,,OpenStreetMap,node/10253790309,17.3928515,78.4569744,2026-10-07T05:56:02+00:00
+Ratnadeep Super Market,Supermarket,Hyderabad,DharamKaram Road,,OpenStreetMap,node/10279582855,17.44101,78.4509941,2026-10-07T05:56:02+00:00
+Urban Super Mart,Supermarket,Hyderabad,Saibaba Temple Road,,OpenStreetMap,node/10279728115,17.4245106,78.452603,2026-10-07T05:56:02+00:00
+Heritage Fresh,Supermarket,Hyderabad,"Shivam Road, 500013",,OpenStreetMap,node/1124259664,17.4048217,78.5154533,2026-10-07T05:56:02+00:00
+Vinayaka Nethralaya Eye Hospital,Hospital,Hyderabad,"House No 9-4-84/16, 1st Floor, Janaa Heights Nanal Nagar Cross Roads , Toli Chowki, Mehdipatnam,, 500028",+919677920539,OpenStreetMap,node/10139228459,17.3932979,78.4261156,2026-10-07T05:56:02+00:00
+Omni Hospital,Hospital,Hyderabad,"11-9-46, Sri Sai Shivani Complex, Opposite P.V.T Market, Kothapet 'X' Road, New Nagole Main Road, Dilsukhnagar, Laxmi Nagar Colony, Kothapet",040 49871690;040 67369999,OpenStreetMap,node/1598149460,17.3684777,78.5387483,2026-10-07T05:56:02+00:00
+Hope Children's Hospital,Hospital,Hyderabad,"5-9-24/81, Lake Hill Road, Basheerbagh",040 23223782;040 23223792;040 66069000,OpenStreetMap,node/2192962541,17.4064283,78.4738814,2026-10-07T05:56:02+00:00
+Swapna Health Care,Hospital,Hyderabad,"6-3-1111/19, NISHATH BAGH, BEGUMPET",23402417,OpenStreetMap,node/2208162453,17.4291646,78.4567382,2026-10-07T05:56:02+00:00
+OZONE HOSPITALS,Hospital,Hyderabad,"H.No: 11-13-201/33, ROAD NO. 4, KOTHAPET, DILSUKHNAGAR, BESIDE CMR SHOPPING MALL, OPPOSITE WHITE HOUSE",4030108108,OpenStreetMap,node/2217950153,17.3594287,78.5450683,2026-10-07T05:56:02+00:00
+Asian Institute of Gastroenterology,Hospital,Hyderabad,"6 - 3 - 661, Sangeet Nagar, Somajiguda",040 23378888,OpenStreetMap,node/2352095456,17.4211366,78.4566557,2026-10-07T05:56:02+00:00
+Almond House,Cafe,Hyderabad,"9-1-109/1B, Regimental Bazaar, Shivaji Nagar, 500003",+91-040-48509898,OpenStreetMap,node/13361820588,17.4408488,78.503202,2026-10-07T05:56:02+00:00
+Kahani Cafe,Cafe,Hyderabad,"Plot no 13, Nagarjuna Nagar Colony, 05, Circle, L.B. Nagar, Mansoorabad, 500068",+91 7032328282,OpenStreetMap,node/13657608396,17.3567284,78.5590319,2026-10-07T05:56:02+00:00
+Harika Tiffins &Snacks,Cafe,Hyderabad,Road no. 44,9949696327,OpenStreetMap,node/6213051887,17.4290162,78.4052452,2026-10-07T05:56:02+00:00
+"Sri Balaji Tiffins, Meals & Curry Point",Cafe,Hyderabad,"Road No 2, 500039",+91 9908212995;+91 9849409279,OpenStreetMap,node/6503654492,17.4203544,78.5657599,2026-10-07T05:56:02+00:00
+Vindhu Tiffins,Cafe,Hyderabad,"Sanjeeva Reddy Nagar Colony Main Road, 500038",095333 51476,OpenStreetMap,node/9094232018,17.4419954,78.4440716,2026-10-07T05:56:02+00:00
+Roast CCx,Cafe,Hyderabad,"Road No.3, GAR Laxmi Pinnacle, BNR colony, Venkat Nagar, 500034",+91-8096116999,OpenStreetMap,way/1059327349,17.4235417,78.4322668,2026-10-07T05:56:02+00:00
+"CGHS Dispensary No.IV,Begumpet",Clinic,Hyderabad,"K.S.Bhawan, Begumpet",040 27904259,OpenStreetMap,node/6477257408,17.4451684,78.4721151,2026-10-07T05:56:02+00:00
+"CGHS Dispensary No.V, Himayatnagar",Clinic,Hyderabad,"Oilseeds Qtrs., Himayatnagar",040 23220454,OpenStreetMap,node/6496826427,17.4055917,78.4778255,2026-10-07T05:56:02+00:00
+"CGHS Dispensary No.X,Ameerpet",Clinic,Hyderabad,AGS Staff Qtrs.Yousufguda,040 23810449,OpenStreetMap,node/6528159744,17.4498216,78.4306334,2026-10-07T05:56:02+00:00
+"CGHS Dispensary No.XIII, Tarnaka",Clinic,Hyderabad,"St.No.5, Tarnaka",040 27019223,OpenStreetMap,node/6528174730,17.4266927,78.5322341,2026-10-07T05:56:02+00:00
+"Urban Primary Health Centre, Doodbowli",Clinic,Hyderabad,"20-1-330, bahadurpura, Near kokabazar",4024576265,OpenStreetMap,node/6543762746,17.355084,78.4615204,2026-10-07T05:56:02+00:00
+HARI AUM Physiotherapy & Pain Relief Clinic,Clinic,Hyderabad,sai babba temple rd,9885908908,OpenStreetMap,node/6598229185,17.3637171,78.5261774,2026-10-07T05:56:02+00:00
+Hyderabad Dental Hospital,Dentist,Hyderabad,"Near Fernandez Hospital, Boggulkunta, Abids",040 40047772; 040 24754140,OpenStreetMap,node/6811748984,17.3919916,78.4799019,2026-10-07T05:56:02+00:00
+Dezy,Dentist,Hyderabad,Raj Bhavan Road,,OpenStreetMap,node/11420427272,17.4263767,78.457579,2026-10-07T05:56:02+00:00
+Sai Dental Clinic,Dentist,Hyderabad,"Adikmet, Road No.3",,OpenStreetMap,node/4319812063,17.4078805,78.5141903,2026-10-07T05:56:02+00:00
+Hasaa Super speciality Dental Hospital,Dentist,Hyderabad,Dilsukhnagar,,OpenStreetMap,node/4764304222,17.3681177,78.5222949,2026-10-07T05:56:02+00:00
+Sai Priyanka Dental Clinic,Dentist,Hyderabad,"4-7-75, Opp. Reliance Trends, HABSIGUDA X ROADS",,OpenStreetMap,node/6811749015,17.418699,78.5426304,2026-10-07T05:56:02+00:00
+M.S. Malik Multi Speciality Dental Clinic,Dentist,Hyderabad,"Raghava Ratna Towers, Chirag Ali Lane, Abids",,OpenStreetMap,node/6811749038,17.39345,78.472396,2026-10-07T05:56:02+00:00
+Sonovision,Electronics Store,Hyderabad,"Sonovision, Punjagutta Junction, 500082",09246663535,OpenStreetMap,node/10279266020,17.4253669,78.4534931,2026-10-07T05:56:02+00:00
+Samsung,Electronics Store,Hyderabad,"Survey No 8 & 9, 1st Floor,, Kothapet, Saroornagar, 500035",+ 91 9177303619,OpenStreetMap,node/11676166203,17.3597459,78.5439215,2026-10-07T05:56:02+00:00
+Tej Kiran Electricals,Electronics Store,Hyderabad,"5-2-270, Hyderbasthi, 500003",+91 98851 28158,OpenStreetMap,node/13678000574,17.4312832,78.4914143,2026-10-07T05:56:02+00:00
+SVR Power Controls,Electronics Store,Hyderabad,"Plot No 205, Road No 6, 500039",+91 9676145931,OpenStreetMap,node/6570905721,17.4224575,78.5658898,2026-10-07T05:56:02+00:00
+Reliance Digital,Electronics Store,Hyderabad,"Nacharam road, 500076",,OpenStreetMap,node/10244211020,17.4303744,78.5534178,2026-10-07T05:56:02+00:00
+Bajaj Electronics,Electronics Store,Hyderabad,Telephone Bhavan Road,,OpenStreetMap,node/6185265085,17.4064793,78.4651371,2026-10-07T05:56:02+00:00
+LakmeSalon Mehdipatnam,Salon,Hyderabad,"10-3-5/1, Asifnagar Road, 500028",+91 9347382348,OpenStreetMap,node/11586710935,17.3943657,78.4416636,2026-10-07T05:56:02+00:00
+AAKAARAA SALON,Salon,Hyderabad,"8-2-112/120, Road No. 2, 500033",8694979999,OpenStreetMap,node/8401350521,17.4253946,78.4218703,2026-10-07T05:56:02+00:00
+Mane'a,Salon,Hyderabad,"Sanjeeva Reddy Nagar Colony Main Road, 500038",090106 82323,OpenStreetMap,node/9094288717,17.4414383,78.4470678,2026-10-07T05:56:02+00:00
+Satyam Saloom,Salon,Hyderabad,"Gautham Nagar, 500047",,OpenStreetMap,node/1437365133,17.4531238,78.5286273,2026-10-07T05:56:02+00:00
+Basil the saloon,Salon,Hyderabad,"9293747114, opp.fruit market.",,OpenStreetMap,node/2019530634,17.3675971,78.534884,2026-10-07T05:56:02+00:00
+Kirthikha Beauty Parlour,Salon,Hyderabad,"Road No 5, 500039",,OpenStreetMap,node/6574777329,17.4210288,78.5663909,2026-10-07T05:56:02+00:00
+velocity fitness zone,Gym,Hyderabad,"8-1-303/45, vivekananda nagar colony , street no.3, 500008",,OpenStreetMap,node/7002815272,17.4061774,78.4011287,2026-10-07T05:56:02+00:00
+Ameerpet,Gym,Hyderabad,Ameerpet,,OpenStreetMap,node/7113495285,17.4387163,78.4481285,2026-10-07T05:56:02+00:00
+GK fitness,Gym,Hyderabad,"13-1-800/2tr, Magra Road",,OpenStreetMap,node/8110741753,17.3777749,78.4603372,2026-10-07T05:56:02+00:00
+Hanuman vhayamsala,Gym,Hyderabad,"Sanath Nagar Main Road, 500018",,OpenStreetMap,node/8110775263,17.4540782,78.447557,2026-10-07T05:56:02+00:00
+LIV IT,Gym,Hyderabad,Prashanth Nagar Main road,,OpenStreetMap,node/8233184800,17.4074687,78.5564944,2026-10-07T05:56:02+00:00
+Qube Gym and fitness centre,Gym,Hyderabad,"2-3-603/70,4th floor, Venkat reddy nagar, 500013",,OpenStreetMap,node/8386159767,17.3859995,78.5285719,2026-10-07T05:56:02+00:00
+Hotel Sanjana Veg-Non Veg,Restaurant,Pune,"DSK Vishwa Road, 411041",08975457602,OpenStreetMap,node/10115879747,18.4472386,73.809127,2026-10-07T05:56:02+00:00
+Gandharva Veg Non Veg,Restaurant,Pune,"DSK Vishwa Road, 411041",07768905151,OpenStreetMap,node/10115879749,18.4469879,73.8090657,2026-10-07T05:56:02+00:00
+Hotel Vardayini,Restaurant,Pune,"Aditya Shagun Road, 411021",+91-7350407999,OpenStreetMap,node/10172993874,18.5197677,73.7785456,2026-10-07T05:56:02+00:00
+California Burrito,Restaurant,Pune,"30-28, Dr Homi Bhabha rd, 411021",020 4855 3727,OpenStreetMap,node/10172993875,18.5195045,73.7785912,2026-10-07T05:56:02+00:00
+Vaishnavi Snacks,Restaurant,Pune,"Shindenagar, Bavdhan,, 411021",+91-09767642070,OpenStreetMap,node/10172993882,18.5123359,73.7820934,2026-10-07T05:56:02+00:00
+Fish curry rice,Restaurant,Pune,411045,+918446018133,OpenStreetMap,node/10278470291,18.551853,73.7927181,2026-10-07T05:56:02+00:00
+Neha cafe,Cafe,Pune,"laxmi road, Golwalkar Guruji Path, 411009",9547516565,OpenStreetMap,node/10313160450,18.489244,73.8484533,2026-10-07T05:56:02+00:00
+Third wave coffee,Cafe,Pune,"Ozone Mall, Anand Park, ITI Road",+91 95298 83500,OpenStreetMap,node/10648169752,18.5562117,73.8089739,2026-10-07T05:56:02+00:00
+Caffee Delicioso,Cafe,Pune,"Caffee Delicioso, Pride Valencia Apartment,, Pancard Club Road, Baner, 411045",+917507657070,OpenStreetMap,node/10686342276,18.5597322,73.7811959,2026-10-07T05:56:02+00:00
+MadyMade Pizza,Cafe,Pune,"Pimple Gurav-Navi Sangvi Road, 411027",07414900543,OpenStreetMap,node/10806884774,18.5776151,73.8156096,2026-10-07T05:56:02+00:00
+Chai High,Cafe,Pune,411041,+919834372320,OpenStreetMap,node/11007174695,18.4650359,73.8339481,2026-10-07T05:56:02+00:00
+Backseat Brews,Cafe,Pune,"Dei Gratia, Viman nagar, 411014",+918888437374,OpenStreetMap,node/11065644757,18.5678173,73.9099372,2026-10-07T05:56:02+00:00
+Hotel Sheetal,Hotel,Pune,"1180, Gopal Krushna Gokhale Path, 411005",+91 20 2553 5165;+91 20 2553 5627;+91 20 2553 5168;+91 20 2553 5149,OpenStreetMap,node/11622266009,18.5276184,73.8427918,2026-10-07T05:56:02+00:00
+Conrad Pune,Hotel,Pune,"7, Mangaldas Road, 411001",+91-20-67456745,OpenStreetMap,node/4304526698,18.5351646,73.8831426,2026-10-07T05:56:02+00:00
+Marriott Suites Pune,Hotel,Pune,"81, Mundhwa Road, 411036",+912067257777,OpenStreetMap,node/4310403862,18.5334614,73.9106668,2026-10-07T05:56:02+00:00
+Westin,Hotel,Pune,411001,+91 20 6721 0000,OpenStreetMap,way/108093162,18.5394176,73.9061274,2026-10-07T05:56:02+00:00
+"Vivanta By Taj - Blue Diamond, Pune",Hotel,Pune,"11, Koregaon Road, Koregaon Park, 411001",+91 20 66025555,OpenStreetMap,way/108093182,18.5382626,73.886456,2026-10-07T05:56:02+00:00
+The Corinthians Club,Hotel,Pune,411060,+91 20 2695 2222,OpenStreetMap,way/125487666,18.4640711,73.9183076,2026-10-07T05:56:02+00:00
+Mayur Agency,Supermarket,Pune,"Hingne Internal Road, 411051",07304657338,OpenStreetMap,node/10108645137,18.4801154,73.8273012,2026-10-07T05:56:02+00:00
+New Govind Traders,Supermarket,Pune,"Hingane Internal Road, 411051",09372227779,OpenStreetMap,node/10108645138,18.4800468,73.8274273,2026-10-07T05:56:02+00:00
+carpet store,Supermarket,Pune,"mian road, Dhomkar Path, 411009",9885467721,OpenStreetMap,node/10313195120,18.4907505,73.8466929,2026-10-07T05:56:02+00:00
+Geeta Watch,Supermarket,Pune,"Shop # 2, Panchratna Palace, Sinhagad Rd, Opp. Abhiruchi Mall Road,, 411041",+919371121232,OpenStreetMap,node/11594268019,18.4627752,73.8146729,2026-10-07T05:56:02+00:00
+MEGA SMART MART,Supermarket,Pune,411014,088559 83572,OpenStreetMap,node/13380368152,18.5494709,73.9155493,2026-10-07T05:56:02+00:00
+Big Bazaar,Supermarket,Pune,411041,+919168650832,OpenStreetMap,node/4287470748,18.46308,73.8165076,2026-10-07T05:56:02+00:00
+Navya Spa,Salon,Pune,"New DP Road, 411007",+91 823 793 9989,OpenStreetMap,node/11546228219,18.5604915,73.8029031,2026-10-07T05:56:02+00:00
+Fit and Fair Beauty Salon,Salon,Pune,"New DP Road, 411007",+91 915 899 1329,OpenStreetMap,node/11546228237,18.5641259,73.8027372,2026-10-07T05:56:02+00:00
+Sai Salon,Salon,Pune,"Shankarao Gaikwad Path, 411007",+91 880 698 4141;+91 915 848 1212,OpenStreetMap,node/11561312658,18.5583257,73.8039164,2026-10-07T05:56:02+00:00
+Robin Men's Salon,Salon,Pune,"Gopal Gayan Samaj Road, 411030",+91 992003528,OpenStreetMap,node/13442739579,18.5083862,73.846609,2026-10-07T05:56:02+00:00
+Habibs,Salon,Pune,"Brahma Vantage A-Block, 4, NDA Pashan Rd, next to Axis Bank, Pakharbaug Society, Ram Nagar, Bavdhan, 411021",+91-7020202841,OpenStreetMap,node/14172868027,18.521074,73.7790728,2026-10-07T05:56:02+00:00
+Cuts & Curls,Salon,Pune,"Shop No. 5, Solitaire 6, NDA Pashan Rd, Ram Nagar, Bavdhan, 411021",+91-07447599588,OpenStreetMap,node/14218829921,18.5237947,73.7805993,2026-10-07T05:56:02+00:00
+White Shine Multispeciality Dental Clinic,Hospital,Pune,"Shope 127,  First Floor, Shubh Gateway, Airport New Road, 411014",+919067440494,OpenStreetMap,node/10755920583,18.5755375,73.9069211,2026-10-07T05:56:02+00:00
+Surya Sahyadri Hospital,Hospital,Pune,Near Shaniwar Wada,02024574232,OpenStreetMap,node/2289294093,18.521259,73.8556767,2026-10-07T05:56:02+00:00
+ONP Leela Hospital,Hospital,Pune,near Hotel Pride,020 6721 6600;020 6721 6699;9373813199,OpenStreetMap,node/6612854042,18.5329215,73.8468085,2026-10-07T05:56:02+00:00
+Meera Hospital,Hospital,Pune,"710 B 4, Opp. Dhobi Ghat, Bhawani Peth, Pune",020 6721 2099;020 6721 2000,OpenStreetMap,node/6612986080,18.5022882,73.8746894,2026-10-07T05:56:02+00:00
+Jagtap Hospital,Hospital,Pune,"Star Diagnostics Centre, Anandnagar,Sinhagad Road, Near Santosh Hall",+912024353046,OpenStreetMap,node/7049524369,18.4774187,73.8237825,2026-10-07T05:56:02+00:00
+Sai Shree Orthopaedic Super Speciality and Joint Replacement Centre,Hospital,Pune,"251/252, Opp Bsnl Tel Exchange, Near Parihar Chowk, Aundh, Near Dav School",+91 968 993 0608;+91 968 993 0612;+91 706 215 7062;+91 20 2588 8600;+91 20 6744 8600,OpenStreetMap,node/7052346355,18.5601581,73.8052712,2026-10-07T05:56:02+00:00
+Shiv Generic Medicine Store,Pharmacy,Pune,411043,+91 77588 96697,OpenStreetMap,node/13314575796,18.4742795,73.8545434,2026-10-07T05:56:02+00:00
+Payal Medical,Pharmacy,Pune,"Shop no 1, Krishna Leela, Apartment, NDA Pashan Rd, Sagar Co-Operative Housing Society, Bavdhan, 411021",+91-9595575566,OpenStreetMap,node/14183028504,18.5171306,73.7806494,2026-10-07T05:56:02+00:00
+Metro Health care,Pharmacy,Pune,"Shop no 4, Padmashree Classic building, near pragati hardware, Sagar Co-Operative Housing Society, Bavdhan, 411021",+91-7972445498,OpenStreetMap,node/14183067281,18.5154582,73.7817614,2026-10-07T05:56:02+00:00
+Pavan Medical & General Stores,Pharmacy,Pune,"Shop No. 2, Padmashri Apartment, Sagar Society, NDA Pashan Road, near HDFC Bank, Bavdhan,, 411021",+91-09823116147,OpenStreetMap,node/14212167089,18.5144982,73.7821617,2026-10-07T05:56:02+00:00
+Shree Krishna Medical,Pharmacy,Pune,"Shop No. 2, Shreevihar Soc., NDA. Road, Dr. Homi Bhabha Rd, Ram Nagar, Bavdhan, 411021",+91-02022951327,OpenStreetMap,node/14218983034,18.5238557,73.7802432,2026-10-07T05:56:02+00:00
+Apollo Pharmacy,Pharmacy,Pune,"Solapur Road, 411040",+91 20 26861583,OpenStreetMap,node/2036734415,18.5063944,73.8990745,2026-10-07T05:56:02+00:00
+Bank of Maharashtra,Bank,Pune,"Shop No 10, Sanjay Ghodawat Institute Building, Plot No 2, Bengaluru - Mumbai Hwy, nearby Odela Housing Society, Vaidehi Enclave, Bavdhan, 411021",18002334526,OpenStreetMap,node/11237872457,18.5116886,73.7722374,2026-10-07T05:56:02+00:00
+Lokmanya Multipurpose Co-Op. Society Ltd.,Bank,Pune,"New DP Road, 411007",+91 915 635 6366,OpenStreetMap,node/11546228216,18.5604701,73.8029297,2026-10-07T05:56:02+00:00
+Union Bank of India,Bank,Pune,"Sagar Co-Operative Housing Society, Bavdhan, 411021",+91-020-22953757,OpenStreetMap,node/14183074598,18.5152385,73.7818472,2026-10-07T05:56:02+00:00
+HDFC Bank,Bank,Pune,"Ground Floor, Sagar CHS, S No 13/2, Plot No 2, NDA Pashan Rd, next to Pizza Hutt, Bavdhan, 411021",18001601,OpenStreetMap,node/14183141055,18.5146482,73.7820674,2026-10-07T05:56:02+00:00
+Canara Bank,Bank,Pune,"SURVEY NO. 339, SARAS CAPITAL, 9/2, DSK Ranwara Rd, near SURYADATTA INSTITUTE, Sunarwadi, Patil Nagar, Bavdhan,, 411021",18001030,OpenStreetMap,node/14211752996,18.5211751,73.7739927,2026-10-07T05:56:02+00:00
+IndusInd Bank,Bank,Pune,"Ground Floor, Shop No.1 to 4""Solitaire 6 Plot No. 3A/1& 3A/2, Ramnagar housing Colony, Bavdhan,, 411021",18602677777,OpenStreetMap,node/14218829918,18.5238245,73.7806172,2026-10-07T05:56:02+00:00
+Goodwill Bakery,Bakery,Pune,"Hingane Internal Road, 411051",09850270096,OpenStreetMap,node/10108645145,18.4793405,73.8287017,2026-10-07T05:56:02+00:00
+Tulsi Sweetmart,Bakery,Pune,"Late Narayanrao Kondiba Jagtap Path, 411051",08010387007,OpenStreetMap,node/10108645155,18.4781092,73.8320344,2026-10-07T05:56:02+00:00
+Ribbons & Balloons Cake Shop,Bakery,Pune,"DSK Vishwa Road, 411041",08669696677,OpenStreetMap,node/10115879739,18.4472532,73.8093634,2026-10-07T05:56:02+00:00
+Jhadhav Bakers,Bakery,Pune,"somwar peth, Station Road, 411011",07057292111,OpenStreetMap,node/13380380302,18.5215409,73.8648312,2026-10-07T05:56:02+00:00
+Regal Bakery,Bakery,Pune,"Prabhat Road, 411004",02032510845,OpenStreetMap,node/1534219869,18.5141066,73.8407679,2026-10-07T05:56:02+00:00
+Diamond Bakery,Bakery,Pune,"Vitthal Rao Shivarkar Marg, 411040",+91 20 26861893,OpenStreetMap,node/2036733298,18.5048115,73.9011924,2026-10-07T05:56:02+00:00
+VitaLife Clinic,Clinic,Pune,"111, Mont-Vert Arcade, Above Icici Atm, Pashan-Sus Road",+912066859900,OpenStreetMap,node/1065057907,18.5424692,73.7907426,2026-10-07T05:56:02+00:00
+Dr. Sulakshane Multispeciality Clinic,Clinic,Pune,"201, Ramchandra Gayakwad Path, 411007",+91 20 2088 4157,OpenStreetMap,node/11539934877,18.5601975,73.8054006,2026-10-07T05:56:02+00:00
+Shree Aaiji Clinic & Diagnostic Center,Clinic,Pune,4,+91 85308 00135,OpenStreetMap,node/12860976282,18.568133,73.7819789,2026-10-07T05:56:02+00:00
+Define Aesthetics,Clinic,Pune,"16 & 17, Tain Square, Fatima Nagar, Vitthalrao Shivarkar Marg, 411040",+918888370371,OpenStreetMap,node/4748299855,18.5026729,73.9011164,2026-10-07T05:56:02+00:00
+Define Aesthetics,Clinic,Pune,"503, 5th Floor, Sai Capital, Senapati Bapat Marg, 411016",+918888370371,OpenStreetMap,node/4748328881,18.5319944,73.830273,2026-10-07T05:56:02+00:00
+Kimaya Skin Clinic,Clinic,Pune,"Sanghvi Kesari Road, 411007",+91 992 244 1228;+91 804 806 0114,OpenStreetMap,node/6111132442,18.5604582,73.8126654,2026-10-07T05:56:02+00:00
+Dental Hub,Dentist,Pune,"A-2, Gopal Hari Deshmukh Marg, 411045",+91 20 6602 0189,OpenStreetMap,node/11276070949,18.5612656,73.7859937,2026-10-07T05:56:02+00:00
+Atharva Multispeciality Dental Clinic,Dentist,Pune,"Baner-Pashan Link Road, 41102",+91 98231 82771,OpenStreetMap,node/12484002401,18.5488577,73.7913268,2026-10-07T05:56:02+00:00
+Clove Dental Clinic,Dentist,Pune,"Saras Capital, above Canara Bank, near Suryadatta College of Management, Sunarwadi, Patil Nagar, Bavdhan, 411021",+91-04038245728,OpenStreetMap,node/14211816319,18.5211983,73.773993,2026-10-07T05:56:02+00:00
+Advanced Dental Care Center,Dentist,Pune,"Destination Centre, 411013",+919373965004,OpenStreetMap,node/2827467012,18.5100712,73.9281663,2026-10-07T05:56:02+00:00
+Dr. Dixit's Dental Speciality Clinic and Implant Centre,Dentist,Pune,"Shop No 17, Royal Tower, Viman Nagar Road, 411014",+91 20 3240 0120,OpenStreetMap,node/2837524768,18.5655529,73.9180392,2026-10-07T05:56:02+00:00
+Dr Rasika's Dental Wellness Centre,Dentist,Pune,"A/8, Kumar Sahawas, Baner Pashan Link Rd, Pune - 411021",+91 7588871443 / (020) 41225502,OpenStreetMap,node/5771102650,18.5481911,73.7933549,2026-10-07T05:56:02+00:00
+Modern Martial Arts Fitness Centre,Gym,Pune,"Office 107A, Someshwar Temple Road",+91 7350854412 / +91 8669828613,OpenStreetMap,node/10261130413,18.548213,73.7934104,2026-10-07T05:56:02+00:00
+Passion Fitness,Gym,Pune,"New DP Road, 411007",+91 776 790 6722,OpenStreetMap,node/11159847782,18.5650613,73.8020965,2026-10-07T05:56:02+00:00
+Kettlebell Gym,Gym,Pune,"Uttamnagar road, 411021",+919765126331,OpenStreetMap,node/11727756196,18.5201001,73.7674981,2026-10-07T05:56:02+00:00
+2N Sports And Fitness,Gym,Pune,"1, MS Kate Chowk,Karmvir Bhaurao Patil Rd, Shivramnagar, Pimple Gurav, 411027",+91-9766-249999,OpenStreetMap,node/12688333385,18.5802366,73.8210425,2026-10-07T05:56:02+00:00
+Fitranger Gym Bavdhan,Gym,Pune,"Paud Road, 411021",+919823096431,OpenStreetMap,node/13020914240,18.5078039,73.7693716,2026-10-07T05:56:02+00:00
+Talwalkars's HIFI GYM,Gym,Pune,"Indrayani Randive Road, 411048",+91 98818 69881,OpenStreetMap,node/13585374301,18.4605936,73.8808399,2026-10-07T05:56:02+00:00
+Unicorn,Electronics Store,Pune,"Jangli Maharaj Path, 411005",+91 20 6604 0738,OpenStreetMap,node/11505392603,18.5246461,73.8496226,2026-10-07T05:56:02+00:00
+Poorvika,Electronics Store,Pune,"Sanghvi Kesari Road, 411007",+91 994 027 9855,OpenStreetMap,node/11561501967,18.5604887,73.8109596,2026-10-07T05:56:02+00:00
+Cromā,Electronics Store,Pune,"Gr & Mezzanine Floor, AG Trade Center NDA Pashan Rd, 411021",+9186579 61898,OpenStreetMap,node/13980303224,18.5229986,73.7797334,2026-10-07T05:56:02+00:00
+Cosmic Refrigeration,Electronics Store,Pune,411041,02024690103,OpenStreetMap,node/3506888185,18.4436516,73.8220801,2026-10-07T05:56:02+00:00
+Namrata Electronics,Electronics Store,Pune,"1st Floor, Sinhagad Road, 411041",+91 20 3233 8501,OpenStreetMap,node/4107176016,18.4684906,73.8191451,2026-10-07T05:56:02+00:00
+Swaroop Computers,Electronics Store,Pune,411052,9890199798,OpenStreetMap,node/5803624700,18.4926766,73.8253871,2026-10-07T05:56:02+00:00

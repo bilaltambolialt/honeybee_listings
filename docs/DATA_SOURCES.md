@@ -8,7 +8,7 @@ Every candidate source was checked (robots.txt, terms of use, technical access) 
 
 | # | Source | Access method | Licence / terms | Rows |
 |---|--------|---------------|-----------------|------|
-| 1 | **OpenStreetMap** | Official Overpass API | ODbL: free reuse with attribution "(c) OpenStreetMap contributors". Fair use ~10,000 requests/day; 6 requests used | 390 |
+| 1 | **OpenStreetMap** | Official Overpass API | ODbL: free reuse with attribution "(c) OpenStreetMap contributors". Fair use ~10,000 requests/day; 6 requests used | 468 |
 | 2 | **Geoapify Places** | Official Places API (free key) | Terms allow results to be *"cache[d], store[d], and redistribute[d]… without any additional limits"*; attribution "Powered by Geoapify". ~156 of 3,000 daily credits used | 390 |
 | 3 | **RBI bank-branch directory** | Open dataset published by Razorpay ([razorpay/ifsc](https://github.com/razorpay/ifsc)), compiled from Reserve Bank of India NEFT/RTGS lists | MIT licence: free to use, copy and publish | 150 |
 

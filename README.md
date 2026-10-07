@@ -2,7 +2,10 @@
 
 A full-stack data pipeline that **collects** business listings from open data sources, **cleans** and de-duplicates them, **stores** them in MySQL through a FastAPI bulk-insert API, and **visualises** city, category and source breakdowns in a React dashboard, with a searchable listings explorer and CSV download.
 
-**928 listings** · **6 cities** (Mumbai, Delhi, Bengaluru, Chennai, Hyderabad, Pune) · **13 categories** · **3 sources**
+**1,006 listings** · **6 cities** (Mumbai, Delhi, Bengaluru, Chennai, Hyderabad, Pune) · **13 categories** · **3 sources**
+
+**Live demo:** [honeybee-listings.vercel.app](https://honeybee-listings.vercel.app) · API docs: [honeybee-listings-api.onrender.com/docs](https://honeybee-listings-api.onrender.com/docs)
+<sub>The API runs on a free plan that sleeps when idle: the first request after a quiet period can take up to a minute.</sub>
 
 ![Dashboard (light mode)](docs/screenshots/dashboard-light.png)
 
@@ -31,6 +34,7 @@ A full-stack data pipeline that **collects** business listings from open data so
 - [Data cleaning](#data-cleaning)
 - [Testing](#testing)
 - [Challenges faced](#challenges-faced)
+- [Deployment](#deployment)
 - [What I would do next](#what-i-would-do-next)
 
 ---
@@ -43,11 +47,11 @@ flowchart LR
         A1[OpenStreetMap<br/>Overpass API] --> R
         A2[Geoapify<br/>Places API] --> R
         A3[RBI bank-branch<br/>directory] --> R
-        R[(data/raw/*.csv<br/>930 rows)]
+        R[(data/raw/*.csv<br/>1,008 rows)]
     end
     subgraph Clean["2. Clean"]
         R --> C[clean_listings.py<br/>+ EDA notebook]
-        C --> CC[(data/clean/<br/>listings_clean.csv<br/>928 rows)]
+        C --> CC[(data/clean/<br/>listings_clean.csv<br/>1,006 rows)]
     end
     subgraph Store["3. Store (backend/)"]
         CC --> L[load_to_api.py] -->|POST /api/listings/bulk| API[FastAPI]
@@ -83,7 +87,7 @@ The brief lists Google Maps, Justdial and Sulekha, and also asks to *"avoid scra
 
 | Source | Method | Licence / terms | Rows |
 |---|---|---|---|
-| **OpenStreetMap** | Official Overpass API (6 requests) | ODbL: free reuse with attribution | 389 |
+| **OpenStreetMap** | Official Overpass API (6 requests) | ODbL: free reuse with attribution | 467 |
 | **Geoapify Places** | Official Places API (free key, ~156 credits) | Results may be cached, stored and redistributed | 389 |
 | **RBI bank-branch directory** | Open dataset ([razorpay/ifsc](https://github.com/razorpay/ifsc)) | MIT | 150 |
 
@@ -118,7 +122,7 @@ data/
 notebooks/cleaning_eda.ipynb Cleaning walkthrough + exploratory analysis
 database/
   schema.sql             Table definition
-  listing_master_dump.sql    Full dump (928 rows)
+  listing_master_dump.sql    Full dump (1,006 rows)
 docs/                    Data sources, design decisions, screenshots
 ```
 
@@ -139,7 +143,7 @@ CREATE USER 'listings_app'@'localhost' IDENTIFIED BY 'choose_a_password';
 GRANT ALL PRIVILEGES ON honeybee_listings.* TO 'listings_app'@'localhost';
 ```
 
-Then load the data. The quickest option restores the full dump (table + 928 rows):
+Then load the data. The quickest option restores the full dump (table + 1,006 rows):
 
 ```bash
 mysql -u listings_app -p honeybee_listings < database/listing_master_dump.sql
@@ -215,8 +219,8 @@ The loader is idempotent: running it again reports every row as skipped.
 ```
 Response: `{"received": 1, "inserted": 1, "skipped": 0}`. Invalid rows return **422** naming the field; a concurrent duplicate insert returns **409**.
 
-**Counts** return `[{"label": "Bengaluru", "count": 155}, ...]`, sorted by count (ties alphabetical).
-**Summary** returns `{"total_listings": 928, "cities": 6, "categories": 13, "sources": 3, "with_phone": 642}`.
+**Counts** return `[{"label": "Bengaluru", "count": 168}, ...]`, sorted by count (ties alphabetical).
+**Summary** returns `{"total_listings": 1006, "cities": 6, "categories": 13, "sources": 3, "with_phone": 691}`.
 **Browse** returns `{"items": [...], "total": 14, "page": 1, "page_size": 25}`, sorted by business name.
 
 ---
@@ -247,13 +251,13 @@ The UNIQUE `dedupe_key` lets the database itself guarantee no duplicates, even a
 
 | Issue | Fix | Effect |
 |---|---|---|
-| 107 different phone formats, several numbers per field | First number kept; prefixes stripped (00, 91, 0); area code added to local numbers; must be 10 digits | 3 standard formats; 22 invalid numbers emptied, never guessed |
+| 112 different phone formats, several numbers per field | First number kept; prefixes stripped (00, 91, 0); area code added to local numbers; must be 10 digits | 3 standard formats; 24 invalid numbers emptied, never guessed |
 | ALL-CAPS bank names and addresses | Title-cased, keeping brands (OYO) and abbreviations (MW) | 162 names, 154 addresses |
-| Redundant ", India", stray spaces and commas | Trimmed | 392 + 99 rows |
+| Redundant ", India", stray spaces and commas | Trimmed | 392 + 105 rows |
 | Duplicates | Exact (same key) and cross-source (same name and city within 150 m) | 2 removed |
 | Names in Indian scripts | English name preferred at collection time | 6 names |
 
-**Result:** 928 rows, 99.7% with an address, 69% with a validated phone number.
+**Result:** 1,006 rows, 99.6% with an address, 69% with a validated phone number.
 
 **Known limitation:** categories come from each source's own tags and are not re-verified. Browsing the data shows a few mis-tagged places (e.g. a skin clinic tagged as a bakery in OpenStreetMap). Fixing these would need a name-based classifier or manual review.
 
@@ -282,9 +286,9 @@ cd frontend; npm run lint; npm run build; cd ..
 ## Challenges faced
 
 1. **The named platforms forbid scraping.** Justdial, Sulekha and Google Maps prohibit automated collection in their terms, and Justdial actively blocks bots. Rather than break the terms, I documented the evidence and used three legal sources (two official APIs and an MIT-licensed government dataset).
-2. **Overlapping sources.** Geoapify builds much of its data on OpenStreetMap. The Geoapify collector matches records by OpenStreetMap id and skips 111 already collected, so the two sources share zero records.
+2. **Overlapping sources.** Geoapify builds much of its data on OpenStreetMap. The Geoapify collector matches records by OpenStreetMap id and skips 126 already collected, so the two sources share zero records.
 3. **Misleading city data in the bank directory.** Small co-operative banks register through a sponsor bank's Mumbai office, so ~1,100 "banks" appeared in Mumbai. Requiring 15+ local branches, an address that matches the city (PIN prefix or name), and dropping toll-free/shared helpline numbers fixed it.
-4. **Phone numbers in 107 formats**, including mixed prefixes (`+91 011 …`), multiple numbers and a spreadsheet-corrupted `1.13E+42`. A single normaliser with a strict "10 digits or empty" rule solved it without inventing data.
+4. **Phone numbers in 112 formats**, including mixed prefixes (`+91 011 …`), multiple numbers and a spreadsheet-corrupted `1.13E+42`. A single normaliser with a strict "10 digits or empty" rule solved it without inventing data.
 5. **Balanced, comparable charts.** OpenStreetMap returned 22,365 matches, Bengaluru alone 8,748. Collectors cap listings per city × category, so charts compare like with like (and the dashboard notes Bank is larger because one source is a bank directory).
 6. **Rate limits and slow networks.** The Overpass API returned HTTP 429 twice; automatic back-off with retries handled it, and the 36 MB bank file is downloaded once into a git-ignored cache.
 7. **Restorable dump with a least-privilege user.** MySQL 9 adds GTID and masking-policy statements that a non-admin user can't restore; the dump uses `--set-gtid-purged=OFF --skip-masking-policies`.
@@ -293,13 +297,25 @@ More detail on every design decision: [docs/DECISIONS.md](docs/DECISIONS.md).
 
 ---
 
+## Deployment
+
+| Part | Host | Notes |
+|---|---|---|
+| Frontend | Vercel | Root directory `frontend`; `VITE_API_BASE_URL` points at the API |
+| API | Render (free web service) | Root directory `backend`; `uvicorn app.main:app --host 0.0.0.0 --port $PORT`; health check `/health` |
+| Database | Aiven for MySQL (free) | TLS required: the CA certificate is provided as a Render secret file and passed via `MYSQL_SSL_CA`, so the API verifies the server certificate |
+
+The hosted database was loaded by restoring `database/listing_master_dump.sql` over a verified TLS connection. `CORS_ORIGINS` on the API lists the Vercel domain.
+
+---
+
 ## What I would do next
 
 - **Category quality check:** flag listings whose name contradicts their category (e.g. "clinic" tagged as a bakery) for review.
 - **Scheduled refresh:** run the collectors on a schedule (e.g. GitHub Actions) and load only new listings.
 - **Fuzzy cross-source matching** on names and addresses (e.g. "Cafe Coffee Day" vs "CCD") to catch duplicates without coordinates.
-- **Deployment:** containerise with Docker Compose (MySQL + API + static frontend).
-- **More cities and phone enrichment** for low-coverage categories such as bakeries (48% have a phone).
+- **Containerised setup:** Docker Compose (MySQL + API + frontend) for one-command local runs.
+- **More cities and phone enrichment** for low-coverage categories such as bakeries (47% have a phone).
 
 ---
 

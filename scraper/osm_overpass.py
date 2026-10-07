@@ -21,7 +21,7 @@ ENDPOINTS = [
 ]
 RADIUS_M = 10_000          # search 10 km around each city centre
 PAUSE_BETWEEN_CITIES = 15  # seconds; avoids HTTP 429 "too many requests" from the free public service
-MAX_PER_GROUP = 5          # keep at most N listings per (city, category) so no category dominates
+MAX_PER_GROUP = 6          # keep at most N listings per (city, category) so no category dominates
 
 # OSM tag -> our category name
 CATEGORY_TAGS: dict[tuple[str, str], str] = {
