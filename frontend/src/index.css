@@ -1,5 +1,418 @@
+/* ---------- Design tokens (light), with dark overrides below ---------- */
+:root {
+  color-scheme: light;
+  --bg: #f3f2ee;
+  --surface: #fcfcfb;
+  --border: #e4e3df;
+  --text: #0b0b0b;
+  --text-secondary: #52514e;
+  --text-muted: #6e6d68;
+  --accent: #2a78d6;
+  --skeleton: #e9e8e3;
+  --radius: 12px;
+  --shadow: 0 1px 2px rgb(0 0 0 / 0.04), 0 1px 1px rgb(0 0 0 / 0.03);
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  line-height: 1.5;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    --bg: #141413;
+    --surface: #1f1f1e;
+    --border: #3a3a37;
+    --text: #ffffff;
+    --text-secondary: #c3c2b7;
+    --text-muted: #a3a29a;
+    --accent: #3987e5;
+    --skeleton: #2b2b29;
+    --shadow: none;
+  }
+}
+
+/* ---------- Base ---------- */
+* {
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
+  background: var(--bg);
+  color: var(--text);
+}
+
+a {
+  color: var(--accent);
+}
+
+code {
+  font-size: 0.9em;
+  padding: 1px 5px;
+  border-radius: 4px;
+  background: var(--skeleton);
+}
+
+/* ---------- Page layout ---------- */
+.page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 32px 24px 24px;
+}
+
+.page-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+h1 {
+  margin: 0 0 4px;
+  font-size: 1.75rem;
+  letter-spacing: -0.01em;
+}
+
+.page-subtitle {
+  margin: 0;
+  max-width: 62ch;
+  color: var(--text-secondary);
+}
+
+.page-footer {
+  margin-top: 32px;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+/* ---------- Cards ---------- */
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+
+.kpis {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 16px;
+  margin-bottom: 16px;
+}
+
+.kpi {
+  padding: 16px 20px;
+  min-height: 104px;
+}
+
+.kpi-label {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+
+.kpi-value {
+  margin-top: 4px;
+  font-size: 2rem;
+  font-weight: 650;
+  line-height: 1.15;
+  font-variant-numeric: tabular-nums;
+}
+
+.kpi-note {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+}
+
+.span-2 {
+  grid-column: span 2;
+}
+
+.span-3 {
+  grid-column: span 3;
+}
+
+.chart-card {
+  padding: 20px;
+  min-width: 0;
+}
+
+.card-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.card-header h2 {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.card-subtitle {
+  margin: 2px 0 0;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+/* ---------- Buttons ---------- */
+.button,
+.toggle {
+  font: inherit;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.button {
+  padding: 8px 16px;
+  border: 1px solid var(--accent);
+  background: var(--accent);
+  color: #ffffff;
+  font-weight: 600;
+}
+
+.button-secondary {
+  background: var(--surface);
+  color: var(--text);
+  border-color: var(--border);
+  white-space: nowrap;
+}
+
+.button:disabled {
+  cursor: default;
+  opacity: 0.6;
+}
+
+.toggle {
+  padding: 4px 10px;
+  font-size: 0.8rem;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--text-secondary);
+}
+
+.button:focus-visible,
+.toggle:focus-visible,
+a:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+/* ---------- Donut + legend ---------- */
+.donut-layout {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.donut-chart {
+  position: relative;
+}
+
+.donut-centre {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  pointer-events: none;
+}
+
+.donut-total {
+  font-size: 1.6rem;
+  font-weight: 650;
+  font-variant-numeric: tabular-nums;
+}
+
+.donut-caption {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+.legend {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 8px;
+}
+
+.legend li {
+  display: grid;
+  grid-template-columns: 12px 1fr auto;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.9rem;
+}
+
+.swatch {
+  width: 12px;
+  height: 12px;
+  border-radius: 3px;
+}
+
+.legend-value {
+  color: var(--text-secondary);
+  font-variant-numeric: tabular-nums;
+}
+
+/* ---------- Tooltip ---------- */
+.tooltip {
+  padding: 8px 12px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgb(0 0 0 / 0.12);
+  font-size: 0.85rem;
+}
+
+.tooltip-label {
+  font-weight: 600;
+}
+
+.tooltip-share {
+  color: var(--text-muted);
+}
+
+/* ---------- Table view ---------- */
+.table-wrap {
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+
+th,
+td {
+  padding: 8px 4px;
+  text-align: left;
+  border-bottom: 1px solid var(--border);
+}
+
+th {
+  font-weight: 600;
+  color: var(--text-secondary);
+}
+
+.num {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+/* ---------- Loading / messages ---------- */
+.skeleton {
+  background: var(--skeleton);
+  border-color: transparent;
+  animation: pulse 1.4s ease-in-out infinite;
+}
+
+.skeleton-chart {
+  height: 320px;
+}
+
+@keyframes pulse {
+  50% {
+    opacity: 0.55;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .skeleton {
+    animation: none;
+  }
+}
+
+.message {
   padding: 24px;
-  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  max-width: 640px;
+}
+
+.message h2 {
+  margin: 0 0 8px;
+  font-size: 1.1rem;
+}
+
+.message p {
+  margin: 0 0 16px;
+  color: var(--text-secondary);
+}
+
+/* ---------- Responsive ---------- */
+@media (max-width: 960px) {
+  .kpis {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .span-2,
+  .span-3 {
+    grid-column: auto;
+  }
+
+  .donut-layout {
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .donut-chart {
+    flex: 0 0 220px;
+  }
+
+  .legend {
+    flex: 1;
+  }
+}
+
+@media (max-width: 600px) {
+  .page {
+    padding: 20px 16px;
+  }
+
+  .page-header {
+    flex-direction: column;
+  }
+
+  h1 {
+    font-size: 1.4rem;
+  }
+
+  .kpis {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+  }
+
+  .kpi {
+    min-height: 0;
+    padding: 12px 16px;
+  }
+
+  .kpi-value {
+    font-size: 1.6rem;
+  }
+
+  .chart-card {
+    padding: 16px;
+  }
+
+  .donut-layout {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .donut-chart {
+    flex: none;
+  }
 }

@@ -27,4 +27,7 @@
 - **English names preferred at collection time:** 6 names in Devanagari/Tamil script were replaced by their `name:en` equivalents in the collectors (not patched by hand), so re-running the pipeline reproduces them.
 - **Loader goes through the API, in batches of 200:** small enough for clear progress and cheap retries, well under the API's 1,000-row cap. Network errors and 409 conflicts are retried; 422 validation errors stop the run because retrying cannot fix bad data.
 - **Verified end to end:** after loading, every dashboard endpoint was compared with counts computed from the CSV (all match: 928 rows, 6 cities, 13 categories, 3 sources, 642 with phone), and a second run inserted 0 rows.
+- **Dashboard chart forms:** bar charts for cities and categories, donut only for sources. A 13-slice pie is unreadable (good practice caps pies at ~8 slices); 3 sources suit a donut and cover the brief's "Bar / Pie".
+- **Consistent, accessible colour:** a validated colour-blind-safe palette, fixed per source across the dashboard and notebook, with separate light and dark steps; every chart has a table view and labelled legend so colour is never the only cue.
+- **Verified visually, not just compiled:** screenshots at 1280 px (light and dark) and a true 390 px phone viewport (0 px horizontal overflow) drove two fixes: round-number axis ticks and a horizontal city chart on phones.
 (Add more as we decide.)
