@@ -1,7 +1,7 @@
 # Decisions and trade-offs (use these in README "Challenges" and in the video)
 
 - **MySQL, not Supabase:** the brief mandates MySQL; Supabase is Postgres, so it would fail the stack requirement.
-- **Sources:** OpenStreetMap Overpass (open data, legal) + a places API + a ToS-permitted directory. Google Maps and Justdial avoided because their terms prohibit scraping and they block bots.
+- **Sources:** OpenStreetMap (Overpass API), Geoapify Places API and the RBI bank-branch directory: all openly licensed or explicitly permitting storage. Google Maps, Justdial and Sulekha avoided because their terms prohibit scraping (see `docs/DATA_SOURCES.md`).
 - **Dedupe key:** sha256 hash column, because a UNIQUE index on long text columns is awkward in MySQL utf8mb4.
 - **Data goes through the Insert API,** not directly into MySQL, to prove the API works end to end.
 - **Single codebase for both roles;** only the submission email and video emphasis differ.
@@ -25,4 +25,6 @@
 - **Phone standard:** first number kept when several are listed; prefixes stripped in dialling order (00, 91, 0); 8-digit local landlines get the city's area code. 107 raw formats became 3 (`+91 98765 43210`, `+91 22 2401 4419`, `+91 XXX XXX XXXX`).
 - **Careful capitalisation:** only ALL-CAPS text is title-cased; a leading single upper-case word is kept (brands such as OYO, VLCC) and vowel-less abbreviations stay upper case.
 - **English names preferred at collection time:** 6 names in Devanagari/Tamil script were replaced by their `name:en` equivalents in the collectors (not patched by hand), so re-running the pipeline reproduces them.
+- **Loader goes through the API, in batches of 200:** small enough for clear progress and cheap retries, well under the API's 1,000-row cap. Network errors and 409 conflicts are retried; 422 validation errors stop the run because retrying cannot fix bad data.
+- **Verified end to end:** after loading, every dashboard endpoint was compared with counts computed from the CSV (all match: 928 rows, 6 cities, 13 categories, 3 sources, 642 with phone), and a second run inserted 0 rows.
 (Add more as we decide.)
