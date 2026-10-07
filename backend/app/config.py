@@ -21,6 +21,8 @@ class Settings(BaseSettings):
     mysql_db: str = "honeybee_listings"
     mysql_user: str = "listings_app"
     mysql_password: str
+    # Path to the CA certificate of a hosted MySQL (e.g. Aiven); enables verified TLS. Unset locally.
+    mysql_ssl_ca: str | None = None
     cors_origins: str = "http://localhost:5173"
 
     @property

@@ -6,10 +6,14 @@ from sqlalchemy.orm import DeclarativeBase, Session, sessionmaker
 
 from app.config import get_settings
 
+settings = get_settings()
+
 engine = create_engine(
-    get_settings().database_url,
+    settings.database_url,
     pool_pre_ping=True,  # transparently replace connections MySQL has closed while idle
     pool_recycle=3600,
+    # Encrypt the connection and verify the server's certificate when a CA file is configured
+    connect_args={"ssl": {"ca": settings.mysql_ssl_ca}} if settings.mysql_ssl_ca else {},
 )
 
 SessionLocal = sessionmaker(bind=engine, autoflush=False, expire_on_commit=False)
