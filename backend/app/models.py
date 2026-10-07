@@ -1,7 +1,7 @@
 """ORM model mapping the listing_master table (defined in database/schema.sql)."""
 from datetime import datetime
 
-from sqlalchemy import CHAR, BigInteger, DateTime, String, func
+from sqlalchemy import CHAR, BigInteger, DateTime, Integer, String, func
 from sqlalchemy.orm import Mapped, mapped_column
 
 from app.database import Base
@@ -10,7 +10,8 @@ from app.database import Base
 class Listing(Base):
     __tablename__ = "listing_master"
 
-    id: Mapped[int] = mapped_column(BigInteger, primary_key=True, autoincrement=True)
+    # BIGINT in MySQL; plain INTEGER under SQLite (used by the tests), which only auto-numbers INTEGER keys
+    id: Mapped[int] = mapped_column(BigInteger().with_variant(Integer, "sqlite"), primary_key=True, autoincrement=True)
     business_name: Mapped[str] = mapped_column(String(255))
     category: Mapped[str] = mapped_column(String(100), index=True)
     city: Mapped[str] = mapped_column(String(100), index=True)
