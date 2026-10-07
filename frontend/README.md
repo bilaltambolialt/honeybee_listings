@@ -1,6 +1,6 @@
 # Frontend: Business Listings Dashboard
 
-React (Vite) dashboard that reads aggregated counts from the FastAPI backend.
+React (Vite) dashboard that reads aggregated counts from the FastAPI backend, plus a listings explorer with filters, search, pagination and CSV download.
 
 ## Run locally
 
@@ -26,7 +26,8 @@ The backend must be running (default `http://localhost:8000`). To point at anoth
 |---|---|
 | `src/api.js` | API client; base URL from `VITE_API_BASE_URL` |
 | `src/useDashboardData.js` | Loads all dashboard endpoints; exposes loading / error / ready state and `reload` |
-| `src/App.jsx` | Page layout: header, KPI cards, chart grid, data credits |
+| `src/App.jsx` | Page layout, Overview / Browse listings tabs (active tab kept in the URL hash, e.g. `#listings`) |
+| `src/components/ListingsView.jsx` | Filters, debounced search, paginated table (stacked cards on phones), CSV download link |
 | `src/components/KpiCards.jsx` | Headline numbers from `/api/dashboard/summary` |
 | `src/components/BarCountChart.jsx` | Bar chart (vertical or horizontal) with value labels and round-number axis |
 | `src/components/SourceDonut.jsx` | Donut of listings per source with a labelled legend |

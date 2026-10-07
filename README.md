@@ -1,17 +1,21 @@
 # Business Listings Dashboard
 
-A full-stack data pipeline that **collects** business listings from open data sources, **cleans** and de-duplicates them, **stores** them in MySQL through a FastAPI bulk-insert API, and **visualises** city, category and source breakdowns in a React dashboard.
+A full-stack data pipeline that **collects** business listings from open data sources, **cleans** and de-duplicates them, **stores** them in MySQL through a FastAPI bulk-insert API, and **visualises** city, category and source breakdowns in a React dashboard, with a searchable listings explorer and CSV download.
 
 **928 listings** · **6 cities** (Mumbai, Delhi, Bengaluru, Chennai, Hyderabad, Pune) · **13 categories** · **3 sources**
 
 ![Dashboard (light mode)](docs/screenshots/dashboard-light.png)
 
 <details>
-<summary>Dark mode and mobile screenshots</summary>
+<summary>Listings explorer, dark mode and mobile screenshots</summary>
+
+**Browse listings:** filter by city, category and source, search by name or address, download the result as CSV.
+
+![Listings explorer](docs/screenshots/listings.png)
 
 ![Dashboard (dark mode)](docs/screenshots/dashboard-dark.png)
 
-<img src="docs/screenshots/dashboard-mobile.png" alt="Dashboard on a phone" width="320">
+<img src="docs/screenshots/dashboard-mobile.png" alt="Dashboard on a phone" width="300"> <img src="docs/screenshots/listings-mobile.png" alt="Listings on a phone" width="300">
 </details>
 
 ---
@@ -50,14 +54,14 @@ flowchart LR
         API --> DB[(MySQL<br/>listing_master)]
     end
     subgraph Show["4. Show (frontend/)"]
-        DB --> API2[FastAPI<br/>GET /api/dashboard/*] --> UI[React + Recharts<br/>dashboard]
+        DB --> API2[FastAPI<br/>GET /api/dashboard/*<br/>GET /api/listings] --> UI[React + Recharts<br/>dashboard + explorer]
     end
 ```
 
 1. **Collect:** three collectors download listings into `data/raw/` with a common column layout.
 2. **Clean:** one script standardises text and phone numbers, validates fields and removes duplicates; the notebook shows every step with before/after evidence.
 3. **Store:** the loader sends the clean data **through the API** (not straight into MySQL), so every row passes the same validation and de-duplication a real client's data would.
-4. **Show:** the dashboard reads aggregated counts from the API; MySQL does the counting with `GROUP BY` on indexed columns.
+4. **Show:** the *Overview* tab reads aggregated counts (MySQL does the counting with `GROUP BY` on indexed columns); the *Browse listings* tab pages through the stored rows with filters and exports them as CSV.
 
 ---
 
@@ -69,7 +73,7 @@ flowchart LR
 | Backend | FastAPI, SQLAlchemy 2, Pydantic v2, PyMySQL, Uvicorn |
 | Database | MySQL 8+ (developed on 9.7), utf8mb4 |
 | Data | Python 3.11+ (developed on 3.14), requests, pandas, Jupyter, matplotlib |
-| Testing | pytest (40 tests), oxlint |
+| Testing | pytest (46 tests), oxlint |
 
 ---
 
@@ -98,7 +102,7 @@ backend/                 FastAPI application
     models.py            listing_master ORM model
     schemas.py           Pydantic request/response models
     dedupe.py            sha256 de-duplication key
-    routers/             health.py, listings.py (bulk insert), dashboard.py (counts)
+    routers/             health.py, listings.py (bulk insert, browse, CSV export), dashboard.py (counts)
   tests/                 API tests (in-memory SQLite)
 frontend/                React + Vite dashboard (see frontend/README.md)
 scraper/                 Data pipeline
@@ -201,6 +205,8 @@ The loader is idempotent: running it again reports every row as skipped.
 | `GET` | `/api/dashboard/categories` | Listing count per category |
 | `GET` | `/api/dashboard/sources` | Listing count per source |
 | `GET` | `/api/dashboard/summary` | Totals for the KPI cards |
+| `GET` | `/api/listings` | Browse stored listings: filters `city`, `category`, `source`, search `q` (name or address), `page`, `page_size` (≤ 100) |
+| `GET` | `/api/listings/export.csv` | Download listings as CSV, with the same filters |
 
 **Bulk insert:** request body is a JSON array of listings:
 ```json
@@ -211,6 +217,7 @@ Response: `{"received": 1, "inserted": 1, "skipped": 0}`. Invalid rows return **
 
 **Counts** return `[{"label": "Bengaluru", "count": 155}, ...]`, sorted by count (ties alphabetical).
 **Summary** returns `{"total_listings": 928, "cities": 6, "categories": 13, "sources": 3, "with_phone": 642}`.
+**Browse** returns `{"items": [...], "total": 14, "page": 1, "page_size": 25}`, sorted by business name.
 
 ---
 
@@ -248,6 +255,8 @@ The UNIQUE `dedupe_key` lets the database itself guarantee no duplicates, even a
 
 **Result:** 928 rows, 99.7% with an address, 69% with a validated phone number.
 
+**Known limitation:** categories come from each source's own tags and are not re-verified. Browsing the data shows a few mis-tagged places (e.g. a skin clinic tagged as a bakery in OpenStreetMap). Fixing these would need a name-based classifier or manual review.
+
 ---
 
 ## Testing
@@ -264,7 +273,7 @@ cd scraper; venv\Scripts\python -m pytest; cd ..
 # Frontend lint + production build
 cd frontend; npm run lint; npm run build; cd ..
 ```
-- **Backend (15 tests):** bulk insert, re-run idempotency, in-batch and case/spacing duplicates, validation errors, batch limit, dashboard counts, ordering, empty database. Runs on in-memory SQLite, so no MySQL is needed.
+- **Backend (21 tests):** bulk insert, re-run idempotency, in-batch and case/spacing duplicates, validation errors, batch limit, dashboard counts and ordering, browse filters/search/pagination, CSV export, empty database. Runs on in-memory SQLite, so no MySQL is needed.
 - **Cleaning (25 tests):** phone normalisation edge cases, invalid numbers, capitalisation rules, de-duplication.
 - **End to end:** after loading, every dashboard endpoint was reconciled against counts computed from the CSV (all match), and the dump was verified by restoring it.
 
@@ -286,7 +295,7 @@ More detail on every design decision: [docs/DECISIONS.md](docs/DECISIONS.md).
 
 ## What I would do next
 
-- **Listings explorer:** a paginated `GET /api/listings` with city/category/source filters and a searchable table in the dashboard.
+- **Category quality check:** flag listings whose name contradicts their category (e.g. "clinic" tagged as a bakery) for review.
 - **Scheduled refresh:** run the collectors on a schedule (e.g. GitHub Actions) and load only new listings.
 - **Fuzzy cross-source matching** on names and addresses (e.g. "Cafe Coffee Day" vs "CCD") to catch duplicates without coordinates.
 - **Deployment:** containerise with Docker Compose (MySQL + API + static frontend).

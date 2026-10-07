@@ -1,4 +1,6 @@
 """Pydantic models: the shape of data entering and leaving the API."""
+from datetime import datetime
+
 from pydantic import BaseModel, ConfigDict, Field, field_validator
 
 
@@ -37,6 +39,30 @@ class BulkInsertResult(BaseModel):
     received: int = Field(description="Rows in the request")
     inserted: int = Field(description="New rows written to MySQL")
     skipped: int = Field(description="Duplicates (within the batch or already stored)")
+
+
+class ListingOut(BaseModel):
+    """One stored listing, as returned by GET /api/listings."""
+
+    model_config = ConfigDict(from_attributes=True)
+
+    id: int
+    business_name: str
+    category: str
+    city: str
+    address: str | None
+    phone: str | None
+    source: str
+    created_at: datetime
+
+
+class ListingPage(BaseModel):
+    """One page of listings plus what the client needs to paginate."""
+
+    items: list[ListingOut]
+    total: int = Field(description="Listings matching the filters (all pages)")
+    page: int
+    page_size: int
 
 
 class CountItem(BaseModel):
