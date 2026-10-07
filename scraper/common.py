@@ -47,7 +47,7 @@ def write_raw_csv(rows: list[dict], filename: str) -> Path:
     RAW_DIR.mkdir(parents=True, exist_ok=True)
     path = RAW_DIR / filename
     with path.open("w", newline="", encoding="utf-8-sig") as f:
-        writer = csv.DictWriter(f, fieldnames=RAW_COLUMNS)
+        writer = csv.DictWriter(f, fieldnames=RAW_COLUMNS, lineterminator="\n")
         writer.writeheader()
         writer.writerows(rows)
     return path

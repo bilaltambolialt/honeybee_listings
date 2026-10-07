@@ -225,7 +225,8 @@ def run_pipeline(df: pd.DataFrame) -> tuple[pd.DataFrame, list[dict]]:
 
 def save(df: pd.DataFrame) -> None:
     CLEAN_PATH.parent.mkdir(parents=True, exist_ok=True)
-    df[OUTPUT_COLUMNS].to_csv(CLEAN_PATH, index=False, encoding="utf-8-sig")
+    # "\n" line endings so the file is byte-identical whichever OS regenerates it
+    df[OUTPUT_COLUMNS].to_csv(CLEAN_PATH, index=False, encoding="utf-8-sig", lineterminator="\n")
 
 
 def main() -> None:
